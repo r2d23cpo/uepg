@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "uEpgUI", "uEpgUI\uEpgUI.vcproj", "{DDAD6833-2C0E-43F4-B9C5-D1FD7E65984A}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "uEPG", "..\uEPG\uEPG\uEPG.vcproj", "{75EAF213-EDCE-4FA4-80DB-E0BB7583207C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "uEpgDb", "..\uEpgDb\uEpgDb.vcproj", "{5F680B43-3F28-49F7-AC7D-8033E8DC6290}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDAD6833-2C0E-43F4-B9C5-D1FD7E65984A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DDAD6833-2C0E-43F4-B9C5-D1FD7E65984A}.Debug|Win32.Build.0 = Debug|Win32
+		{DDAD6833-2C0E-43F4-B9C5-D1FD7E65984A}.Release|Win32.ActiveCfg = Release|Win32
+		{DDAD6833-2C0E-43F4-B9C5-D1FD7E65984A}.Release|Win32.Build.0 = Release|Win32
+		{75EAF213-EDCE-4FA4-80DB-E0BB7583207C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{75EAF213-EDCE-4FA4-80DB-E0BB7583207C}.Debug|Win32.Build.0 = Debug|Win32
+		{75EAF213-EDCE-4FA4-80DB-E0BB7583207C}.Release|Win32.ActiveCfg = Release|Win32
+		{75EAF213-EDCE-4FA4-80DB-E0BB7583207C}.Release|Win32.Build.0 = Release|Win32
+		{5F680B43-3F28-49F7-AC7D-8033E8DC6290}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5F680B43-3F28-49F7-AC7D-8033E8DC6290}.Debug|Win32.Build.0 = Debug|Win32
+		{5F680B43-3F28-49F7-AC7D-8033E8DC6290}.Release|Win32.ActiveCfg = Release|Win32
+		{5F680B43-3F28-49F7-AC7D-8033E8DC6290}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

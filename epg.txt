@@ -1,0 +1,6286 @@
+BeforeChannelChange()
+AfterChannelChange()
+wSat: 2780
+wNetId: 256
+wSId: 242
+wEventId: 28947
+dwStartTime: 1218513600
+dwDuration: 10800
+EventName: Olympics
+ShortDescr: 
+ExtendedDescr: Sports. Beach Volleyball (Preliminaries); Diving (Women's Syncro 10m Platform). (CC) 
+
+wSat: 2780
+wNetId: 256
+wSId: 263
+wEventId: 2956
+dwStartTime: 1218509940
+dwDuration: 3600
+EventName: Info d'échange de carte-à-puce
+ShortDescr: 
+ExtendedDescr: -. Il ce peut que vous recevez des nouvelles cartes-à-puces par la poste pour vos récepteur(s). Appuyez Select pour le plus d'information.
+
+wSat: 2780
+wNetId: 256
+wSId: 263
+wEventId: 2957
+dwStartTime: 1218513540
+dwDuration: 3600
+EventName: Smartcard Swap (Info)
+ShortDescr: 
+ExtendedDescr: -. You may be receiving new smartcard(s) in the mail for some or all of your satellite
+
+wSat: 2780
+wNetId: 256
+wSId: 331
+wEventId: 20210
+dwStartTime: 1218510000
+dwDuration: 3600
+EventName: Shortslam
+ShortDescr: 
+ExtendedDescr: Series. Showcasing viewers' favorite shorts.
+
+wSat: 2780
+wNetId: 256
+wSId: 331
+wEventId: 20211
+dwStartTime: 1218513600
+dwDuration: 3600
+EventName: Kiss Kiss, Bang Bang
+ShortDescr: 
+ExtendedDescr: Series. Shorts include: 'Waterloo Dentures,' 'Milk,' 'Miss Russia,' 'Globos (Balloons)' and 'Fool's Gold.'
+
+wSat: 2780
+wNetId: 256
+wSId: 362
+wEventId: 24641
+dwStartTime: 1218510000
+dwDuration: 6300
+EventName: Vantage Point (5.1)
+ShortDescr: 
+ExtendedDescr: Movie. Forest Whitaker, Matthew Fox, Dennis Quaid.  (2008) Action packed - will keep you guessing!  Five points-of-view are woven together to unlock the truth behind an attempted assassination.(41856) (CC) 
+
+wSat: 2780
+wNetId: 256
+wSId: 362
+wEventId: 24642
+dwStartTime: 1218516300
+dwDuration: 900
+EventName: FREE Pre-Vu! Vantage Point
+ShortDescr: 
+ExtendedDescr: -.  (2008) Watch a FREE preview of Vantage Point coming up next! Scroll ahead on your guide to purchase this movie.
+
+wSat: 2780
+wNetId: 256
+wSId: 379
+wEventId: 23352
+dwStartTime: 1218510000
+dwDuration: 6300
+EventName: Untraceable
+ShortDescr: 
+ExtendedDescr: Movie. Diane Lane, Colin Hanks, Billy Burke.  (2008) When an FBI Agent becomes the target of a twisted internet predator,her team races to track down the untraceable killer!(42152) (CC)  (Stereo)
+
+wSat: 2780
+wNetId: 256
+wSId: 379
+wEventId: 23353
+dwStartTime: 1218516300
+dwDuration: 900
+EventName: FREE Pre-Vu! Untraceable
+ShortDescr: 
+ExtendedDescr: -.  (2008) Watch a FREE preview of Untraceable coming up next! Scroll ahead on your guide to purchase this movie.
+
+wSat: 2780
+wNetId: 256
+wSId: 392
+wEventId: 19172
+dwStartTime: 1218506400
+dwDuration: 7200
+EventName: US College Sports Package(INFO)
+ShortDescr: 
+ExtendedDescr: -. Stay tuned for details on the upcoming 2008-2009 season.
+
+wSat: 2780
+wNetId: 256
+wSId: 392
+wEventId: 19173
+dwStartTime: 1218513600
+dwDuration: 7200
+EventName: US College Sports Package(INFO)
+ShortDescr: 
+ExtendedDescr: -. Stay tuned for details on the upcoming 2008-2009 season.
+
+wSat: 2780
+wNetId: 256
+wSId: 401
+wEventId: 25025
+dwStartTime: 1218510000
+dwDuration: 3600
+EventName: Hot Body: Short Shorts Contest
+ShortDescr: 
+ExtendedDescr: Series. See why we call Eden, Debi, Andrea, Renee Ryan, Karissa, Liz Leighton, Tanya Danielle and Bambi private dance experts.(42184) (CC)  (Stereo)
+
+wSat: 2780
+wNetId: 256
+wSId: 401
+wEventId: 25026
+dwStartTime: 1218513600
+dwDuration: 3600
+EventName: Naked News Eps. #123
+ShortDescr: 
+ExtendedDescr: News. In this episode of Naked News Katherine Curtis, goes Naked In The Streets to find how social networking sites have impacted peoples lives.(42185) (CC)  (Stereo)
+
+wSat: 2780
+wNetId: 256
+wSId: 457
+wEventId: 18531
+dwStartTime: 1218506400
+dwDuration: 7200
+EventName: Off Air-NFL Sunday Ticket(INFO)
+ShortDescr: 
+ExtendedDescr: -. Stay tuned for details on the upcoming 2008-2009 season.
+
+wSat: 2780
+wNetId: 256
+wSId: 457
+wEventId: 18532
+dwStartTime: 1218513600
+dwDuration: 7200
+EventName: Off Air-NFL Sunday Ticket(INFO)
+ShortDescr: 
+ExtendedDescr: -. Stay tuned for details on the upcoming 2008-2009 season.
+
+wSat: 2780
+wNetId: 256
+wSId: 509
+wEventId: 21618
+dwStartTime: 1218510000
+dwDuration: 3600
+EventName: Mad Money
+ShortDescr: 
+ExtendedDescr: Series. Radio personality Jim Cramer brings his investing smarts to prime-time television.
+
+wSat: 2780
+wNetId: 256
+wSId: 509
+wEventId: 21619
+dwStartTime: 1218513600
+dwDuration: 3600
+EventName: Capitol Connection
+ShortDescr: 
+ExtendedDescr: Series. 
+
+wSat: 2780
+wNetId: 256
+wSId: 524
+wEventId: 23754
+dwStartTime: 1218510000
+dwDuration: 3600
+EventName: China's Great Wall
+ShortDescr: 
+ExtendedDescr: Mongol Invaders
+ Series. Part 1 of a two-part special examining the construction of the Great Wall of China. [Avail. in HD on 828] (CC)  (Stereo)
+
+wSat: 2780
+wNetId: 256
+wSId: 524
+wEventId: 23755
+dwStartTime: 1218513600
+dwDuration: 3600
+EventName: Inside
+ShortDescr: 
+ExtendedDescr: Hong Kong's Big Bang
+ Series. Examining 2006 preparations in Hong Kong to celebrate the Year of the Dog [Avail. in HD on 828] (CC)  (Stereo)
+
+wSat: 2780
+wNetId: 256
+wSId: 599
+wEventId: 14583
+dwStartTime: 1218510000
+dwDuration: 1800
+EventName: Rocket Robin Hood
+ShortDescr: 
+ExtendedDescr: Children. Robin's relative fights for justice in the year 3000 AD.
+
+wSat: 2780
+wNetId: 256
+wSId: 599
+wEventId: 14584
+dwStartTime: 1218511800
+dwDuration: 1800
+EventName: Raccoons
+ShortDescr: 
+ExtendedDescr: Children. Three adventurous raccoons cope with living in a new environment. (CC) 
+
+wSat: 2780
+wNetId: 256
+wSId: 963
+wEventId: 4916
+dwStartTime: 1218502800
+dwDuration: 14400
+EventName: Classical 96.3 FM Toronto
+ShortDescr: 
+ExtendedDescr: Music. Classical Toronto
+
+wSat: 2780
+wNetId: 256
+wSId: 963
+wEventId: 4917
+dwStartTime: 1218517200
+dwDuration: 14400
+EventName: Classical 96.3 FM Toronto
+ShortDescr: 
+ExtendedDescr: Music. Classical Toronto
+
+wSat: 2780
+wNetId: 256
+wSId: 8457
+wEventId: 4915
+dwStartTime: 1218502800
+dwDuration: 14400
+EventName: Off Air
+ShortDescr: 
+ExtendedDescr: Off Air
+ -. Off Air
+
+wSat: 2780
+wNetId: 256
+wSId: 8457
+wEventId: 4916
+dwStartTime: 1218517200
+dwDuration: 14400
+EventName: Off Air
+ShortDescr: 
+ExtendedDescr: Off Air
+ -. Off Air
+
+wSat: 2780
+wNetId: 256
+wSId: 77
+wEventId: 21182
+dwStartTime: 1218510000
+dwDuration: 3600
+EventName: Described Video (INFO)
+ShortDescr: 
+ExtendedDescr: Described Video (INFO)
+ -. DV assists those visually impaired by adding additional audio describing the program. Please scroll ahead for more listings with Described Video. (CC)  (Stereo)
+
+wSat: 2780
+wNetId: 256
+wSId: 77
+wEventId: 21183
+dwStartTime: 1218513600
+dwDuration: 3600
+EventName: Described Video (INFO)
+ShortDescr: 
+ExtendedDescr: Described Video (INFO)
+ -. DV assists those visually impaired by adding additional audio describing the program. Please scroll ahead for more listings with Described Video. (CC)  (Stereo)
+
+wSat: 2780
+wNetId: 256
+wSId: 117
+wEventId: 19764
+dwStartTime: 1218510000
+dwDuration: 1800
+EventName: Le coeur a ses raisons
+ShortDescr: 
+ExtendedDescr: À la recherche de Brett
+ Séries. Atterrée par la disparition de Brett, Criquette remue mer et monde afin de le retrouver.
+
+wSat: 2780
+wNetId: 256
+wSId: 117
+wEventId: 19765
+dwStartTime: 1218511800
+dwDuration: 7200
+EventName: Amoureux fou
+ShortDescr: 
+ExtendedDescr: Amoureux fou
+ Film. Remy Girard, Nathalie gascon, Jean Rochefort.  (1991) Un publicitaire marié s'engage dans une idylle avec une actrice en vue.
+
+wSat: 2780
+wNetId: 256
+wSId: 196
+wEventId: 10131
+dwStartTime: 1218510000
+dwDuration: 1800
+EventName: CTV/CBC News (Press Info)
+ShortDescr: 
+ExtendedDescr: -. CTV Ottawa News wkdays at 6am,12pm, 6pm & 11:30pm & wknds at 6pm & 11:30pmET. CBC Fredericton News wkdays at 6pmAT & Canada AM wkdays at 6:30amET.
+
+wSat: 2780
+wNetId: 256
+wSId: 196
+wEventId: 10132
+dwStartTime: 1218511800
+dwDuration: 1800
+EventName: CTV Ottawa News
+ShortDescr: 
+ExtendedDescr: -. Regional news from Ottawa.
+
+wSat: 2780
+wNetId: 256
+wSId: 208
+wEventId: 29288
+dwStartTime: 1218492300
+dwDuration: 21300
+EventName: Olympics
+ShortDescr: 
+ExtendedDescr: Sports. Gymnastics (Men's Team Final); Swimming (Various Semifinals and Finals); Volleyball (Men's Preliminaries). [Avail. in HD on 802] (CC) 
+
+wSat: 2780
+wNetId: 256
+wSId: 208
+wEventId: 29290
+dwStartTime: 1218513600
+dwDuration: 10800
+EventName: Olympics
+ShortDescr: 
+ExtendedDescr: Sports. Beach Volleyball (Preliminaries); Diving (Women's Syncro 10m Platform). [Avail. in HD on 802] (CC) 
+
+wSat: 2780
+wNetId: 256
+wSId: 239
+wEventId: 25540
+dwStartTime: 1218510000
+dwDuration: 3600
+EventName: High School/Picture
+ShortDescr: 
+ExtendedDescr: Connect
+ Series. The contestants learn to communicate without words and break off into couples to perform duets. (CC)  (Stereo)
+
+wSat: 2780
+wNetId: 256
+wSId: 239
+wEventId: 25541
+dwStartTime: 1218513600
+dwDuration: 3600
+EventName: CSI: Miami
+ShortDescr: 
+ExtendedDescr: You May Now Kill the Bride
+ Series. David Caruso, Emily Procter, Adam Rodriguez. A wedding murder sends the team to a strip club. (CC)  (Stereo)
+
+wSat: 2780
+wNetId: 256
+wSId: 298
+wEventId: 27423
+dwStartTime: 1218510000
+dwDuration: 3600
+EventName: Gossip Girl
+ShortDescr: 
+ExtendedDescr: All About My Brother
+ Series. Blake Lively, Leighton Meester, Chance Crawford. Georgina (Michelle Trachtenberg) threatens to reveal information from Serena's past (CC)  (Stereo)
+
+wSat: 2780
+wNetId: 256
+wSId: 298
+wEventId: 27424
+dwStartTime: 1218513600
+dwDuration: 3600
+EventName: One Tree Hill
+ShortDescr: 
+ExtendedDescr: Crying Won't Help You Now
+ Series. Chad Michael Murray, James Lafferty, Hilarie Burton. Lucas investigates Dan's heart condition; Brooke juggles life as a new mother; Mouth gets a chance to be a sports anchor. (CC)  (Stereo)
+
+wSat: 2780
+wNetId: 256
+wSId: 317
+wEventId: 18035
+dwStartTime: 1218506400
+dwDuration: 7200
+EventName: Tomorrow on Red Carpet! (INFO)
+ShortDescr: 
+ExtendedDescr: -. Tune into channels 308 - 315 tomorrow to catch Drillbit Taylor starting every 15 minutes on Red Carpet Vu!
+
+wSat: 2780
+wNetId: 256
+wSId: 317
+wEventId: 18036
+dwStartTime: 1218513600
+dwDuration: 7200
+EventName: Tomorrow on Red Carpet! (INFO)
+ShortDescr: 
+ExtendedDescr: -. Tune into channels 308 - 315 tomorrow to catch Drillbit Taylor starting every 15 minutes on Red Carpet Vu!
+
+wSat: 2780
+wNetId: 256
+wSId: 347
+wEventId: 4726
+dwStartTime: 1218506400
+dwDuration: 7200
+EventName: Tomorrow on Red Carpet! (INFO)
+ShortDescr: 
+ExtendedDescr: -. Tune into channels 308 - 315 tomorrow to catch Drillbit Taylor starting every 15 minutes on Red Carpet Vu!
+
+wSat: 2780
+wNetId: 256
+wSId: 347
+wEventId: 4720
+dwStartTime: 1218513600
+dwDuration: 7200
+EventName: Tomorrow on Red Carpet! (INFO)
+ShortDescr: 
+ExtendedDescr: -. Tune into channels 308 - 315 tomorrow to catch Drillbit Taylor starting every 15 minutes on Red Carpet Vu!
+
+wSat: 2780
+wNetId: 256
+wSId: 363
+wEventId: 25164
+dwStartTime: 1218509100
+dwDuration: 5400
+EventName: Superhero Movie - Extended (5.1)
+ShortDescr: 
+ExtendedDescr: Movie. Leslie Nielsen, Pamela Anderson, Tracy Morgan.  (2008) Extended version not seen in theatres! From Spider-Man to the Fantastic 4, this hilarious spoof takes aim at hit superhero films! (Widescreen)(41868) (CC) 
+
+wSat: 2780
+wNetId: 256
+wSId: 363
+wEventId: 25165
+dwStartTime: 1218514500
+dwDuration: 900
+EventName: FREE Pre-Vu! Superhero Movie-Ext
+ShortDescr: 
+ExtendedDescr: -.  (2008) Watch a FREE preview of Superhero Movie - Extended Version coming up next! Scroll ahead on your guide to purchase this movie.
+
+wSat: 2780
+wNetId: 256
+wSId: 368
+wEventId: 21517
+dwStartTime: 1218510000
+dwDuration: 6300
+EventName: National Lampoon's Bag Boy
+ShortDescr: 
+ExtendedDescr: Movie. Brooke Shields, Dennis Farina, Paul Campbell.  (2008) A 'bags to riches' comedy, as a lowly grocery clerk competes to win the bagging championships and the girl of his dreams. (Widescreen)(41929) (CC)  (Stereo)
+
+wSat: 2780
+wNetId: 256
+wSId: 368
+wEventId: 21518
+dwStartTime: 1218516300
+dwDuration: 900
+EventName: FREE Pre-Vu! Drillbit Taylor
+ShortDescr: 
+ExtendedDescr: -.  (2008) Watch a FREE preview of Drillbit Taylor coming up next! Scroll ahead on your guide to purchase this movie.
+
+wSat: 2780
+wNetId: 256
+wSId: 378
+wEventId: 23523
+dwStartTime: 1218510000
+dwDuration: 6300
+EventName: Mad Money
+ShortDescr: 
+ExtendedDescr: Movie. Katie Holmes, Queen Latifah, Diane Keaton.  (2008) Three ordinary female employees of the Federal Reserve plot to rob one of the most secure banks in the world! (Widescreen)(42140) (CC)  (Stereo)
+
+wSat: 2780
+wNetId: 256
+wSId: 378
+wEventId: 23524
+dwStartTime: 1218516300
+dwDuration: 900
+EventName: FREE Pre-Vu! Mad Money
+ShortDescr: 
+ExtendedDescr: -.  (2008) Watch a FREE preview of Mad Money coming up next! Scroll ahead on your guide to purchase this movie.
+
+wSat: 2780
+wNetId: 256
+wSId: 393
+wEventId: 19024
+dwStartTime: 1218506400
+dwDuration: 7200
+EventName: US College Sports Package(INFO)
+ShortDescr: 
+ExtendedDescr: -. Stay tuned for details on the upcoming 2008-2009 season.
+
+wSat: 2780
+wNetId: 256
+wSId: 393
+wEventId: 19025
+dwStartTime: 1218513600
+dwDuration: 7200
+EventName: US College Sports Package(INFO)
+ShortDescr: 
+ExtendedDescr: -. Stay tuned for details on the upcoming 2008-2009 season.
+
+wSat: 2780
+wNetId: 256
+wSId: 402
+wEventId: 18407
+dwStartTime: 1218510000
+dwDuration: 1800
+EventName: WWE Summerslam This Sunday!
+ShortDescr: 
+ExtendedDescr: -.  (2008) Ch.401- WWE Summerslam this Sunday at 8pmET (available in HD ch.831); King of the Cage Aug.29th at 10pmET!
+
+wSat: 2780
+wNetId: 256
+wSId: 402
+wEventId: 18408
+dwStartTime: 1218511800
+dwDuration: 1800
+EventName: WWE Summerslam This Sunday!
+ShortDescr: 
+ExtendedDescr: -.  (2008) Ch.401- WWE Summerslam this Sunday at 8pmET (available in HD ch.831); King of the Cage Aug.29th at 10pmET!
+
+wSat: 2780
+wNetId: 256
+wSId: 458
+wEventId: 18521
+dwStartTime: 1218506400
+dwDuration: 7200
+EventName: Off Air-NFL Sunday Ticket(INFO)
+ShortDescr: 
+ExtendedDescr: -. Stay tuned for details on the upcoming 2008-2009 season.
+
+wSat: 2780
+wNetId: 256
+wSId: 458
+wEventId: 18522
+dwStartTime: 1218513600
+dwDuration: 7200
+EventName: Off Air-NFL Sunday Ticket(INFO)
+ShortDescr: 
+ExtendedDescr: -. Stay tuned for details on the upcoming 2008-2009 season.
+
+wSat: 2780
+wNetId: 256
+wSId: 558
+wEventId: 45156
+dwStartTime: 1218510000
+dwDuration: 1800
+EventName: Supernova
+ShortDescr: 
+ExtendedDescr: Series. A British astronomer starts a new life working in the Australian outback. (Stereo)
+
+wSat: 2780
+wNetId: 256
+wSId: 558
+wEventId: 45157
+dwStartTime: 1218511800
+dwDuration: 1800
+EventName: My Hero
+ShortDescr: 
+ExtendedDescr: Series. A mild-mannered shop owner moonlights as a superhero. (Stereo)
+
+wSat: 2780
+wNetId: 256
+wSId: 620
+wEventId: 19222
+dwStartTime: 1218510000
+dwDuration: 3600
+EventName: Law & Order
+ShortDescr: 
+ExtendedDescr: Turnaround -- Trilogy, Part 2
+ Series. Jesse L. Martin, Sam Waterston, S. Epatha Merkerson. Part 2 of three. The victim's ex-husband (Scott Cohen) becomes the primary suspect, but his arrest is delayed when he checks into a rehab centre (CC) 
+
+wSat: 2780
+wNetId: 256
+wSId: 620
+wEventId: 19223
+dwStartTime: 1218513600
+dwDuration: 3600
+EventName: Without a Trace
+ShortDescr: 
+ExtendedDescr: Blood Out
+ Series. Anthony LaPaglia, Poppy Montgomery, Marianne Jean-Baptiste. A paramedic disappears from a hospital shortly after successfully treating a young thug, who killed a rival gang member (CC) 
+
+wSat: 2780
+wNetId: 256
+wSId: 635
+wEventId: 28973
+dwStartTime: 1218510000
+dwDuration: 3600
+EventName: X-Weighted
+ShortDescr: 
+ExtendedDescr: Angela J
+ Series. A woman feels losing weight will help her find a boyfriend. (Stereo)
+
+wSat: 2780
+wNetId: 256
+wSId: 635
+wEventId: 28974
+dwStartTime: 1218513600
+dwDuration: 3600
+EventName: Waterloo Road
+ShortDescr: 
+ExtendedDescr: 301
+ Series. After Izzie's murder, the school tries to welcome new students. (Stereo)
+
+wSat: 2780
+wNetId: 256
+wSId: 779
+wEventId: 4915
+dwStartTime: 1218502800
+dwDuration: 14400
+EventName: Press SELECT to buy Playboy TV
+ShortDescr: 
+ExtendedDescr: -. Interested in purchasing After Hours? Add channels and services directly to your account with your remote!
+
+wSat: 2780
+wNetId: 256
+wSId: 779
+wEventId: 4916
+dwStartTime: 1218517200
+dwDuration: 14400
+EventName: Press SELECT to buy Playboy TV
+ShortDescr: 
+ExtendedDescr: -. Interested in purchasing After Hours? Add channels and services directly to your account with your remote!
+
+wSat: 2780
+wNetId: 256
+wSId: 8458
+wEventId: 4915
+dwStartTime: 1218502800
+dwDuration: 14400
+EventName: Off Air
+ShortDescr: 
+ExtendedDescr: Off Air
+ -. Off Air
+
+wSat: 2780
+wNetId: 256
+wSId: 8458
+wEventId: 4916
+dwStartTime: 1218517200
+dwDuration: 14400
+EventName: Off Air
+ShortDescr: 
+ExtendedDescr: Off Air
+ -. Off Air
+
+wSat: 2780
+wNetId: 256
+wSId: 9851
+wEventId: 4915
+dwStartTime: 1218502800
+dwDuration: 14400
+EventName: Press SELECT to add channels
+ShortDescr: 
+ExtendedDescr: News. Interested in purchasing additional programming? Add channels and services directly to your account with your remote!
+
+wSat: 2780
+wNetId: 256
+wSId: 9851
+wEventId: 4916
+dwStartTime: 1218517200
+dwDuration: 14400
+EventName: Press SELECT to add channels
+ShortDescr: 
+ExtendedDescr: News. Interested in purchasing additional programming? Add channels and services directly to your account with your remote!
+
+wSat: 2780
+wNetId: 256
+wSId: 72
+wEventId: 4223
+dwStartTime: 1218510000
+dwDuration: 2100
+EventName: Described Video (Info)
+ShortDescr: 
+ExtendedDescr: -. DV assists those visually impaired by adding additional audio describing the program. Please scroll ahead for more listings with Described Video.
+
+wSat: 2780
+wNetId: 256
+wSId: 72
+wEventId: 4217
+dwStartTime: 1218512100
+dwDuration: 7200
+EventName: DV-Killer Bees
+ShortDescr: 
+ExtendedDescr: Killer Bees
+ Movie. C. Thomas Howell, Fiona Loewi, Emily Tennant.  (2002) A sheriff with a fear of bees tries to save his community from a swam of the insects that is killing people in the area. (CC) 
+
+wSat: 2780
+wNetId: 256
+wSId: 88
+wEventId: 11235
+dwStartTime: 1218502800
+dwDuration: 14400
+EventName: Described Video (Info)
+ShortDescr: 
+ExtendedDescr: -. DV assists those visually impaired by adding additional audio describing the program. Please scroll ahead for more listings with Described Video.
+
+wSat: 2780
+wNetId: 256
+wSId: 88
+wEventId: 11236
+dwStartTime: 1218517200
+dwDuration: 14400
+EventName: Described Video (Info)
+ShortDescr: 
+ExtendedDescr: -. DV assists those visually impaired by adding additional audio describing the program. Please scroll ahead for more listings with Described Video.
+
+wSat: 2780
+wNetId: 256
+wSId: 100
+wEventId: 23055
+dwStartTime: 1218504600
+dwDuration: 12600
+EventName: Jeux Olympiques de Pékin 2008
+ShortDescr: 
+ExtendedDescr: Sports. Finales de gymnastique masculine, Demi-finales et finales de natation, water-polo masculin, basket-b. (CC) 
+
+wSat: 2780
+wNetId: 256
+wSId: 100
+wEventId: 23056
+dwStartTime: 1218517200
+dwDuration: 18000
+EventName: Fin des émissions
+ShortDescr: 
+ExtendedDescr: Fin des émissions
+ -. Fin des émissions
+
+wSat: 2780
+wNetId: 256
+wSId: 158
+wEventId: 5382
+dwStartTime: 1218502800
+dwDuration: 14400
+EventName: Le retour de BranVan 3000!
+ShortDescr: 
+ExtendedDescr: -. Bran Van 3000 sont de retour après 8 ans d'absence! Revivez ce concert électrifiant enregistré cet été au FIJM! Lundi et vendredi à 20h. 173.
+
+wSat: 2780
+wNetId: 256
+wSId: 158
+wEventId: 5383
+dwStartTime: 1218517200
+dwDuration: 14400
+EventName: Le retour de BranVan 3000!
+ShortDescr: 
+ExtendedDescr: -. Bran Van 3000 sont de retour après 8 ans d'absence! Revivez ce concert électrifiant enregistré cet été au FIJM! Lundi et vendredi à 20h. 173.
+
+wSat: 2780
+wNetId: 256
+wSId: 162
+wEventId: 23227
+dwStartTime: 1218505500
+dwDuration: 7200
+EventName: L'Âge des ténèbres, v.o.
+ShortDescr: 
+ExtendedDescr: Film. Marc Labrèche, Diane Kruger, Christian Begin.  (2007) L'Âge des ténèbres clôt la trilogie entamée par Denys Arcand. Dans ce film, un fonctionnaire s'évade dans le rêve pour oublier le quotidien.(42356) (CC)  (Stereo)
+
+wSat: 2780
+wNetId: 256
+wSId: 162
+wEventId: 23228
+dwStartTime: 1218512700
+dwDuration: 6300
+EventName: Angles d'attaque
+ShortDescr: 
+ExtendedDescr: Film. Forest Whitaker, Matthew Fox, Dennis Quaid.  (2008) Un agent secret neutralise des criminels voulant commettre un attentat contre le président des É-U.(42357) (CC)  (Stereo)
+
+wSat: 2780
+wNetId: 256
+wSId: 172
+wEventId: 21447
+dwStartTime: 1218505500
+dwDuration: 6300
+EventName: Harold et Kumar 2!
+ShortDescr: 
+ExtendedDescr: Film. John Cho, Kal Penn, Neil Patrick Harris.  (2008) Les nouvelles aventures d'Harold et Kumar. Les 2 amis sont poursuivis après avoir été pris pour des terroristes. (Format panoramique)(42455) (Stereo)
+
+wSat: 2780
+wNetId: 256
+wSId: 172
+wEventId: 21448
+dwStartTime: 1218511800
+dwDuration: 6300
+EventName: L'Amant de ma mère
+ShortDescr: 
+ExtendedDescr: Film.  (2008) Un agent du FBI espionne sa mère libertine qui fréquente un amant lié a un cercle de voleurs d'objets d'art.(42456) (Stereo)
+
+wSat: 2780
+wNetId: 256
+wSId: 184
+wEventId: 4915
+dwStartTime: 1218502800
+dwDuration: 14400
+EventName: Avis sur la programmation-SuperÉcran
+ShortDescr: 
+ExtendedDescr: Nouvelles. Avis sur la programmation SE: Verrouillez la programmation à contenu adulte après 23h00HE. Appuyez 'Select' pour plus de reseignements.
+
+wSat: 2780
+wNetId: 256
+wSId: 184
+wEventId: 4916
+dwStartTime: 1218517200
+dwDuration: 14400
+EventName: Avis sur la programmation-SuperÉcran
+ShortDescr: 
+ExtendedDescr: Nouvelles. Avis sur la programmation SE: Verrouillez la programmation à contenu adulte après 23h00HE. Appuyez 'Select' pour plus de reseignements.
+
+wSat: 2780
+wNetId: 256
+wSId: 209
+wEventId: 23501
+dwStartTime: 1218510000
+dwDuration: 2100
+EventName: News
+ShortDescr: 
+ExtendedDescr: News. A look at the day's top news stories. (CC) 
+
+wSat: 2780
+wNetId: 256
+wSId: 209
+wEventId: 23502
+dwStartTime: 1218512100
+dwDuration: 7200
+EventName: Killer Bees
+ShortDescr: 
+ExtendedDescr: Killer Bees
+ Movie. C. Thomas Howell, Fiona Loewi, Emily Tennant.  (2002) A sheriff with a fear of bees tries to save his community from a swam of the insects that is killing people in the area. (CC) 
+
+wSat: 2780
+wNetId: 256
+wSId: 265
+wEventId: 53450
+dwStartTime: 1218510000
+dwDuration: 3600
+EventName: The View From Here
+ShortDescr: 
+ExtendedDescr: Continuous Journey
+ Series. A film about an Indian immigrant ship turned away from Vancouver in 1914. By filmmaker Ali Kazimi. (CC)  (Stereo)
+
+wSat: 2780
+wNetId: 256
+wSId: 265
+wEventId: 53451
+dwStartTime: 1218513600
+dwDuration: 3600
+EventName: Midsomer Murders
+ShortDescr: 
+ExtendedDescr: Things That Go Bump in the Night --
+ Series. John Nettles, Daniel Casey. Conclusion. The death of Joyce's friend Elizabeth leads to further investigations. (CC)  (Stereo)
+
+wSat: 2780
+wNetId: 256
+wSId: 299
+wEventId: 70
+dwStartTime: 1218502800
+dwDuration: 14400
+EventName: Olympics CBC HD Extra
+ShortDescr: 
+ExtendedDescr: -. Join us for coverage in HD of the Beijing Games. / Ne manquez pas notre couverture des jeux de Beijing 2008 en HD.
+
+wSat: 2780
+wNetId: 256
+wSId: 299
+wEventId: 71
+dwStartTime: 1218517200
+dwDuration: 14400
+EventName: Olympics CBC HD Extra
+ShortDescr: 
+ExtendedDescr: -. Join us for coverage in HD of the Beijing Games. / Ne manquez pas notre couverture des jeux de Beijing 2008 en HD.
+
+wSat: 2780
+wNetId: 256
+wSId: 316
+wEventId: 17932
+dwStartTime: 1218506400
+dwDuration: 7200
+EventName: More Movies on Vu!(PRESS INFO)
+ShortDescr: 
+ExtendedDescr: -. For more great Pay Per View movies playing on Vu!, go now to channels 351-380.
+
+wSat: 2780
+wNetId: 256
+wSId: 316
+wEventId: 17933
+dwStartTime: 1218513600
+dwDuration: 7200
+EventName: More Movies on Vu!(PRESS INFO)
+ShortDescr: 
+ExtendedDescr: -. For more great Pay Per View movies playing on Vu!, go now to channels 351-380.
+
+wSat: 2780
+wNetId: 256
+wSId: 329
+wEventId: 5231
+dwStartTime: 1218510000
+dwDuration: 1800
+EventName: Sordid Lives: The Series
+ShortDescr: 
+ExtendedDescr: Call Waiting
+ Series. Beth Grant, Rue McClanahan, Caroline Rhea. Latrelle spies on G.W. and Peggy at the motel; Noleta thinks the worst when G.W. doesn't return home. (Stereo)
+
+wSat: 2780
+wNetId: 256
+wSId: 329
+wEventId: 5232
+dwStartTime: 1218511800
+dwDuration: 1800
+EventName: Pleasure for Sale
+ShortDescr: 
+ExtendedDescr: Series. Examining the realities of prostitution while getting a close look at a legal brothel. (CC)  (Stereo)
+
+wSat: 2780
+wNetId: 256
+wSId: 346
+wEventId: 4974
+dwStartTime: 1218506400
+dwDuration: 7200
+EventName: More Movies on Vu!(PRESS INFO)
+ShortDescr: 
+ExtendedDescr: -. For more great Pay Per View movies playing on Vu!, go now to channels 351-380.
+
+wSat: 2780
+wNetId: 256
+wSId: 346
+wEventId: 4957
+dwStartTime: 1218513600
+dwDuration: 7200
+EventName: More Movies on Vu!(PRESS INFO)
+ShortDescr: 
+ExtendedDescr: -. For more great Pay Per View movies playing on Vu!, go now to channels 351-380.
+
+wSat: 2780
+wNetId: 256
+wSId: 349
+wEventId: 1605
+dwStartTime: 1218506400
+dwDuration: 14400
+EventName: Off Air
+ShortDescr: 
+ExtendedDescr: Off Air
+ -. Off Air
+
+wSat: 2780
+wNetId: 256
+wSId: 349
+wEventId: 1606
+dwStartTime: 1218520800
+dwDuration: 14400
+EventName: Off Air
+ShortDescr: 
+ExtendedDescr: Off Air
+ -. Off Air
+
+wSat: 2780
+wNetId: 256
+wSId: 367
+wEventId: 19502
+dwStartTime: 1218509100
+dwDuration: 6300
+EventName: Lost Boys: The Tribe - Uncut
+ShortDescr: 
+ExtendedDescr: Movie. Corey Feldman, Corey Haim.  (2008) Sequel! California surfers stumble into the sleepy town of Luna Bay, home to a dark underworld of ravenous vampires!(41917) (CC)  (Stereo)
+
+wSat: 2780
+wNetId: 256
+wSId: 367
+wEventId: 19503
+dwStartTime: 1218515400
+dwDuration: 900
+EventName: FREE Pre-Vu!Spiderwick Chronicle
+ShortDescr: 
+ExtendedDescr: -.  (2008) Watch a FREE preview of The Spiderwick Chronicles coming up next! Scroll ahead on your guide to purchase this movie.
+
+wSat: 2780
+wNetId: 256
+wSId: 376
+wEventId: 24908
+dwStartTime: 1218506400
+dwDuration: 6300
+EventName: National Lampoon's Bag Boy
+ShortDescr: 
+ExtendedDescr: Movie. Brooke Shields, Dennis Farina, Paul Campbell.  (2008) A 'bags to riches' comedy, as a lowly grocery clerk competes to win the bagging championships and the girl of his dreams. (Widescreen)(42041) (CC)  (Stereo)
+
+wSat: 2780
+wNetId: 256
+wSId: 376
+wEventId: 24909
+dwStartTime: 1218512700
+dwDuration: 900
+EventName: FREE Pre-Vu!National Lampoon's..
+ShortDescr: 
+ExtendedDescr: -.  (2008) Watch a FREE preview of National Lampoon's Bag Boy coming up next! Scroll ahead on your guide to purchase this movie.
+
+wSat: 2780
+wNetId: 256
+wSId: 421
+wEventId: 16493
+dwStartTime: 1218506400
+dwDuration: 7200
+EventName: Classic NHL Hockey
+ShortDescr: 
+ExtendedDescr: 2007 Western Conference Semifinal Game 1:
+ Series. 2007 Western Conference Semifinal Game 1: San Jose Sharks at Detroit Red Wings. (CC) 
+
+wSat: 2780
+wNetId: 256
+wSId: 421
+wEventId: 16494
+dwStartTime: 1218513600
+dwDuration: 7200
+EventName: Vintage Hockey
+ShortDescr: 
+ExtendedDescr: Edmonton vs. Boston (May 26, 1988)
+ Series. Edmonton Oilers vs. Boston Bruins, from May 26, 1988. (CC) 
+
+wSat: 2780
+wNetId: 256
+wSId: 431
+wEventId: 18493
+dwStartTime: 1218506400
+dwDuration: 7200
+EventName: Off Air-NHL Centre Ice (INFO)
+ShortDescr: 
+ExtendedDescr: -. Stay tuned for details on the upcoming 2008-2009 season.
+
+wSat: 2780
+wNetId: 256
+wSId: 431
+wEventId: 18494
+dwStartTime: 1218513600
+dwDuration: 7200
+EventName: Off Air-NHL Centre Ice (INFO)
+ShortDescr: 
+ExtendedDescr: -. Stay tuned for details on the upcoming 2008-2009 season.
+
+wSat: 2780
+wNetId: 256
+wSId: 462
+wEventId: 18509
+dwStartTime: 1218506400
+dwDuration: 7200
+EventName: Off Air-NFL Sunday Ticket(INFO)
+ShortDescr: 
+ExtendedDescr: -. Stay tuned for details on the upcoming 2008-2009 season.
+
+wSat: 2780
+wNetId: 256
+wSId: 462
+wEventId: 18510
+dwStartTime: 1218513600
+dwDuration: 7200
+EventName: Off Air-NFL Sunday Ticket(INFO)
+ShortDescr: 
+ExtendedDescr: -. Stay tuned for details on the upcoming 2008-2009 season.
+
+wSat: 2780
+wNetId: 256
+wSId: 490
+wEventId: 13706
+dwStartTime: 1218506400
+dwDuration: 7200
+EventName: SF vs HOU Tues@8pmET(INFO)
+ShortDescr: 
+ExtendedDescr: -. Catch up to 1400 games this season! Tune to channel 275 or call 1 888 SKY-DISH to order the package.
+
+wSat: 2780
+wNetId: 256
+wSId: 490
+wEventId: 13707
+dwStartTime: 1218513600
+dwDuration: 7200
+EventName: SF vs HOU Tues@8pmET(INFO)
+ShortDescr: 
+ExtendedDescr: -. Catch up to 1400 games this season! Tune to channel 275 or call 1 888 SKY-DISH to order the package.
+
+wSat: 2780
+wNetId: 256
+wSId: 569
+wEventId: 4575
+dwStartTime: 1218502800
+dwDuration: 14400
+EventName: FreeVu! Select Concerts
+ShortDescr: 
+ExtendedDescr: -. Catch A-List concerts free of charge every Wednesday at 7pm, 10pm and midnight on channel 370. Also available in HD on channel 830.
+
+wSat: 2780
+wNetId: 256
+wSId: 569
+wEventId: 4576
+dwStartTime: 1218517200
+dwDuration: 14400
+EventName: FreeVu! Select Concerts
+ShortDescr: 
+ExtendedDescr: -. Catch A-List concerts free of charge every Wednesday at 7pm, 10pm and midnight on channel 370. Also available in HD on channel 830.
+
+wSat: 2780
+wNetId: 256
+wSId: 625
+wEventId: 37155
+dwStartTime: 1218510000
+dwDuration: 1800
+EventName: The Daily Show
+ShortDescr: 
+ExtendedDescr: Series. Host Jon Stewart welcomes celebrities and parodies newsmagazine shows. (CC)  (Stereo)
+
+wSat: 2780
+wNetId: 256
+wSId: 625
+wEventId: 37156
+dwStartTime: 1218511800
+dwDuration: 1800
+EventName: The Colbert Report
+ShortDescr: 
+ExtendedDescr: Series. Sarcastic pundit Stephen Colbert addresses current events and welcomes celebrity guests.
+
+wSat: 2780
+wNetId: 256
+wSId: 731
+wEventId: 4915
+dwStartTime: 1218502800
+dwDuration: 14400
+EventName: Verrouillez Can. Explicites Adultes
+ShortDescr: 
+ExtendedDescr: -. Veuilliez verrouiller les chaines adultes, 747-782.
+
+wSat: 2780
+wNetId: 256
+wSId: 731
+wEventId: 4916
+dwStartTime: 1218517200
+dwDuration: 14400
+EventName: Verrouillez Can. Explicites Adultes
+ShortDescr: 
+ExtendedDescr: -. Veuilliez verrouiller les chaines adultes, 747-782.
+
+wSat: 2780
+wNetId: 256
+wSId: 732
+wEventId: 4915
+dwStartTime: 1218502800
+dwDuration: 14400
+EventName: Lock Out Ch. Explicit Adult Content
+ShortDescr: 
+ExtendedDescr: -. Please set your lockout features; channels 747-782 contain adult content.
+
+wSat: 2780
+wNetId: 256
+wSId: 732
+wEventId: 4916
+dwStartTime: 1218517200
+dwDuration: 14400
+EventName: Lock Out Ch. Explicit Adult Content
+ShortDescr: 
+ExtendedDescr: -. Please set your lockout features; channels 747-782 contain adult content.
+
+wSat: 2780
+wNetId: 256
+wSId: 805
+wEventId: 112
+dwStartTime: 1218502800
+dwDuration: 14400
+EventName: Olympics CBC HD Extra
+ShortDescr: 
+ExtendedDescr: -. Join us for coverage in HD of the Beijing Games. / Ne manquez pas notre couverture des jeux de Beijing 2008 en HD.
+
+wSat: 2780
+wNetId: 256
+wSId: 805
+wEventId: 113
+dwStartTime: 1218517200
+dwDuration: 14400
+EventName: Olympics CBC HD Extra
+ShortDescr: 
+ExtendedDescr: -. Join us for coverage in HD of the Beijing Games. / Ne manquez pas notre couverture des jeux de Beijing 2008 en HD.
+
+wSat: 2780
+wNetId: 256
+wSId: 954
+wEventId: 4989
+dwStartTime: 1218510000
+dwDuration: 14400
+EventName: Q107 Toronto
+ShortDescr: 
+ExtendedDescr: Music. Q107 Classic Rock Toronto.
+
+wSat: 2780
+wNetId: 256
+wSId: 954
+wEventId: 4990
+dwStartTime: 1218524400
+dwDuration: 9000
+EventName: Q107 Toronto
+ShortDescr: 
+ExtendedDescr: Music. Q107 Classic Rock Toronto.
+
+wSat: 2780
+wNetId: 256
+wSId: 8462
+wEventId: 4915
+dwStartTime: 1218502800
+dwDuration: 14400
+EventName: Off Air
+ShortDescr: 
+ExtendedDescr: Off Air
+ -. Off Air
+
+wSat: 2780
+wNetId: 256
+wSId: 8462
+wEventId: 4916
+dwStartTime: 1218517200
+dwDuration: 14400
+EventName: Off Air
+ShortDescr: 
+ExtendedDescr: Off Air
+ -. Off Air
+
+wSat: 2780
+wNetId: 256
+wSId: 102
+wEventId: 17397
+dwStartTime: 1218510000
+dwDuration: 1800
+EventName: Le journal du soir
+ShortDescr: 
+ExtendedDescr: Nouvelles. Bulletin d'information en direct; nouvelles, sports et météo. (CC) 
+
+wSat: 2780
+wNetId: 256
+wSId: 102
+wEventId: 17398
+dwStartTime: 1218511800
+dwDuration: 3600
+EventName: Vie de couple
+ShortDescr: 
+ExtendedDescr: Séries. Une psychologue est à l'écoute des problèmes de couple dans une ligne ouverte quotidienne.
+
+wSat: 2780
+wNetId: 256
+wSId: 103
+wEventId: 19654
+dwStartTime: 1218510000
+dwDuration: 1800
+EventName: Le coeur a ses raisons
+ShortDescr: 
+ExtendedDescr: À la recherche de Brett
+ Séries. Atterrée par la disparition de Brett, Criquette remue mer et monde afin de le retrouver.
+
+wSat: 2780
+wNetId: 256
+wSId: 103
+wEventId: 19655
+dwStartTime: 1218511800
+dwDuration: 7200
+EventName: Amoureux fou
+ShortDescr: 
+ExtendedDescr: Amoureux fou
+ Film. Remy Girard, Nathalie gascon, Jean Rochefort.  (1991) Un publicitaire marié s'engage dans une idylle avec une actrice en vue.
+
+wSat: 2780
+wNetId: 256
+wSId: 104
+wEventId: 17400
+dwStartTime: 1218510000
+dwDuration: 1800
+EventName: Le journal du soir
+ShortDescr: 
+ExtendedDescr: Nouvelles. Bulletin d'information en direct; nouvelles, sports et météo. (CC) 
+
+wSat: 2780
+wNetId: 256
+wSId: 104
+wEventId: 17401
+dwStartTime: 1218511800
+dwDuration: 3600
+EventName: Vie de couple
+ShortDescr: 
+ExtendedDescr: Séries. Une psychologue est à l'écoute des problèmes de couple dans une ligne ouverte quotidienne.
+
+wSat: 2780
+wNetId: 256
+wSId: 106
+wEventId: 17907
+dwStartTime: 1218510000
+dwDuration: 1800
+EventName: Le journal du soir
+ShortDescr: 
+ExtendedDescr: Nouvelles. Bulletin d'information en direct; nouvelles, sports et météo. (CC) 
+
+wSat: 2780
+wNetId: 256
+wSId: 106
+wEventId: 17908
+dwStartTime: 1218511800
+dwDuration: 3600
+EventName: Vie de couple
+ShortDescr: 
+ExtendedDescr: Séries. Une psychologue est à l'écoute des problèmes de couple dans une ligne ouverte quotidienne.
+
+wSat: 2780
+wNetId: 256
+wSId: 108
+wEventId: 23060
+dwStartTime: 1218504600
+dwDuration: 12600
+EventName: Jeux Olympiques de Pékin 2008
+ShortDescr: 
+ExtendedDescr: Sports. Finales de gymnastique masculine, Demi-finales et finales de natation, water-polo masculin, basket-b. (CC) 
+
+wSat: 2780
+wNetId: 256
+wSId: 108
+wEventId: 23061
+dwStartTime: 1218517200
+dwDuration: 18000
+EventName: Fin des émissions
+ShortDescr: 
+ExtendedDescr: Fin des émissions
+ -. Fin des émissions
+
+wSat: 2780
+wNetId: 256
+wSId: 109
+wEventId: 17508
+dwStartTime: 1218510000
+dwDuration: 1800
+EventName: Le journal du soir
+ShortDescr: 
+ExtendedDescr: Nouvelles. Bulletin d'information en direct; nouvelles, sports et météo. (CC) 
+
+wSat: 2780
+wNetId: 256
+wSId: 109
+wEventId: 17509
+dwStartTime: 1218511800
+dwDuration: 3600
+EventName: Vie de couple
+ShortDescr: 
+ExtendedDescr: Séries. Une psychologue est à l'écoute des problèmes de couple dans une ligne ouverte quotidienne.
+
+wSat: 2780
+wNetId: 256
+wSId: 110
+wEventId: 19518
+dwStartTime: 1218510000
+dwDuration: 1800
+EventName: Le coeur a ses raisons
+ShortDescr: 
+ExtendedDescr: À la recherche de Brett
+ Séries. Atterrée par la disparition de Brett, Criquette remue mer et monde afin de le retrouver.
+
+wSat: 2780
+wNetId: 256
+wSId: 110
+wEventId: 19519
+dwStartTime: 1218511800
+dwDuration: 7200
+EventName: Amoureux fou
+ShortDescr: 
+ExtendedDescr: Amoureux fou
+ Film. Remy Girard, Nathalie gascon, Jean Rochefort.  (1991) Un publicitaire marié s'engage dans une idylle avec une actrice en vue.
+
+wSat: 2780
+wNetId: 256
+wSId: 116
+wEventId: 19374
+dwStartTime: 1218510000
+dwDuration: 1800
+EventName: Le coeur a ses raisons
+ShortDescr: 
+ExtendedDescr: À la recherche de Brett
+ Séries. Atterrée par la disparition de Brett, Criquette remue mer et monde afin de le retrouver.
+
+wSat: 2780
+wNetId: 256
+wSId: 116
+wEventId: 19375
+dwStartTime: 1218511800
+dwDuration: 7200
+EventName: Amoureux fou
+ShortDescr: 
+ExtendedDescr: Amoureux fou
+ Film. Remy Girard, Nathalie gascon, Jean Rochefort.  (1991) Un publicitaire marié s'engage dans une idylle avec une actrice en vue.
+
+wSat: 2780
+wNetId: 256
+wSId: 187
+wEventId: 1375
+dwStartTime: 1218499200
+dwDuration: 14400
+EventName: Avis de Recherche
+ShortDescr: 
+ExtendedDescr: News. Diffusion en continu de photos et vidéos de suspects recherchés par la police ainsi que de personnes portées disparues.
+
+wSat: 2780
+wNetId: 256
+wSId: 187
+wEventId: 1376
+dwStartTime: 1218513600
+dwDuration: 14400
+EventName: Avis de Recherche
+ShortDescr: 
+ExtendedDescr: News. Diffusion en continu de photos et vidéos de suspects recherchés par la police ainsi que de personnes portées disparues.
+
+wSat: 2780
+wNetId: 256
+wSId: 307
+wEventId: 2129
+dwStartTime: 1218502800
+dwDuration: 14400
+EventName: Premium Movies
+ShortDescr: 
+ExtendedDescr: -. Hundreds of Hollywood blockbuster movies each month! Uncut and commercial free.
+
+wSat: 2780
+wNetId: 256
+wSId: 307
+wEventId: 2130
+dwStartTime: 1218517200
+dwDuration: 14400
+EventName: Premium Movies
+ShortDescr: 
+ExtendedDescr: -. Hundreds of Hollywood blockbuster movies each month! Uncut and commercial free.
+
+wSat: 2780
+wNetId: 256
+wSId: 399
+wEventId: 4387
+dwStartTime: 1218502800
+dwDuration: 14400
+EventName: Sports LaunchPad
+ShortDescr: 
+ExtendedDescr: -. The ultimate destination for enhanced sports services, only on Bell ExpressVu!
+
+wSat: 2780
+wNetId: 256
+wSId: 399
+wEventId: 4388
+dwStartTime: 1218517200
+dwDuration: 14400
+EventName: Sports LaunchPad
+ShortDescr: 
+ExtendedDescr: -. The ultimate destination for enhanced sports services, only on Bell ExpressVu!
+
+wSat: 2780
+wNetId: 256
+wSId: 450
+wEventId: 4221
+dwStartTime: 1218502800
+dwDuration: 14400
+EventName: Press SELECT for NFL Interactive
+ShortDescr: 
+ExtendedDescr: -. The ultimate destination for enhanced NFL services, only on Bell ExpressVu!
+
+wSat: 2780
+wNetId: 256
+wSId: 450
+wEventId: 4222
+dwStartTime: 1218517200
+dwDuration: 14400
+EventName: Press SELECT for NFL Interactive
+ShortDescr: 
+ExtendedDescr: -. The ultimate destination for enhanced NFL services, only on Bell ExpressVu!
+
+wSat: 2780
+wNetId: 256
+wSId: 906
+wEventId: 4915
+dwStartTime: 1218502800
+dwDuration: 14400
+EventName: Galaxie HitList
+ShortDescr: 
+ExtendedDescr: Galaxie HitList
+ Music. Today's hottest hits with recent favorites. / Tous les succès de l'heure et toutes les nouveautés. Pro: Henry Van Den Hoogen.
+
+wSat: 2780
+wNetId: 256
+wSId: 906
+wEventId: 4916
+dwStartTime: 1218517200
+dwDuration: 14400
+EventName: Galaxie HitList
+ShortDescr: 
+ExtendedDescr: Galaxie HitList
+ Music. Today's hottest hits with recent favorites. / Tous les succès de l'heure et toutes les nouveautés. Pro: Henry Van Den Hoogen.
+
+wSat: 2780
+wNetId: 256
+wSId: 912
+wEventId: 4915
+dwStartTime: 1218502800
+dwDuration: 14400
+EventName: Galaxie The 90s
+ShortDescr: 
+ExtendedDescr: Galaxie The 90s
+ Music. All the hits of the 90s./Tous les succès des années 1990: U2, Back Street Boys, Tom Petty. Pro: Henry Van Den Hoogen
+
+wSat: 2780
+wNetId: 256
+wSId: 912
+wEventId: 4916
+dwStartTime: 1218517200
+dwDuration: 14400
+EventName: Galaxie The 90s
+ShortDescr: 
+ExtendedDescr: Galaxie The 90s
+ Music. All the hits of the 90s./Tous les succès des années 1990: U2, Back Street Boys, Tom Petty. Pro: Henry Van Den Hoogen
+
+wSat: 2780
+wNetId: 256
+wSId: 913
+wEventId: 4915
+dwStartTime: 1218502800
+dwDuration: 14400
+EventName: Galaxie HotCountry
+ShortDescr: 
+ExtendedDescr: Galaxie HotCountry
+ Music. All the hits of new country./Tous les tubes du nouveau country: Garth Brooks, Shania Twain, Paul Brandt... Pro: John Roberts
+
+wSat: 2780
+wNetId: 256
+wSId: 913
+wEventId: 4916
+dwStartTime: 1218517200
+dwDuration: 14400
+EventName: Galaxie HotCountry
+ShortDescr: 
+ExtendedDescr: Galaxie HotCountry
+ Music. All the hits of new country./Tous les tubes du nouveau country: Garth Brooks, Shania Twain, Paul Brandt... Pro: John Roberts
+
+wSat: 2780
+wNetId: 256
+wSId: 914
+wEventId: 4915
+dwStartTime: 1218502800
+dwDuration: 14400
+EventName: Galaxie CountryClassics
+ShortDescr: 
+ExtendedDescr: Galaxie CountryClassics
+ Music. The best-loved traditional and classic country music. / Les plus grands succès du country traditionnel et classique. Pro: Ted Daigle
+
+wSat: 2780
+wNetId: 256
+wSId: 914
+wEventId: 4916
+dwStartTime: 1218517200
+dwDuration: 14400
+EventName: Galaxie CountryClassics
+ShortDescr: 
+ExtendedDescr: Galaxie CountryClassics
+ Music. The best-loved traditional and classic country music. / Les plus grands succès du country traditionnel et classique. Pro: Ted Daigle
+
+wSat: 2780
+wNetId: 256
+wSId: 922
+wEventId: 4915
+dwStartTime: 1218502800
+dwDuration: 14400
+EventName: Galaxie SmoothJazz
+ShortDescr: 
+ExtendedDescr: Galaxie SmoothJazz
+ Music. Easy listening jazz music and the hottest contemporary jazz artists./La plus douce musique jazz et des artistes contemporains. Pro: Jim Craig
+
+wSat: 2780
+wNetId: 256
+wSId: 922
+wEventId: 4916
+dwStartTime: 1218517200
+dwDuration: 14400
+EventName: Galaxie SmoothJazz
+ShortDescr: 
+ExtendedDescr: Galaxie SmoothJazz
+ Music. Easy listening jazz music and the hottest contemporary jazz artists./La plus douce musique jazz et des artistes contemporains. Pro: Jim Craig
+
+wSat: 2780
+wNetId: 256
+wSId: 924
+wEventId: 4915
+dwStartTime: 1218502800
+dwDuration: 14400
+EventName: Galaxie BigBand
+ShortDescr: 
+ExtendedDescr: Galaxie BigBand
+ Music. The big band era at its best!/Le meilleur de la musique big band: Duke Ellington,  Glenn Miller, Benny Goodman. Pro: Jacques Émond
+
+wSat: 2780
+wNetId: 256
+wSId: 924
+wEventId: 4916
+dwStartTime: 1218517200
+dwDuration: 14400
+EventName: Galaxie BigBand
+ShortDescr: 
+ExtendedDescr: Galaxie BigBand
+ Music. The big band era at its best!/Le meilleur de la musique big band: Duke Ellington,  Glenn Miller, Benny Goodman. Pro: Jacques Émond
+
+wSat: 2780
+wNetId: 257
+wSId: 260
+wEventId: 30704
+dwStartTime: 1218506400
+dwDuration: 18000
+EventName: Olympics
+ShortDescr: 
+ExtendedDescr: Sports. Beach Volleyball (Preliminaries); Diving (Women's Syncro 10m Platform). (CC) 
+
+wSat: 2780
+wNetId: 257
+wSId: 260
+wEventId: 30705
+dwStartTime: 1218524400
+dwDuration: 1800
+EventName: CBC News: Business
+ShortDescr: 
+ExtendedDescr: Series. A report on the day's business events and financial advice. (CC) 
+
+wSat: 2780
+wNetId: 257
+wSId: 337
+wEventId: 37734
+dwStartTime: 1218508500
+dwDuration: 5100
+EventName: Waiting for Caroline
+ShortDescr: 
+ExtendedDescr: Waiting for Caroline
+ Movie. Alexandra Stewart, Francois Tassé, William Needles.  (1967) A woman finds herself in a love triangle involving a former lover and a young actor.
+
+wSat: 2780
+wNetId: 257
+wSId: 337
+wEventId: 37484
+dwStartTime: 1218513600
+dwDuration: 4200
+EventName: Bulldog Drummond Escapes
+ShortDescr: 
+ExtendedDescr: Bulldog Drummond Escapes
+ Movie. Ray Milland, Heather Angel, Reginald Denny.  (1937) Drummond falls for an heiress he is hired to rescue from spies. Milland's only series appearance as Drummond.
+
+wSat: 2780
+wNetId: 257
+wSId: 516
+wEventId: 6553
+dwStartTime: 1218502800
+dwDuration: 10800
+EventName: Saskatchewan Legislative Network
+ShortDescr: 
+ExtendedDescr: News. 
+
+wSat: 2780
+wNetId: 257
+wSId: 516
+wEventId: 6554
+dwStartTime: 1218513600
+dwDuration: 10800
+EventName: Saskatchewan Legislative Network
+ShortDescr: 
+ExtendedDescr: News. 
+
+wSat: 2780
+wNetId: 257
+wSId: 578
+wEventId: 7723
+dwStartTime: 1218506400
+dwDuration: 10800
+EventName: Music Videos
+ShortDescr: 
+ExtendedDescr: Music. Featuring a steady stream of music videos, with introductions by various hosts.
+
+wSat: 2780
+wNetId: 257
+wSId: 578
+wEventId: 7724
+dwStartTime: 1218517200
+dwDuration: 10800
+EventName: Music Videos
+ShortDescr: 
+ExtendedDescr: Music. Featuring a steady stream of music videos, with introductions by various hosts.
+
+wSat: 2780
+wNetId: 257
+wSId: 654
+wEventId: 34767
+dwStartTime: 1218510300
+dwDuration: 1500
+EventName: Focus catholique
+ShortDescr: 
+ExtendedDescr: Religious. 
+
+wSat: 2780
+wNetId: 257
+wSId: 654
+wEventId: 34768
+dwStartTime: 1218511800
+dwDuration: 300
+EventName: Zoom
+ShortDescr: 
+ExtendedDescr: Religious. Daily updates on your Catholic world.
+
+wSat: 2780
+wNetId: 257
+wSId: 716
+wEventId: 31778
+dwStartTime: 1218510000
+dwDuration: 1800
+EventName: Travel With Fun In Hunan
+ShortDescr: 
+ExtendedDescr: Series. 
+
+wSat: 2780
+wNetId: 257
+wSId: 716
+wEventId: 31779
+dwStartTime: 1218511800
+dwDuration: 3900
+EventName: News
+ShortDescr: 
+ExtendedDescr: News. A look at the day's top news stories. (CC) 
+
+wSat: 2780
+wNetId: 257
+wSId: 717
+wEventId: 31778
+dwStartTime: 1218510000
+dwDuration: 1800
+EventName: Travel With Fun In Hunan
+ShortDescr: 
+ExtendedDescr: Series. 
+
+wSat: 2780
+wNetId: 257
+wSId: 717
+wEventId: 31779
+dwStartTime: 1218511800
+dwDuration: 3900
+EventName: News
+ShortDescr: 
+ExtendedDescr: News. A look at the day's top news stories. (CC) 
+
+wSat: 2780
+wNetId: 257
+wSId: 718
+wEventId: 32590
+dwStartTime: 1218510300
+dwDuration: 3300
+EventName: The Splicing of the Demon
+ShortDescr: 
+ExtendedDescr: Series. 
+
+wSat: 2780
+wNetId: 257
+wSId: 718
+wEventId: 32591
+dwStartTime: 1218513600
+dwDuration: 3300
+EventName: The Family Link
+ShortDescr: 
+ExtendedDescr: Series. 
+
+wSat: 2780
+wNetId: 257
+wSId: 719
+wEventId: 29416
+dwStartTime: 1218508200
+dwDuration: 3600
+EventName: News
+ShortDescr: 
+ExtendedDescr: News. A look at the day's top news stories.
+
+wSat: 2780
+wNetId: 257
+wSId: 719
+wEventId: 29417
+dwStartTime: 1218511800
+dwDuration: 3300
+EventName: They Kiss Again
+ShortDescr: 
+ExtendedDescr: Series. 
+
+wSat: 2780
+wNetId: 257
+wSId: 725
+wEventId: 1525
+dwStartTime: 1218506400
+dwDuration: 7200
+EventName: Off Air - Portuguese Soccer (INFO)
+ShortDescr: 
+ExtendedDescr: -. Off Air - Portuguese Soccer
+
+wSat: 2780
+wNetId: 257
+wSId: 725
+wEventId: 1526
+dwStartTime: 1218513600
+dwDuration: 7200
+EventName: Off Air - Portuguese Soccer (INFO)
+ShortDescr: 
+ExtendedDescr: -. Off Air - Portuguese Soccer
+
+wSat: 2780
+wNetId: 257
+wSId: 254
+wEventId: 24645
+dwStartTime: 1218510000
+dwDuration: 3600
+EventName: Mandarin News
+ShortDescr: 
+ExtendedDescr: News. Local, national and international news, including stories from Taiwan and mainland China.
+
+wSat: 2780
+wNetId: 257
+wSId: 254
+wEventId: 24646
+dwStartTime: 1218513600
+dwDuration: 3600
+EventName: Cantonese News
+ShortDescr: 
+ExtendedDescr: News. Local, national and international news presented in Cantonese.
+
+wSat: 2780
+wNetId: 257
+wSId: 257
+wEventId: 28969
+dwStartTime: 1218510000
+dwDuration: 14400
+EventName: Olympics
+ShortDescr: 
+ExtendedDescr: Sports. Beach Volleyball (Preliminaries); Diving (Women's Syncro 10m Platform). (CC) 
+
+wSat: 2780
+wNetId: 257
+wSId: 257
+wEventId: 28970
+dwStartTime: 1218524400
+dwDuration: 1800
+EventName: CBC News: Business
+ShortDescr: 
+ExtendedDescr: Series. A report on the day's business events and financial advice. (CC) 
+
+wSat: 2780
+wNetId: 257
+wSId: 475
+wEventId: 11648
+dwStartTime: 1218496800
+dwDuration: 14400
+EventName: HPItv - Mohawk (Harness)
+ShortDescr: 
+ExtendedDescr: Sports.  (1999) See uninterrupted simulcasts from the Mohawk race track. Call 1-800-882-1241 to order HPItv Pay Per View.
+
+wSat: 2780
+wNetId: 257
+wSId: 475
+wEventId: 11649
+dwStartTime: 1218511200
+dwDuration: 25800
+EventName: Off Air - Press Info
+ShortDescr: 
+ExtendedDescr: Sports. Off Air.  (1999) Live horse racing from across North America. To order the HPItv Pay Per View packages, call 1-800-882-1241. (Stereo)
+
+wSat: 2780
+wNetId: 257
+wSId: 476
+wEventId: 12613
+dwStartTime: 1218506400
+dwDuration: 18000
+EventName: HPItv - Australia Feature
+ShortDescr: 
+ExtendedDescr: Sports.  (1999) .
+
+wSat: 2780
+wNetId: 257
+wSId: 476
+wEventId: 12614
+dwStartTime: 1218524400
+dwDuration: 21600
+EventName: Off Air - Press Info
+ShortDescr: 
+ExtendedDescr: Sports. Off Air.  (1999) Live horse racing from across North America. To order the HPItv Pay Per View packages, call 1-800-882-1241. (Stereo)
+
+wSat: 2780
+wNetId: 257
+wSId: 477
+wEventId: 11267
+dwStartTime: 1218497400
+dwDuration: 14400
+EventName: HPItv - Grand River Feature
+ShortDescr: 
+ExtendedDescr: Sports.  (1999) See live horse racing from the Grand River race track. Call 1-800-882-1241 to order HPItv Pay Per View.
+
+wSat: 2780
+wNetId: 257
+wSId: 477
+wEventId: 11268
+dwStartTime: 1218511800
+dwDuration: 36000
+EventName: Off Air - Press Info
+ShortDescr: 
+ExtendedDescr: Sports. Off Air.  (1999) Live horse racing from across North America. To order the HPItv Pay Per View packages, call 1-800-882-1241. (Stereo)
+
+wSat: 2780
+wNetId: 257
+wSId: 653
+wEventId: 31137
+dwStartTime: 1218510000
+dwDuration: 3600
+EventName: The World Over
+ShortDescr: 
+ExtendedDescr: Religious. 
+
+wSat: 2780
+wNetId: 257
+wSId: 653
+wEventId: 31138
+dwStartTime: 1218513600
+dwDuration: 3600
+EventName: Daily Mass
+ShortDescr: 
+ExtendedDescr: Religious. A daily mass service.
+
+wSat: 2780
+wNetId: 257
+wSId: 704
+wEventId: 24516
+dwStartTime: 1218510000
+dwDuration: 1800
+EventName: Mojh Mela
+ShortDescr: 
+ExtendedDescr: Series. Various programs geared towards youth. Presented in Punjabi.
+
+wSat: 2780
+wNetId: 257
+wSId: 704
+wEventId: 24517
+dwStartTime: 1218511800
+dwDuration: 1800
+EventName: Zee Khabran
+ShortDescr: 
+ExtendedDescr: Series. 
+
+wSat: 2780
+wNetId: 257
+wSId: 706
+wEventId: 12681
+dwStartTime: 1218502800
+dwDuration: 12600
+EventName: Lucky: No Time for Love
+ShortDescr: 
+ExtendedDescr: Lucky: No Time for Love
+ Movie. Salman Khan, Mithun Chakraborty, Sneha Ullal.  (2005) The son of an ambassador struggles to save the daughter of his father's assistant after a terrorist incident in Russia leaves the two on the run.
+
+wSat: 2780
+wNetId: 257
+wSId: 706
+wEventId: 12682
+dwStartTime: 1218515400
+dwDuration: 1800
+EventName: ATN
+ShortDescr: 
+ExtendedDescr: Series. Entertainment specials, community programming or interviews determined at airtime.
+
+wSat: 2780
+wNetId: 257
+wSId: 709
+wEventId: 38798
+dwStartTime: 1218510000
+dwDuration: 1800
+EventName: Journal
+ShortDescr: 
+ExtendedDescr: News. 
+
+wSat: 2780
+wNetId: 257
+wSId: 709
+wEventId: 38799
+dwStartTime: 1218511800
+dwDuration: 1800
+EventName: Im Focus
+ShortDescr: 
+ExtendedDescr: Series. Reports on politics, business, sports and the arts.
+
+wSat: 2780
+wNetId: 257
+wSId: 712
+wEventId: 6325
+dwStartTime: 1218508200
+dwDuration: 3600
+EventName: BING BANG
+ShortDescr: 
+ExtendedDescr: Series. 
+
+wSat: 2780
+wNetId: 257
+wSId: 712
+wEventId: 6135
+dwStartTime: 1218511800
+dwDuration: 12600
+EventName: Proino Mega
+ShortDescr: 
+ExtendedDescr: Series. 
+
+wSat: 2780
+wNetId: 257
+wSId: 979
+wEventId: 4152
+dwStartTime: 1218502800
+dwDuration: 14400
+EventName: NovaVision
+ShortDescr: 
+ExtendedDescr: News. 
+
+wSat: 2780
+wNetId: 257
+wSId: 979
+wEventId: 4153
+dwStartTime: 1218517200
+dwDuration: 14400
+EventName: NovaVision
+ShortDescr: 
+ExtendedDescr: News. 
+
+wSat: 2780
+wNetId: 257
+wSId: 983
+wEventId: 4915
+dwStartTime: 1218502800
+dwDuration: 14400
+EventName: NovaVision
+ShortDescr: 
+ExtendedDescr: News. Radio UniPrix.
+
+wSat: 2780
+wNetId: 257
+wSId: 983
+wEventId: 4916
+dwStartTime: 1218517200
+dwDuration: 14400
+EventName: NovaVision
+ShortDescr: 
+ExtendedDescr: News. Radio UniPrix.
+
+wSat: 2780
+wNetId: 257
+wSId: 119
+wEventId: 23143
+dwStartTime: 1218510000
+dwDuration: 1800
+EventName: Le Téléjournal
+ShortDescr: 
+ExtendedDescr: Nouvelles. Revue des dernières nouvelles. (CC)  (Stereo)
+
+wSat: 2780
+wNetId: 257
+wSId: 119
+wEventId: 23144
+dwStartTime: 1218511800
+dwDuration: 12600
+EventName: Jeux Olympiques de Pékin 2008
+ShortDescr: 
+ExtendedDescr: Sports. Finales de gymnastique masculine, Demi-finales et finales de natation, water-polo masculin, basket-b. (CC) 
+
+wSat: 2780
+wNetId: 257
+wSId: 207
+wEventId: 30498
+dwStartTime: 1218510000
+dwDuration: 2100
+EventName: E! News
+ShortDescr: 
+ExtendedDescr: Series. Discussing the latest in entertainment news. (CC) 
+
+wSat: 2780
+wNetId: 257
+wSId: 207
+wEventId: 30499
+dwStartTime: 1218512100
+dwDuration: 3720
+EventName: Late Show With David Letterman
+ShortDescr: 
+ExtendedDescr: Series. Actor Will Smith ('Hancock'); sportscaster Joe Buck. (CC)  (Stereo)
+
+wSat: 2780
+wNetId: 257
+wSId: 222
+wEventId: 22753
+dwStartTime: 1218510000
+dwDuration: 1800
+EventName: CTV News
+ShortDescr: 
+ExtendedDescr: News. A look at the day's top news stories. (CC)  (Stereo)
+
+wSat: 2780
+wNetId: 257
+wSId: 222
+wEventId: 22754
+dwStartTime: 1218511800
+dwDuration: 2100
+EventName: News
+ShortDescr: 
+ExtendedDescr: News. A look at the day's top news stories.
+
+wSat: 2780
+wNetId: 257
+wSId: 223
+wEventId: 27746
+dwStartTime: 1218492300
+dwDuration: 21300
+EventName: Olympics
+ShortDescr: 
+ExtendedDescr: Sports. Gymnastics (Men's Team Final); Swimming (Various Semifinals and Finals); Volleyball (Men's Preliminaries). (CC) 
+
+wSat: 2780
+wNetId: 257
+wSId: 223
+wEventId: 27748
+dwStartTime: 1218513600
+dwDuration: 10800
+EventName: Olympics
+ShortDescr: 
+ExtendedDescr: Sports. Beach Volleyball (Preliminaries); Diving (Women's Syncro 10m Platform). (CC) 
+
+wSat: 2780
+wNetId: 257
+wSId: 530
+wEventId: 13217
+dwStartTime: 1218510000
+dwDuration: 3600
+EventName: Cracked
+ShortDescr: 
+ExtendedDescr: Series. A collection of short videos.
+
+wSat: 2780
+wNetId: 257
+wSId: 530
+wEventId: 13218
+dwStartTime: 1218513600
+dwDuration: 1800
+EventName: Whacked
+ShortDescr: 
+ExtendedDescr: Series. A collection of short films, including 'The Conventioneers' and 'De Laws of Nature.'
+
+wSat: 2780
+wNetId: 257
+wSId: 631
+wEventId: 10468
+dwStartTime: 1218510000
+dwDuration: 3600
+EventName: Tank School
+ShortDescr: 
+ExtendedDescr: Tank School
+ Series. Following young marines as they learn about the M1A1 Abrams battle tank. (CC) 
+
+wSat: 2780
+wNetId: 257
+wSId: 631
+wEventId: 10469
+dwStartTime: 1218513600
+dwDuration: 3600
+EventName: Battlefield Diaries
+ShortDescr: 
+ExtendedDescr: Tank Battle Vietnam
+ Series. Chronicling the only tank battle of the Vietnam War, which took place on March 3, 1969 (CC) 
+
+wSat: 2780
+wNetId: 257
+wSId: 699
+wEventId: 11109
+dwStartTime: 1218510000
+dwDuration: 1800
+EventName: Aristegui
+ShortDescr: 
+ExtendedDescr: News. Speaking with Mexican leaders from a variety of fields.
+
+wSat: 2780
+wNetId: 257
+wSId: 699
+wEventId: 11110
+dwStartTime: 1218511800
+dwDuration: 1800
+EventName: Deportes
+ShortDescr: 
+ExtendedDescr: News. Spanish-language soccer coverage.
+
+wSat: 2780
+wNetId: 257
+wSId: 702
+wEventId: 34266
+dwStartTime: 1218510000
+dwDuration: 1800
+EventName: Santaan
+ShortDescr: 
+ExtendedDescr: Series. 
+
+wSat: 2780
+wNetId: 257
+wSId: 702
+wEventId: 34267
+dwStartTime: 1218511800
+dwDuration: 1800
+EventName: Sapna Babul Ka... Biidaai
+ShortDescr: 
+ExtendedDescr: Series. 
+
+wSat: 2780
+wNetId: 257
+wSId: 720
+wEventId: 27130
+dwStartTime: 1218502800
+dwDuration: 14400
+EventName: NTV Russia
+ShortDescr: 
+ExtendedDescr: Series. 
+
+wSat: 2780
+wNetId: 257
+wSId: 720
+wEventId: 27131
+dwStartTime: 1218517200
+dwDuration: 14400
+EventName: NTV Russia
+ShortDescr: 
+ExtendedDescr: Series. 
+
+wSat: 2780
+wNetId: 257
+wSId: 723
+wEventId: 14646
+dwStartTime: 1218510000
+dwDuration: 1800
+EventName: Gaano Kadalas Ang Minisan
+ShortDescr: 
+ExtendedDescr: Series. 
+
+wSat: 2780
+wNetId: 257
+wSId: 723
+wEventId: 14647
+dwStartTime: 1218511800
+dwDuration: 1800
+EventName: Ako Si Kim Samsoon
+ShortDescr: 
+ExtendedDescr: Series. 
+
+wSat: 2780
+wNetId: 257
+wSId: 224
+wEventId: 26156
+dwStartTime: 1218510000
+dwDuration: 3600
+EventName: Bones
+ShortDescr: 
+ExtendedDescr: Series. Emily Deschanel, David Boreanaz, TJ Thyne. A forensic anthropologist uses her skills to help an FBI agent solve murders.
+
+wSat: 2780
+wNetId: 257
+wSId: 224
+wEventId: 26157
+dwStartTime: 1218513600
+dwDuration: 1800
+EventName: CTV News
+ShortDescr: 
+ExtendedDescr: News. A look at the day's top news stories. (CC)  (Stereo)
+
+wSat: 2780
+wNetId: 257
+wSId: 233
+wEventId: 11070
+dwStartTime: 1218495600
+dwDuration: 18000
+EventName: Olympics
+ShortDescr: 
+ExtendedDescr: Sports. Gymnastics (Men's Team Final); Swimming (Various Semifinals and Finals); Volleyball (Men's Preliminaries). (CC) 
+
+wSat: 2780
+wNetId: 257
+wSId: 233
+wEventId: 11071
+dwStartTime: 1218513600
+dwDuration: 10800
+EventName: Olympics
+ShortDescr: 
+ExtendedDescr: Sports. Beach Volleyball (Preliminaries); Diving (Women's Syncro 10m Platform). (CC) 
+
+wSat: 2780
+wNetId: 257
+wSId: 274
+wEventId: 22603
+dwStartTime: 1218510000
+dwDuration: 1800
+EventName: Just Like Mom
+ShortDescr: 
+ExtendedDescr: -. 
+
+wSat: 2780
+wNetId: 257
+wSId: 274
+wEventId: 22604
+dwStartTime: 1218511800
+dwDuration: 1800
+EventName: Just Like Mom
+ShortDescr: 
+ExtendedDescr: -. 
+
+wSat: 2780
+wNetId: 257
+wSId: 478
+wEventId: 5019
+dwStartTime: 1218502800
+dwDuration: 14400
+EventName: Live Horse Racing Channel (INFO)
+ShortDescr: 
+ExtendedDescr: Sports. Starting June '08, HPI-1 will change satellite locations & be offered with HPI-2 for $5/mo. Call 1-888-SKYDISH to order!
+
+wSat: 2780
+wNetId: 257
+wSId: 478
+wEventId: 5020
+dwStartTime: 1218517200
+dwDuration: 14400
+EventName: Live Horse Racing Channel (INFO)
+ShortDescr: 
+ExtendedDescr: Sports. Starting June '08, HPI-1 will change satellite locations & be offered with HPI-2 for $5/mo. Call 1-888-SKYDISH to order!
+
+wSat: 2780
+wNetId: 257
+wSId: 697
+wEventId: 33265
+dwStartTime: 1218510000
+dwDuration: 1800
+EventName: TG 24 Edicola
+ShortDescr: 
+ExtendedDescr: News. 
+
+wSat: 2780
+wNetId: 257
+wSId: 697
+wEventId: 33266
+dwStartTime: 1218511800
+dwDuration: 1800
+EventName: TG 24 Edicola
+ShortDescr: 
+ExtendedDescr: News. 
+
+wSat: 2780
+wNetId: 257
+wSId: 711
+wEventId: 56124
+dwStartTime: 1218509700
+dwDuration: 3000
+EventName: Jest takie miasto
+ShortDescr: 
+ExtendedDescr: Series. 
+
+wSat: 2780
+wNetId: 257
+wSId: 711
+wEventId: 56125
+dwStartTime: 1218512700
+dwDuration: 900
+EventName: Dzien jak co dzien
+ShortDescr: 
+ExtendedDescr: Series. 
+
+wSat: 2780
+wNetId: 257
+wSId: 727
+wEventId: 39119
+dwStartTime: 1218510000
+dwDuration: 1800
+EventName: Breakfast News
+ShortDescr: 
+ExtendedDescr: News. 
+
+wSat: 2780
+wNetId: 257
+wSId: 727
+wEventId: 39120
+dwStartTime: 1218511800
+dwDuration: 1800
+EventName: Your Day Today
+ShortDescr: 
+ExtendedDescr: Series. 
+
+wSat: 2780
+wNetId: 257
+wSId: 728
+wEventId: 32633
+dwStartTime: 1218508200
+dwDuration: 3600
+EventName: Ek aur Pehlo
+ShortDescr: 
+ExtendedDescr: Series. 
+
+wSat: 2780
+wNetId: 257
+wSId: 728
+wEventId: 32981
+dwStartTime: 1218511800
+dwDuration: 3600
+EventName: It's Your Q&A With PJ Mir
+ShortDescr: 
+ExtendedDescr: Series. 
+
+wSat: 2780
+wNetId: 257
+wSId: 730
+wEventId: 12825
+dwStartTime: 1218488400
+dwDuration: 28800
+EventName: Cricket-Sri Lanka vs. India
+ShortDescr: 
+ExtendedDescr: Sports. Third Test, Day 4: Sri Lanka vs. India. Subject to programmer's schedule change.
+
+wSat: 2780
+wNetId: 257
+wSId: 730
+wEventId: 12975
+dwStartTime: 1218517200
+dwDuration: 28800
+EventName: Cricket-Sri Lanka vs. India
+ShortDescr: 
+ExtendedDescr: Sports. Third Test, Day 5: Sri Lanka vs. India. Subject to programmer's schedule change.
+
+wSat: 2780
+wNetId: 257
+wSId: 880
+wEventId: 4915
+dwStartTime: 1218502800
+dwDuration: 14400
+EventName: SKYWY Channel
+ShortDescr: 
+ExtendedDescr: News. 
+
+wSat: 2780
+wNetId: 257
+wSId: 880
+wEventId: 4916
+dwStartTime: 1218517200
+dwDuration: 14400
+EventName: SKYWY Channel
+ShortDescr: 
+ExtendedDescr: News. 
+
+wSat: 2780
+wNetId: 257
+wSId: 987
+wEventId: 4915
+dwStartTime: 1218502800
+dwDuration: 14400
+EventName: Polskie Radio Program 1
+ShortDescr: 
+ExtendedDescr: Music. Polskie Radio 1.
+
+wSat: 2780
+wNetId: 257
+wSId: 987
+wEventId: 4916
+dwStartTime: 1218517200
+dwDuration: 14400
+EventName: Polskie Radio Program 1
+ShortDescr: 
+ExtendedDescr: Music. Polskie Radio 1.
+
+wSat: 2780
+wNetId: 257
+wSId: 248
+wEventId: 26489
+dwStartTime: 1218492000
+dwDuration: 21600
+EventName: Olympics
+ShortDescr: 
+ExtendedDescr: Sports. Gymnastics (Men's Team Final); Swimming (Various Semifinals and Finals); Volleyball (Men's Preliminaries). (CC) 
+
+wSat: 2780
+wNetId: 257
+wSId: 248
+wEventId: 26490
+dwStartTime: 1218513600
+dwDuration: 10800
+EventName: Olympics
+ShortDescr: 
+ExtendedDescr: Sports. Beach Volleyball (Preliminaries); Diving (Women's Syncro 10m Platform). (CC) 
+
+wSat: 2780
+wNetId: 257
+wSId: 479
+wEventId: 5020
+dwStartTime: 1218502800
+dwDuration: 14400
+EventName: Canadian Odds Channel (INFO)
+ShortDescr: 
+ExtendedDescr: Sports. Starting June '08, HPI-2 will change satellite locations & be offered with HPI-1 for $5/mo. Call 1-888-SKYDISH to order!
+
+wSat: 2780
+wNetId: 257
+wSId: 479
+wEventId: 5021
+dwStartTime: 1218517200
+dwDuration: 14400
+EventName: Canadian Odds Channel (INFO)
+ShortDescr: 
+ExtendedDescr: Sports. Starting June '08, HPI-2 will change satellite locations & be offered with HPI-1 for $5/mo. Call 1-888-SKYDISH to order!
+
+wSat: 2780
+wNetId: 257
+wSId: 705
+wEventId: 29785
+dwStartTime: 1218510000
+dwDuration: 3600
+EventName: Thenkinnam
+ShortDescr: 
+ExtendedDescr: Series. 
+
+wSat: 2780
+wNetId: 257
+wSId: 705
+wEventId: 29786
+dwStartTime: 1218513600
+dwDuration: 1800
+EventName: Salangai Natham
+ShortDescr: 
+ExtendedDescr: Series. 
+
+wSat: 2780
+wNetId: 257
+wSId: 707
+wEventId: 25573
+dwStartTime: 1218510000
+dwDuration: 3600
+EventName: Masthathana Masthana
+ShortDescr: 
+ExtendedDescr: Series. 
+
+wSat: 2780
+wNetId: 257
+wSId: 707
+wEventId: 25574
+dwStartTime: 1218513600
+dwDuration: 1800
+EventName: Songs
+ShortDescr: 
+ExtendedDescr: Music. 
+
+wSat: 2780
+wNetId: 257
+wSId: 713
+wEventId: 23626
+dwStartTime: 1218510000
+dwDuration: 18000
+EventName: 6 Me 11 Mazi
+ShortDescr: 
+ExtendedDescr: Series. 
+
+wSat: 2780
+wNetId: 257
+wSId: 713
+wEventId: 23837
+dwStartTime: 1218528000
+dwDuration: 2700
+EventName: Super Mpampas
+ShortDescr: 
+ExtendedDescr: Series. 
+
+wSat: 2780
+wNetId: 257
+wSId: 714
+wEventId: 17090
+dwStartTime: 1218509100
+dwDuration: 15300
+EventName: Proti Grammi
+ShortDescr: 
+ExtendedDescr: Series. 
+
+wSat: 2780
+wNetId: 257
+wSId: 714
+wEventId: 17091
+dwStartTime: 1218524400
+dwDuration: 7200
+EventName: Paidiko Programma
+ShortDescr: 
+ExtendedDescr: Series. 
+
+wSat: 2780
+wNetId: 257
+wSId: 715
+wEventId: 35405
+dwStartTime: 1218510000
+dwDuration: 1500
+EventName: Trendy Guide
+ShortDescr: 
+ExtendedDescr: Series. Fashion reviews, consumer technology news, home-improvement ideas and more.
+
+wSat: 2780
+wNetId: 257
+wSId: 715
+wEventId: 35406
+dwStartTime: 1218511500
+dwDuration: 900
+EventName: Belle Gourmet
+ShortDescr: 
+ExtendedDescr: Series. Instructional cooking program.
+
+wSat: 2780
+wNetId: 257
+wSId: 721
+wEventId: 30395
+dwStartTime: 1218510000
+dwDuration: 3600
+EventName: Raspisanie Sudeb
+ShortDescr: 
+ExtendedDescr: Series. 
+
+wSat: 2780
+wNetId: 257
+wSId: 721
+wEventId: 30396
+dwStartTime: 1218513600
+dwDuration: 3600
+EventName: Ohota Na Zolushku
+ShortDescr: 
+ExtendedDescr: Series. 
+
+wSat: 2780
+wNetId: 257
+wSId: 722
+wEventId: 36398
+dwStartTime: 1218510000
+dwDuration: 3600
+EventName: Vechernie Novosti
+ShortDescr: 
+ExtendedDescr: Series. 
+
+wSat: 2780
+wNetId: 257
+wSId: 722
+wEventId: 36399
+dwStartTime: 1218513600
+dwDuration: 3600
+EventName: VDOVA BLANKO
+ShortDescr: 
+ExtendedDescr: Series. 
+
+wSat: 2780
+wNetId: 257
+wSId: 729
+wEventId: 31377
+dwStartTime: 1218510000
+dwDuration: 1800
+EventName: News/It's Rocking
+ShortDescr: 
+ExtendedDescr: Series. 
+
+wSat: 2780
+wNetId: 257
+wSId: 729
+wEventId: 31495
+dwStartTime: 1218511800
+dwDuration: 3600
+EventName: Boogie Woogie
+ShortDescr: 
+ExtendedDescr: Series. 
+
+wSat: 2780
+wNetId: 257
+wSId: 978
+wEventId: 4915
+dwStartTime: 1218502800
+dwDuration: 14400
+EventName: Couleur Jazz 91,9 Montréal
+ShortDescr: 
+ExtendedDescr: Couleur Jazz 91,9 Montréal
+ Music. Couleur Jazz 91,9 Montréal est la première station de radio de langue française en amérique dédiée au jazz, au blues et aux musiques du monde.
+
+wSat: 2780
+wNetId: 257
+wSId: 978
+wEventId: 4916
+dwStartTime: 1218517200
+dwDuration: 14400
+EventName: Couleur Jazz 91,9 Montréal
+ShortDescr: 
+ExtendedDescr: Couleur Jazz 91,9 Montréal
+ Music. Couleur Jazz 91,9 Montréal est la première station de radio de langue française en amérique dédiée au jazz, au blues et aux musiques du monde.
+
+wSat: 2780
+wNetId: 257
+wSId: 984
+wEventId: 4917
+dwStartTime: 1218502800
+dwDuration: 14400
+EventName: Deutsche Welle Radio 1
+ShortDescr: 
+ExtendedDescr: Music. Deutsche Welle Radio 1
+
+wSat: 2780
+wNetId: 257
+wSId: 984
+wEventId: 4918
+dwStartTime: 1218517200
+dwDuration: 14400
+EventName: Deutsche Welle Radio 1
+ShortDescr: 
+ExtendedDescr: Music. Deutsche Welle Radio 1
+
+wSat: 2780
+wNetId: 257
+wSId: 985
+wEventId: 4918
+dwStartTime: 1218502800
+dwDuration: 14400
+EventName: Deutsche Welle Radio 2
+ShortDescr: 
+ExtendedDescr: Music. Deutsche Welle Radio 2
+
+wSat: 2780
+wNetId: 257
+wSId: 985
+wEventId: 4919
+dwStartTime: 1218517200
+dwDuration: 14400
+EventName: Deutsche Welle Radio 2
+ShortDescr: 
+ExtendedDescr: Music. Deutsche Welle Radio 2
+
+wSat: 2780
+wNetId: 257
+wSId: 988
+wEventId: 4915
+dwStartTime: 1218502800
+dwDuration: 14400
+EventName: Polskie Radio Program 3
+ShortDescr: 
+ExtendedDescr: Music. Polskie Radio 3.
+
+wSat: 2780
+wNetId: 257
+wSId: 988
+wEventId: 4916
+dwStartTime: 1218517200
+dwDuration: 14400
+EventName: Polskie Radio Program 3
+ShortDescr: 
+ExtendedDescr: Music. Polskie Radio 3.
+
+wSat: 2780
+wNetId: 257
+wSId: 189
+wEventId: 5029
+dwStartTime: 1218502800
+dwDuration: 14400
+EventName: VuTV Off air
+ShortDescr: 
+ExtendedDescr: News. 
+
+wSat: 2780
+wNetId: 257
+wSId: 189
+wEventId: 5030
+dwStartTime: 1218517200
+dwDuration: 14400
+EventName: VuTV Off air
+ShortDescr: 
+ExtendedDescr: News. 
+
+wSat: 2780
+wNetId: 257
+wSId: 790
+wEventId: 3417
+dwStartTime: 1218502800
+dwDuration: 14400
+EventName: TEST
+ShortDescr: 
+ExtendedDescr: -. TEST
+
+wSat: 2780
+wNetId: 257
+wSId: 790
+wEventId: 3418
+dwStartTime: 1218517200
+dwDuration: 14400
+EventName: TEST
+ShortDescr: 
+ExtendedDescr: -. TEST
+
+wSat: 2780
+wNetId: 257
+wSId: 791
+wEventId: 3359
+dwStartTime: 1218502800
+dwDuration: 14400
+EventName: TEST
+ShortDescr: 
+ExtendedDescr: -. TEST
+
+wSat: 2780
+wNetId: 257
+wSId: 791
+wEventId: 3360
+dwStartTime: 1218517200
+dwDuration: 14400
+EventName: TEST
+ShortDescr: 
+ExtendedDescr: -. TEST
+
+wSat: 2780
+wNetId: 257
+wSId: 792
+wEventId: 3422
+dwStartTime: 1218502800
+dwDuration: 14400
+EventName: TEST
+ShortDescr: 
+ExtendedDescr: -. TEST
+
+wSat: 2780
+wNetId: 257
+wSId: 792
+wEventId: 3423
+dwStartTime: 1218517200
+dwDuration: 14400
+EventName: TEST
+ShortDescr: 
+ExtendedDescr: -. TEST
+
+wSat: 2780
+wNetId: 257
+wSId: 793
+wEventId: 3422
+dwStartTime: 1218502800
+dwDuration: 14400
+EventName: TEST
+ShortDescr: 
+ExtendedDescr: -. TEST
+
+wSat: 2780
+wNetId: 257
+wSId: 793
+wEventId: 3423
+dwStartTime: 1218517200
+dwDuration: 14400
+EventName: TEST
+ShortDescr: 
+ExtendedDescr: -. TEST
+
+wSat: 2780
+wNetId: 257
+wSId: 794
+wEventId: 3501
+dwStartTime: 1218502800
+dwDuration: 14400
+EventName: TEST
+ShortDescr: 
+ExtendedDescr: -. TEST
+
+wSat: 2780
+wNetId: 257
+wSId: 794
+wEventId: 3502
+dwStartTime: 1218517200
+dwDuration: 14400
+EventName: TEST
+ShortDescr: 
+ExtendedDescr: -. TEST
+
+wSat: 2780
+wNetId: 257
+wSId: 795
+wEventId: 3445
+dwStartTime: 1218502800
+dwDuration: 14400
+EventName: TEST
+ShortDescr: 
+ExtendedDescr: -. TEST
+
+wSat: 2780
+wNetId: 257
+wSId: 795
+wEventId: 3446
+dwStartTime: 1218517200
+dwDuration: 14400
+EventName: TEST
+ShortDescr: 
+ExtendedDescr: -. TEST
+
+wSat: 2780
+wNetId: 257
+wSId: 796
+wEventId: 1993
+dwStartTime: 1218502800
+dwDuration: 14400
+EventName: TEST
+ShortDescr: 
+ExtendedDescr: -. TEST
+
+wSat: 2780
+wNetId: 257
+wSId: 796
+wEventId: 1994
+dwStartTime: 1218517200
+dwDuration: 14400
+EventName: TEST
+ShortDescr: 
+ExtendedDescr: -. TEST
+
+wSat: 2780
+wNetId: 257
+wSId: 798
+wEventId: 1476
+dwStartTime: 1218502800
+dwDuration: 14400
+EventName: TEST
+ShortDescr: 
+ExtendedDescr: -. TEST
+
+wSat: 2780
+wNetId: 257
+wSId: 798
+wEventId: 1477
+dwStartTime: 1218517200
+dwDuration: 14400
+EventName: TEST
+ShortDescr: 
+ExtendedDescr: -. TEST
+
+wSat: 2780
+wNetId: 257
+wSId: 799
+wEventId: 1475
+dwStartTime: 1218502800
+dwDuration: 14400
+EventName: TEST
+ShortDescr: 
+ExtendedDescr: -. TEST
+
+wSat: 2780
+wNetId: 257
+wSId: 799
+wEventId: 1476
+dwStartTime: 1218517200
+dwDuration: 14400
+EventName: TEST
+ShortDescr: 
+ExtendedDescr: -. TEST
+
+wSat: 2780
+wNetId: 257
+wSId: 827
+wEventId: 3511
+dwStartTime: 1218502800
+dwDuration: 14400
+EventName: Off Air
+ShortDescr: 
+ExtendedDescr: -. Test Channel.
+
+wSat: 2780
+wNetId: 257
+wSId: 827
+wEventId: 3512
+dwStartTime: 1218517200
+dwDuration: 14400
+EventName: Off Air
+ShortDescr: 
+ExtendedDescr: -. Test Channel.
+
+wSat: 2780
+wNetId: 257
+wSId: 891
+wEventId: 4956
+dwStartTime: 1218502800
+dwDuration: 14400
+EventName: Business Television - Off Air
+ShortDescr: 
+ExtendedDescr: News. 
+
+wSat: 2780
+wNetId: 257
+wSId: 891
+wEventId: 4957
+dwStartTime: 1218517200
+dwDuration: 14400
+EventName: Business Television - Off Air
+ShortDescr: 
+ExtendedDescr: News. 
+
+wSat: 2780
+wNetId: 257
+wSId: 892
+wEventId: 5353
+dwStartTime: 1218502800
+dwDuration: 14400
+EventName: Novavision Media - Off Air
+ShortDescr: 
+ExtendedDescr: -. Novavision Media - Off Air.
+
+wSat: 2780
+wNetId: 257
+wSId: 892
+wEventId: 5354
+dwStartTime: 1218517200
+dwDuration: 14400
+EventName: Novavision Media - Off Air
+ShortDescr: 
+ExtendedDescr: -. Novavision Media - Off Air.
+
+wSat: 2780
+wNetId: 257
+wSId: 893
+wEventId: 5041
+dwStartTime: 1218502800
+dwDuration: 14400
+EventName: Business Television-Off Air
+ShortDescr: 
+ExtendedDescr: -. Off Air.
+
+wSat: 2780
+wNetId: 257
+wSId: 893
+wEventId: 5042
+dwStartTime: 1218517200
+dwDuration: 14400
+EventName: Business Television-Off Air
+ShortDescr: 
+ExtendedDescr: -. Off Air.
+
+wSat: 2780
+wNetId: 257
+wSId: 894
+wEventId: 4961
+dwStartTime: 1218502800
+dwDuration: 14400
+EventName: Business Television - Off Air
+ShortDescr: 
+ExtendedDescr: Series. 
+
+wSat: 2780
+wNetId: 257
+wSId: 894
+wEventId: 4962
+dwStartTime: 1218517200
+dwDuration: 14400
+EventName: Business Television - Off Air
+ShortDescr: 
+ExtendedDescr: Series. 
+
+wSat: 2780
+wNetId: 257
+wSId: 895
+wEventId: 5017
+dwStartTime: 1218502800
+dwDuration: 14400
+EventName: Business Television - Off Air
+ShortDescr: 
+ExtendedDescr: News. 
+
+wSat: 2780
+wNetId: 257
+wSId: 895
+wEventId: 5018
+dwStartTime: 1218517200
+dwDuration: 14400
+EventName: Business Television - Off Air
+ShortDescr: 
+ExtendedDescr: News. 
+
+wSat: 2780
+wNetId: 257
+wSId: 897
+wEventId: 5075
+dwStartTime: 1218502800
+dwDuration: 14400
+EventName: BTVHD
+ShortDescr: 
+ExtendedDescr: -. 
+
+wSat: 2780
+wNetId: 257
+wSId: 897
+wEventId: 5076
+dwStartTime: 1218517200
+dwDuration: 14400
+EventName: BTVHD
+ShortDescr: 
+ExtendedDescr: -. 
+
+wSat: 2780
+wNetId: 257
+wSId: 1670
+wEventId: 566
+dwStartTime: 1218502800
+dwDuration: 14400
+EventName: Novavision Media - Off Air
+ShortDescr: 
+ExtendedDescr: -. Novavision Media - Off Air.
+
+wSat: 2780
+wNetId: 257
+wSId: 1670
+wEventId: 567
+dwStartTime: 1218517200
+dwDuration: 14400
+EventName: Novavision Media - Off Air
+ShortDescr: 
+ExtendedDescr: -. Novavision Media - Off Air.
+
+wSat: 2780
+wNetId: 257
+wSId: 765
+wEventId: 1127
+dwStartTime: 1218506400
+dwDuration: 14400
+EventName: Theme Test
+ShortDescr: 
+ExtendedDescr: Movie. Theme Test
+
+wSat: 2780
+wNetId: 257
+wSId: 765
+wEventId: 1111
+dwStartTime: 1218520800
+dwDuration: 14400
+EventName: Theme Test
+ShortDescr: 
+ExtendedDescr: Movie. Theme Test
+
+wSat: 2780
+wNetId: 257
+wSId: 834
+wEventId: 101
+dwStartTime: 1218506400
+dwDuration: 10800
+EventName: LIVE Olympics CBCHD Extra(All Day)
+ShortDescr: 
+ExtendedDescr: Gymnastics/Gymnastique
+ Sports. (7pm-7pm ET)Men's Team Final(43222) (Stereo)
+
+wSat: 2780
+wNetId: 257
+wSId: 834
+wEventId: 102
+dwStartTime: 1218517200
+dwDuration: 9900
+EventName: Olympics CBCHD Extra (INFO)(All Day)
+ShortDescr: 
+ExtendedDescr: Sports. (7pm-7pm ET)Stay tuned for upcoming coverage of the Beijing Games in High Definition / Ne manquez pas notre couverture des jeux de Beijing 2008 en HD(43223) (Stereo)
+
+wSat: 2780
+wNetId: 257
+wSId: 835
+wEventId: 104
+dwStartTime: 1218506400
+dwDuration: 21600
+EventName: LIVE Olympics CBCHD Extra
+ShortDescr: 
+ExtendedDescr: Swimming/Natation
+ Sports. W 200m Freestyle Semi, M 200m Freestyle Final, W100m Backstroke Final, M 100m Backstroke Final, W 100m Breaststroke Final, M 200m Butterfly Semi, W 200m Indiv Medley Semi.(43234) (Stereo)
+
+wSat: 2780
+wNetId: 257
+wSId: 835
+wEventId: 105
+dwStartTime: 1218528000
+dwDuration: 18000
+EventName: Olympics CBCHD Extra (INFO)
+ShortDescr: 
+ExtendedDescr: Sports. Stay tuned for upcoming coverage of the Beijing Games in High Definition. (Stereo)
+
+wSat: 2780
+wNetId: 257
+wSId: 866
+wEventId: 17
+dwStartTime: 1218506400
+dwDuration: 10800
+EventName: LIVE Olympics CBCHD Extra(All Day)
+ShortDescr: 
+ExtendedDescr: Gymnastics/Gymnastique
+ Sports. (7pm-7pm ET)Men's Team Final(43222) (Stereo)
+
+wSat: 2780
+wNetId: 257
+wSId: 866
+wEventId: 18
+dwStartTime: 1218517200
+dwDuration: 9900
+EventName: Olympics CBCHD Extra (INFO)(All Day)
+ShortDescr: 
+ExtendedDescr: Sports. (7pm-7pm ET)Stay tuned for upcoming coverage of the Beijing Games in High Definition / Ne manquez pas notre couverture des jeux de Beijing 2008 en HD(43223) (Stereo)
+
+wSat: 2780
+wNetId: 257
+wSId: 867
+wEventId: 4
+dwStartTime: 1218506400
+dwDuration: 21600
+EventName: LIVE Olympics CBCHD Extra
+ShortDescr: 
+ExtendedDescr: Swimming/Natation
+ Sports. W 200m Freestyle Semi, M 200m Freestyle Final, W100m Backstroke Final, M 100m Backstroke Final, W 100m Breaststroke Final, M 200m Butterfly Semi, W 200m Indiv Medley Semi(43234) (Stereo)
+
+wSat: 2780
+wNetId: 257
+wSId: 867
+wEventId: 5
+dwStartTime: 1218528000
+dwDuration: 18000
+EventName: Olympics CBCHD Extra (INFO)
+ShortDescr: 
+ExtendedDescr: Sports. Stay tuned for upcoming coverage of the Beijing Games in High Definition. (Stereo)
+
+wSat: 2780
+wNetId: 257
+wSId: 1200
+wEventId: 1268
+dwStartTime: 1218510000
+dwDuration: 3600
+EventName: TEST
+ShortDescr: 
+ExtendedDescr: Movie.  (2008) TEST
+
+wSat: 2780
+wNetId: 257
+wSId: 1200
+wEventId: 1269
+dwStartTime: 1218513600
+dwDuration: 3600
+EventName: TEST
+ShortDescr: 
+ExtendedDescr: Movie.  (2008) TEST
+
+wSat: 2780
+wNetId: 257
+wSId: 9201
+wEventId: 759
+dwStartTime: 1218502800
+dwDuration: 14400
+EventName: TEST
+ShortDescr: 
+ExtendedDescr: -. TEST
+
+wSat: 2780
+wNetId: 257
+wSId: 9201
+wEventId: 760
+dwStartTime: 1218517200
+dwDuration: 14400
+EventName: TEST
+ShortDescr: 
+ExtendedDescr: -. TEST
+
+wSat: 2780
+wNetId: 257
+wSId: 9202
+wEventId: 541
+dwStartTime: 1218502800
+dwDuration: 14400
+EventName: TEST
+ShortDescr: 
+ExtendedDescr: -. TEST
+
+wSat: 2780
+wNetId: 257
+wSId: 9202
+wEventId: 542
+dwStartTime: 1218517200
+dwDuration: 14400
+EventName: TEST
+ShortDescr: 
+ExtendedDescr: -. TEST
+
+wSat: 2780
+wNetId: 257
+wSId: 9203
+wEventId: 542
+dwStartTime: 1218502800
+dwDuration: 14400
+EventName: TEST
+ShortDescr: 
+ExtendedDescr: -. TEST
+
+wSat: 2780
+wNetId: 257
+wSId: 9203
+wEventId: 543
+dwStartTime: 1218517200
+dwDuration: 14400
+EventName: TEST
+ShortDescr: 
+ExtendedDescr: -. TEST
+
+wSat: 2780
+wNetId: 257
+wSId: 9204
+wEventId: 542
+dwStartTime: 1218502800
+dwDuration: 14400
+EventName: TEST
+ShortDescr: 
+ExtendedDescr: -. TEST
+
+wSat: 2780
+wNetId: 257
+wSId: 9204
+wEventId: 543
+dwStartTime: 1218517200
+dwDuration: 14400
+EventName: TEST
+ShortDescr: 
+ExtendedDescr: -. TEST
+
+wSat: 2780
+wNetId: 257
+wSId: 9205
+wEventId: 542
+dwStartTime: 1218502800
+dwDuration: 14400
+EventName: TEST
+ShortDescr: 
+ExtendedDescr: -. TEST
+
+wSat: 2780
+wNetId: 257
+wSId: 9205
+wEventId: 543
+dwStartTime: 1218517200
+dwDuration: 14400
+EventName: TEST
+ShortDescr: 
+ExtendedDescr: -. TEST
+
+wSat: 2780
+wNetId: 257
+wSId: 9206
+wEventId: 542
+dwStartTime: 1218502800
+dwDuration: 14400
+EventName: TEST
+ShortDescr: 
+ExtendedDescr: -. TEST
+
+wSat: 2780
+wNetId: 257
+wSId: 9206
+wEventId: 543
+dwStartTime: 1218517200
+dwDuration: 14400
+EventName: TEST
+ShortDescr: 
+ExtendedDescr: -. TEST
+
+wSat: 2780
+wNetId: 257
+wSId: 9207
+wEventId: 542
+dwStartTime: 1218502800
+dwDuration: 14400
+EventName: TEST
+ShortDescr: 
+ExtendedDescr: -. TEST
+
+wSat: 2780
+wNetId: 257
+wSId: 9207
+wEventId: 543
+dwStartTime: 1218517200
+dwDuration: 14400
+EventName: TEST
+ShortDescr: 
+ExtendedDescr: -. TEST
+
+wSat: 2780
+wNetId: 257
+wSId: 9208
+wEventId: 542
+dwStartTime: 1218502800
+dwDuration: 14400
+EventName: TEST
+ShortDescr: 
+ExtendedDescr: -. TEST
+
+wSat: 2780
+wNetId: 257
+wSId: 9208
+wEventId: 543
+dwStartTime: 1218517200
+dwDuration: 14400
+EventName: TEST
+ShortDescr: 
+ExtendedDescr: -. TEST
+
+wSat: 2780
+wNetId: 257
+wSId: 9209
+wEventId: 542
+dwStartTime: 1218502800
+dwDuration: 14400
+EventName: TEST
+ShortDescr: 
+ExtendedDescr: -. TEST
+
+wSat: 2780
+wNetId: 257
+wSId: 9209
+wEventId: 543
+dwStartTime: 1218517200
+dwDuration: 14400
+EventName: TEST
+ShortDescr: 
+ExtendedDescr: -. TEST
+
+wSat: 2780
+wNetId: 257
+wSId: 9210
+wEventId: 2557
+dwStartTime: 1218510000
+dwDuration: 3600
+EventName: TEST
+ShortDescr: 
+ExtendedDescr: -. TEST
+
+wSat: 2780
+wNetId: 257
+wSId: 9210
+wEventId: 2558
+dwStartTime: 1218513600
+dwDuration: 3600
+EventName: TEST
+ShortDescr: 
+ExtendedDescr: -. TEST
+
+wSat: 2780
+wNetId: 257
+wSId: 9211
+wEventId: 2559
+dwStartTime: 1218510000
+dwDuration: 3600
+EventName: TEST
+ShortDescr: 
+ExtendedDescr: -. TEST
+
+wSat: 2780
+wNetId: 257
+wSId: 9211
+wEventId: 2560
+dwStartTime: 1218513600
+dwDuration: 3600
+EventName: TEST
+ShortDescr: 
+ExtendedDescr: -. TEST
+
+wSat: 2780
+wNetId: 257
+wSId: 9212
+wEventId: 1532
+dwStartTime: 1218506400
+dwDuration: 5400
+EventName: Cleaner
+ShortDescr: 
+ExtendedDescr: Movie. Samuel L. Jackson, Ed Harris, Eva Mendes.  (2008) A former cop turned crime scene cleaner unknowingly aids in a cover-up and gets tied up in a web of deception & family secrets.(41763) (CC)  (Stereo)
+
+wSat: 2780
+wNetId: 257
+wSId: 9212
+wEventId: 1533
+dwStartTime: 1218511800
+dwDuration: 7200
+EventName: Funny Games
+ShortDescr: 
+ExtendedDescr: Movie. Naomi Watts, Tim Roth, Michael Pitt.  (2008) While on vacation, a family is taken hostage by two psychopaths with a deadly game in mind. (Widescreen)(41764) (CC)  (Stereo)
+
+wSat: 2780
+wNetId: 257
+wSId: 690
+wEventId: 28075
+dwStartTime: 1218510000
+dwDuration: 1800
+EventName: Alberta Satellite Bingo
+ShortDescr: 
+ExtendedDescr: -. 
+
+wSat: 2780
+wNetId: 257
+wSId: 690
+wEventId: 28076
+dwStartTime: 1218511800
+dwDuration: 1800
+EventName: Ontario Bingo - The Late Link
+ShortDescr: 
+ExtendedDescr: -. 
+
+wSat: 2780
+wNetId: 257
+wSId: 802
+wEventId: 29241
+dwStartTime: 1218492300
+dwDuration: 21300
+EventName: HD-Olympics
+ShortDescr: 
+ExtendedDescr: Sports. Gymnastics (Men's Team Final); Swimming (Various Semifinals and Finals); Volleyball (Men's Preliminaries). (CC) 
+
+wSat: 2780
+wNetId: 257
+wSId: 802
+wEventId: 29243
+dwStartTime: 1218513600
+dwDuration: 10800
+EventName: HD-Olympics
+ShortDescr: 
+ExtendedDescr: Sports. Beach Volleyball (Preliminaries); Diving (Women's Syncro 10m Platform). (CC) 
+
+wSat: 2780
+wNetId: 257
+wSId: 868
+wEventId: 119
+dwStartTime: 1218492300
+dwDuration: 21300
+EventName: HD-CBCHE Olympics
+ShortDescr: 
+ExtendedDescr: Sports. Gymnastics (Men's Team Final); Swimming (Various Semifinals and Finals); Volleyball (Men's Preliminaries). (CC) 
+
+wSat: 2780
+wNetId: 257
+wSId: 868
+wEventId: 120
+dwStartTime: 1218513600
+dwDuration: 10800
+EventName: HD-CBCHE Olympics
+ShortDescr: 
+ExtendedDescr: Sports. Beach Volleyball (Preliminaries); Diving (Women's Syncro 10m Platform). (CC) 
+
+wSat: 2780
+wNetId: 257
+wSId: 871
+wEventId: 34
+dwStartTime: 1218042000
+dwDuration: 14400
+EventName: HD CBC Beijing coverage Aug 8th!
+ShortDescr: 
+ExtendedDescr: Stay tuned for HD CBC Beijing coverage starting August 8th!
+
+wSat: 2780
+wNetId: 257
+wSId: 871
+wEventId: 3
+dwStartTime: 1218056400
+dwDuration: 14400
+EventName: HD CBC Beijing coverage Aug 8th!
+ShortDescr: 
+ExtendedDescr: Stay tuned for HD CBC Beijing coverage starting August 8th!
+
+wSat: 2780
+wNetId: 257
+wSId: 898
+wEventId: 4915
+dwStartTime: 1218502800
+dwDuration: 14400
+EventName: NovaVision
+ShortDescr: 
+ExtendedDescr: News. Jean Coutu Musique.
+
+wSat: 2780
+wNetId: 257
+wSId: 898
+wEventId: 4916
+dwStartTime: 1218517200
+dwDuration: 14400
+EventName: NovaVision
+ShortDescr: 
+ExtendedDescr: News. Jean Coutu Musique.
+
+wSat: 2780
+wNetId: 257
+wSId: 781
+wEventId: 12261
+dwStartTime: 1218506700
+dwDuration: 7200
+EventName: AOV Adult Movie Channel
+ShortDescr: 
+ExtendedDescr: Roommate from Hell
+ Series. 'Roommate from Hell.'
+
+wSat: 2780
+wNetId: 257
+wSId: 781
+wEventId: 12262
+dwStartTime: 1218513900
+dwDuration: 7500
+EventName: AOV Adult Movie Channel
+ShortDescr: 
+ExtendedDescr: Beautiful Orientals
+ Series. 'Beautiful Orientals.'
+
+wSat: 2780
+wNetId: 257
+wSId: 782
+wEventId: 10898
+dwStartTime: 1218508200
+dwDuration: 5700
+EventName: AOV Maleflixxx
+ShortDescr: 
+ExtendedDescr: Cadet (Studio 2000)
+ Series. 'Cadet.' (Studio 2000)
+
+wSat: 2780
+wNetId: 257
+wSId: 782
+wEventId: 10899
+dwStartTime: 1218513900
+dwDuration: 5100
+EventName: AOV Maleflixxx
+ShortDescr: 
+ExtendedDescr: Father Son Weekend (Galaxy Pictures)
+ Series. 'Father Son Weekend.' (Galaxy Pictures)
+
+wSat: 2780
+wNetId: 257
+wSId: 860
+wEventId: 22710
+dwStartTime: 1218504600
+dwDuration: 12600
+EventName: Jeux Olympiques de Pékin 2008
+ShortDescr: 
+ExtendedDescr: Sports. Finales de gymnastique masculine, Demi-finales et finales de natation, water-polo masculin, basket-b. (CC) 
+
+wSat: 2780
+wNetId: 257
+wSId: 860
+wEventId: 22711
+dwStartTime: 1218517200
+dwDuration: 18000
+EventName: Fin des émissions
+ShortDescr: 
+ExtendedDescr: Fin des émissions
+ -. Fin des émissions
+
+wSat: 2780
+wNetId: 257
+wSId: 870
+wEventId: 19
+dwStartTime: 1218042000
+dwDuration: 14400
+EventName: HD SRC Beijing 08
+ShortDescr: 
+ExtendedDescr: Restez à l'écoute de la couverture des Jeux Olympiques commençant le 8 août.
+
+wSat: 2780
+wNetId: 257
+wSId: 870
+wEventId: 42
+dwStartTime: 1218056400
+dwDuration: 14400
+EventName: HD SRC Beijing 08 le 8 août
+ShortDescr: 
+ExtendedDescr: Restez à l'écoute de la couverture des Jeux Olympiques commençant le 8 août.
+
+wSat: 2780
+wNetId: 257
+wSId: 873
+wEventId: 106
+dwStartTime: 1218504600
+dwDuration: 12600
+EventName: Jeux Olympiques de Pékin 2008
+ShortDescr: 
+ExtendedDescr: Sports. Finales de gymnastique masculine, Demi-finales et finales de natation, water-polo masculin, basketball. (CC) 
+
+wSat: 2780
+wNetId: 257
+wSId: 873
+wEventId: 209
+dwStartTime: 1218517200
+dwDuration: 18000
+EventName: HD-SRC Couverture Pékin à 6amET
+ShortDescr: 
+ExtendedDescr: SRC-HE les jeux de Pékin continus à 6amET avec le qualifications de natation, plongeon féminin, water-polo masculin, basketball masculin, volleyball.
+
+wSat: 2780
+wNetId: 257
+wSId: 919
+wEventId: 4915
+dwStartTime: 1218502800
+dwDuration: 14400
+EventName: Galaxie Electronic
+ShortDescr: 
+ExtendedDescr: Galaxie Electronic
+ Music. Electronic music for lifestyle clubbing./Musique électronique des plus en vogue. Pro: Nigel Newton
+
+wSat: 2780
+wNetId: 257
+wSId: 919
+wEventId: 4916
+dwStartTime: 1218517200
+dwDuration: 14400
+EventName: Galaxie Electronic
+ShortDescr: 
+ExtendedDescr: Galaxie Electronic
+ Music. Electronic music for lifestyle clubbing./Musique électronique des plus en vogue. Pro: Nigel Newton
+
+wSat: 2780
+wNetId: 257
+wSId: 925
+wEventId: 4915
+dwStartTime: 1218502800
+dwDuration: 14400
+EventName: Galaxie Standards
+ShortDescr: 
+ExtendedDescr: Galaxie Standards
+ Music. The names are legendary; the songs are classics./Les chansons classiques et les chanteurs  légendaires du monde. Pro: Bryan Brodie
+
+wSat: 2780
+wNetId: 257
+wSId: 925
+wEventId: 4916
+dwStartTime: 1218517200
+dwDuration: 14400
+EventName: Galaxie Standards
+ShortDescr: 
+ExtendedDescr: Galaxie Standards
+ Music. The names are legendary; the songs are classics./Les chansons classiques et les chanteurs  légendaires du monde. Pro: Bryan Brodie
+
+wSat: 2780
+wNetId: 257
+wSId: 927
+wEventId: 4915
+dwStartTime: 1218502800
+dwDuration: 14400
+EventName: Galaxie LatinoTropical
+ShortDescr: 
+ExtendedDescr: Galaxie LatinoTropical
+ Music. The hottest salsa, samba and tropical music./Les séduisantes salsa, samba et musiques des tropiques. Pro: Ralph Boncy
+
+wSat: 2780
+wNetId: 257
+wSId: 927
+wEventId: 4916
+dwStartTime: 1218517200
+dwDuration: 14400
+EventName: Galaxie LatinoTropical
+ShortDescr: 
+ExtendedDescr: Galaxie LatinoTropical
+ Music. The hottest salsa, samba and tropical music./Les séduisantes salsa, samba et musiques des tropiques. Pro: Ralph Boncy
+
+wSat: 2780
+wNetId: 257
+wSId: 935
+wEventId: 4915
+dwStartTime: 1218502800
+dwDuration: 14400
+EventName: Galaxie OperaPlus
+ShortDescr: 
+ExtendedDescr: Galaxie OperaPlus
+ Music. The greatest singers of opera, choral music and recitals./Les plus belles voix d'opéra, de récital et de chorale. Pro: Kelly Galbraith
+
+wSat: 2780
+wNetId: 257
+wSId: 935
+wEventId: 4916
+dwStartTime: 1218517200
+dwDuration: 14400
+EventName: Galaxie OperaPlus
+ShortDescr: 
+ExtendedDescr: Galaxie OperaPlus
+ Music. The greatest singers of opera, choral music and recitals./Les plus belles voix d'opéra, de récital et de chorale. Pro: Kelly Galbraith
+
+wSat: 2780
+wNetId: 257
+wSId: 937
+wEventId: 4915
+dwStartTime: 1218502800
+dwDuration: 14400
+EventName: Galaxie Celtic/Celtique
+ShortDescr: 
+ExtendedDescr: Galaxie Celtic/Celtique
+ Music. Celtic and Gaelic music for a taste of heritage./Une saveur historique de musique celtique et gaélique. Pro: Mary Jane Lamond
+
+wSat: 2780
+wNetId: 257
+wSId: 937
+wEventId: 4916
+dwStartTime: 1218517200
+dwDuration: 14400
+EventName: Galaxie Celtic/Celtique
+ShortDescr: 
+ExtendedDescr: Galaxie Celtic/Celtique
+ Music. Celtic and Gaelic music for a taste of heritage./Une saveur historique de musique celtique et gaélique. Pro: Mary Jane Lamond
+
+wSat: 2780
+wNetId: 257
+wSId: 844
+wEventId: 4510
+dwStartTime: 1218510900
+dwDuration: 2700
+EventName: HD-The Last Maneater
+ShortDescr: 
+ExtendedDescr: The Last Maneater: Killer Tigers of India
+ Series. A look at the Sunderban tigers in India, which are considered the last 'man-eaters' on Earth (CC)  (Stereo)
+
+wSat: 2780
+wNetId: 257
+wSId: 844
+wEventId: 4511
+dwStartTime: 1218513600
+dwDuration: 2700
+EventName: HD-Satisfaction
+ShortDescr: 
+ExtendedDescr: Family
+ Series. Diana Glenn, Kestie Morassi, Bojana Novakovic. Heather is offered some on-going support; one of Lauren's clients brushes up on his seduction skills. (Stereo)
+
+wSat: 2780
+wNetId: 257
+wSId: 845
+wEventId: 19648
+dwStartTime: 1218510900
+dwDuration: 2700
+EventName: Stump the Schwab
+ShortDescr: 
+ExtendedDescr: Series. Contestants duel in sports knowledge against ESPN's sports trivia czar Howard Schwab. (CC) 
+
+wSat: 2780
+wNetId: 257
+wSId: 845
+wEventId: 19649
+dwStartTime: 1218513600
+dwDuration: 7200
+EventName: HD-WWE Monday Night RAW
+ShortDescr: 
+ExtendedDescr: Sports. The wild action and excitement of the WWE. (CC) 
+
+wSat: 2780
+wNetId: 257
+wSId: 852
+wEventId: 2536
+dwStartTime: 1218502800
+dwDuration: 10800
+EventName: Sportsnet HD (INFO)
+ShortDescr: 
+ExtendedDescr: -. 
+
+wSat: 2780
+wNetId: 257
+wSId: 852
+wEventId: 2537
+dwStartTime: 1218513600
+dwDuration: 14400
+EventName: Sportsnet HD (INFO)
+ShortDescr: 
+ExtendedDescr: -. 
+
+wSat: 2780
+wNetId: 257
+wSId: 846
+wEventId: 2072
+dwStartTime: 1218502800
+dwDuration: 10800
+EventName: Sportsnet HD (INFO)
+ShortDescr: 
+ExtendedDescr: -. 
+
+wSat: 2780
+wNetId: 257
+wSId: 846
+wEventId: 2073
+dwStartTime: 1218513600
+dwDuration: 14400
+EventName: Sportsnet HD (INFO)
+ShortDescr: 
+ExtendedDescr: -. 
+
+wSat: 2780
+wNetId: 257
+wSId: 866
+wEventId: 18453
+dwStartTime: 1218045600
+dwDuration: 7200
+EventName: Off Air-NHL Centre Ice (INFO)
+ShortDescr: 
+ExtendedDescr: -. Stay tuned for details on the upcoming 2008-2009 season.
+
+wSat: 2780
+wNetId: 257
+wSId: 866
+wEventId: 18454
+dwStartTime: 1218052800
+dwDuration: 7200
+EventName: Off Air-NHL Centre Ice (INFO)
+ShortDescr: 
+ExtendedDescr: -. Stay tuned for details on the upcoming 2008-2009 season.
+
+wSat: 2780
+wNetId: 257
+wSId: 884
+wEventId: 13572
+dwStartTime: 1218499200
+dwDuration: 12600
+EventName: MLB HD: NY Yankees vs Minnesota
+ShortDescr: 
+ExtendedDescr: Sports. High Definition. New York Yankees vs Minnesota Twins. (Stereo)
+
+wSat: 2780
+wNetId: 257
+wSId: 884
+wEventId: 13573
+dwStartTime: 1218511800
+dwDuration: 1800
+EventName: MLB Extra Innings
+ShortDescr: 
+ExtendedDescr: Sports.  (Stereo)
+
+wSat: 2780
+wNetId: 257
+wSId: 9214
+wEventId: 418
+dwStartTime: 1218502800
+dwDuration: 14400
+EventName: Test Channel
+ShortDescr: 
+ExtendedDescr: -. Test Channel
+
+wSat: 2780
+wNetId: 257
+wSId: 9214
+wEventId: 419
+dwStartTime: 1218517200
+dwDuration: 14400
+EventName: Test Channel
+ShortDescr: 
+ExtendedDescr: -. Test Channel
+
+wSat: 2780
+wNetId: 257
+wSId: 9215
+wEventId: 418
+dwStartTime: 1218502800
+dwDuration: 14400
+EventName: Test Channel
+ShortDescr: 
+ExtendedDescr: -. Test Channel
+
+wSat: 2780
+wNetId: 257
+wSId: 9215
+wEventId: 419
+dwStartTime: 1218517200
+dwDuration: 14400
+EventName: Test Channel
+ShortDescr: 
+ExtendedDescr: -. Test Channel
+
+wSat: 2780
+wNetId: 257
+wSId: 9216
+wEventId: 418
+dwStartTime: 1218502800
+dwDuration: 14400
+EventName: Test Channel
+ShortDescr: 
+ExtendedDescr: -. Test Channel
+
+wSat: 2780
+wNetId: 257
+wSId: 9216
+wEventId: 419
+dwStartTime: 1218517200
+dwDuration: 14400
+EventName: Test Channel
+ShortDescr: 
+ExtendedDescr: -. Test Channel
+
+wSat: 2780
+wNetId: 257
+wSId: 156
+wEventId: 19663
+dwStartTime: 1218505500
+dwDuration: 7200
+EventName: HD - Drôle de jeux
+ShortDescr: 
+ExtendedDescr: Film. Naomi Watts, Tim Roth, Michael Pitt.  (2008) En haute définition! Durant leurs vacances, une famille est prise en otage par 2 psychopathes avec l'idée d'un jeu dangereux en tête...(42078) (Stereo)
+
+wSat: 2780
+wNetId: 257
+wSId: 156
+wEventId: 19664
+dwStartTime: 1218512700
+dwDuration: 6300
+EventName: HD - Harold et Kumar 2!
+ShortDescr: 
+ExtendedDescr: Film. John Cho, Kal Penn, Neil Patrick Harris.  (2008) En haute définition! Les nouvelles aventures d'Harold et Kumar. Les 2 amis sont poursuivis après avoir été pris pour des terroristes.(42079) (Stereo)
+
+wSat: 2780
+wNetId: 257
+wSId: 195
+wEventId: 31191
+dwStartTime: 1218502800
+dwDuration: 14400
+EventName: Dealer Channel
+ShortDescr: 
+ExtendedDescr: -. Dealer Channel.
+
+wSat: 2780
+wNetId: 257
+wSId: 195
+wEventId: 31192
+dwStartTime: 1218517200
+dwDuration: 14400
+EventName: Dealer Channel
+ShortDescr: 
+ExtendedDescr: -. Dealer Channel.
+
+wSat: 2780
+wNetId: 257
+wSId: 383
+wEventId: 7901
+dwStartTime: 1218505500
+dwDuration: 7200
+EventName: HD - Funny Games
+ShortDescr: 
+ExtendedDescr: Movie. Naomi Watts, Tim Roth, Michael Pitt.  (2008) In Hi-Def! While on vacation, a family is taken hostage by two psychopaths with a deadly game in mind.(42078) (Stereo)
+
+wSat: 2780
+wNetId: 257
+wSId: 383
+wEventId: 7902
+dwStartTime: 1218512700
+dwDuration: 6300
+EventName: HD - Harold & Kumar Escape...
+ShortDescr: 
+ExtendedDescr: Movie. John Cho, Kal Penn, Neil Patrick Harris.  (2008) In Hi-Def! Sequel! After being mistaken for terrorists aboard a plane, Harold & Kumar must figure out a way to escape from Guantanamo Bay!(5.1)(42079) (Stereo)
+
+wSat: 2780
+wNetId: 257
+wSId: 384
+wEventId: 10291
+dwStartTime: 1218510000
+dwDuration: 5400
+EventName: HD - Superhero Movie - Extended
+ShortDescr: 
+ExtendedDescr: Movie. Leslie Nielsen, Pamela Anderson, Tracy Morgan.  (2008) In HD! Extended version not seen in theatres! From Spider-Man to the Fantastic 4, this hilarious spoof takes aim at hit superhero films! (5.1)(42099) (Stereo)
+
+wSat: 2780
+wNetId: 257
+wSId: 384
+wEventId: 10292
+dwStartTime: 1218515400
+dwDuration: 5400
+EventName: HD - Superhero Movie - Extended
+ShortDescr: 
+ExtendedDescr: Movie. Leslie Nielsen, Pamela Anderson, Tracy Morgan.  (2008) In HD! Extended version not seen in theatres! From Spider-Man to the Fantastic 4, this hilarious spoof takes aim at hit superhero films! (5.1)(42100) (Stereo)
+
+wSat: 2780
+wNetId: 257
+wSId: 467
+wEventId: 18625
+dwStartTime: 1218506400
+dwDuration: 7200
+EventName: Off Air-NFL Sunday Ticket(INFO)
+ShortDescr: 
+ExtendedDescr: -. Stay tuned for details on the upcoming 2008-2009 season.
+
+wSat: 2780
+wNetId: 257
+wSId: 467
+wEventId: 18626
+dwStartTime: 1218513600
+dwDuration: 7200
+EventName: Off Air-NFL Sunday Ticket(INFO)
+ShortDescr: 
+ExtendedDescr: -. Stay tuned for details on the upcoming 2008-2009 season.
+
+wSat: 2780
+wNetId: 257
+wSId: 468
+wEventId: 18500
+dwStartTime: 1218506400
+dwDuration: 7200
+EventName: Off Air-NFL Sunday Ticket(INFO)
+ShortDescr: 
+ExtendedDescr: -. Stay tuned for details on the upcoming 2008-2009 season.
+
+wSat: 2780
+wNetId: 257
+wSId: 468
+wEventId: 18501
+dwStartTime: 1218513600
+dwDuration: 7200
+EventName: Off Air-NFL Sunday Ticket(INFO)
+ShortDescr: 
+ExtendedDescr: -. Stay tuned for details on the upcoming 2008-2009 season.
+
+wSat: 2780
+wNetId: 257
+wSId: 830
+wEventId: 19663
+dwStartTime: 1218505500
+dwDuration: 7200
+EventName: HD - Funny Games
+ShortDescr: 
+ExtendedDescr: Movie. Naomi Watts, Tim Roth, Michael Pitt.  (2008) In Hi-Def! While on vacation, a family is taken hostage by two psychopaths with a deadly game in mind.(42078) (Stereo)
+
+wSat: 2780
+wNetId: 257
+wSId: 830
+wEventId: 19664
+dwStartTime: 1218512700
+dwDuration: 6300
+EventName: HD - Harold & Kumar Escape...
+ShortDescr: 
+ExtendedDescr: Movie. John Cho, Kal Penn, Neil Patrick Harris.  (2008) In Hi-Def! Sequel! After being mistaken for terrorists aboard a plane, Harold & Kumar must figure out a way to escape from Guantanamo Bay!(5.1)(42079) (Stereo)
+
+wSat: 2780
+wNetId: 257
+wSId: 831
+wEventId: 27108
+dwStartTime: 1218510000
+dwDuration: 5400
+EventName: HD - Superhero Movie - Extended
+ShortDescr: 
+ExtendedDescr: Movie. Leslie Nielsen, Pamela Anderson, Tracy Morgan.  (2008) In HD! Extended version not seen in theatres! From Spider-Man to the Fantastic 4, this hilarious spoof takes aim at hit superhero films! (5.1)(42099) (Stereo)
+
+wSat: 2780
+wNetId: 257
+wSId: 831
+wEventId: 27109
+dwStartTime: 1218515400
+dwDuration: 5400
+EventName: HD - Superhero Movie - Extended
+ShortDescr: 
+ExtendedDescr: Movie. Leslie Nielsen, Pamela Anderson, Tracy Morgan.  (2008) In HD! Extended version not seen in theatres! From Spider-Man to the Fantastic 4, this hilarious spoof takes aim at hit superhero films! (5.1)(42100) (Stereo)
+
+wSat: 2780
+wNetId: 257
+wSId: 474
+wEventId: 4098
+dwStartTime: 1218502800
+dwDuration: 14400
+EventName: FOX Programming
+ShortDescr: 
+ExtendedDescr: News. FOX Programming.
+
+wSat: 2780
+wNetId: 257
+wSId: 474
+wEventId: 4099
+dwStartTime: 1218517200
+dwDuration: 14400
+EventName: FOX Programming
+ShortDescr: 
+ExtendedDescr: News. FOX Programming.
+
+wSat: 2780
+wNetId: 257
+wSId: 803
+wEventId: 19250
+dwStartTime: 1218510000
+dwDuration: 2100
+EventName: HD-News
+ShortDescr: 
+ExtendedDescr: News. A look at the day's top news stories. (CC) 
+
+wSat: 2780
+wNetId: 257
+wSId: 803
+wEventId: 19251
+dwStartTime: 1218512100
+dwDuration: 1860
+EventName: CityNews International
+ShortDescr: 
+ExtendedDescr: News. Up-to-the-minute news reports from around the world. Hosted by Gord Martineau. (CC) 
+
+wSat: 2780
+wNetId: 257
+wSId: 820
+wEventId: 20864
+dwStartTime: 1218510000
+dwDuration: 16200
+EventName: HD-Olympics
+ShortDescr: 
+ExtendedDescr: Sports. Gymnastics (Men's Team Final); Swimming (Finals: Includes Men's 200m Freestyle) (CC)  (Stereo)
+
+wSat: 2780
+wNetId: 257
+wSId: 820
+wEventId: 20865
+dwStartTime: 1218526200
+dwDuration: 2100
+EventName: News
+ShortDescr: 
+ExtendedDescr: News. A look at the day's top news stories.
+
+wSat: 2780
+wNetId: 257
+wSId: 823
+wEventId: 27353
+dwStartTime: 1218510000
+dwDuration: 3600
+EventName: HD-Prison Break
+ShortDescr: 
+ExtendedDescr: Dirt Nap
+ Series. Dominic Purcell, Wentworth Miller, Amaury Nolasco. Sammy causes the failure of Michael's escape plan; T-Bag pressures Bellick into one more fight. (CC)  (Stereo)
+
+wSat: 2780
+wNetId: 257
+wSId: 823
+wEventId: 27354
+dwStartTime: 1218513600
+dwDuration: 3600
+EventName: HD-Terminator...
+ShortDescr: 
+ExtendedDescr: Gnothi Seauton
+ Series. Lena Headey, Thomas Dekker, Summer Glau. Sarah contacts an old friend for a favor; John decides to visit Sarah's ex and Cameron makes a new friend. (CC)  (Stereo)
+
+wSat: 2780
+wNetId: 257
+wSId: 871
+wEventId: 116
+dwStartTime: 1218510000
+dwDuration: 16200
+EventName: HD-NBCHW Olympics
+ShortDescr: 
+ExtendedDescr: Sports. Gymnastics (Men's Team Final); Swimming (Finals: Includes Men's 200m Freestyle) (CC)  (Stereo)
+
+wSat: 2780
+wNetId: 257
+wSId: 871
+wEventId: 259
+dwStartTime: 1218526200
+dwDuration: 2100
+EventName: HD-NBC Beijing coverage @ 1:05amPT
+ShortDescr: 
+ExtendedDescr: NBC-West Beijing coverage continues at 1:05amPT with Volleyball (Men's Preliminaries: U.S.A. vs. Italy); Swimming (Semifinals: Women's 200m Freestyle & 200m Individual Medley).
+
+wSat: 2780
+wNetId: 257
+wSId: 473
+wEventId: 4538
+dwStartTime: 1218502800
+dwDuration: 14400
+EventName: FOX Programming
+ShortDescr: 
+ExtendedDescr: News. FOX Programming.
+
+wSat: 2780
+wNetId: 257
+wSId: 473
+wEventId: 4539
+dwStartTime: 1218517200
+dwDuration: 14400
+EventName: FOX Programming
+ShortDescr: 
+ExtendedDescr: News. FOX Programming.
+
+wSat: 2780
+wNetId: 257
+wSId: 808
+wEventId: 4887
+dwStartTime: 1218510000
+dwDuration: 3600
+EventName: HD-Documentary
+ShortDescr: 
+ExtendedDescr: Series. 
+
+wSat: 2780
+wNetId: 257
+wSId: 808
+wEventId: 4888
+dwStartTime: 1218513600
+dwDuration: 1800
+EventName: HD-renegadepress.com
+ShortDescr: 
+ExtendedDescr: Series. Bronson Pelletier, Ksenia Solo. A multicultural group of inner-city teen reporters investigates youth issues.
+
+wSat: 2780
+wNetId: 257
+wSId: 815
+wEventId: 22103
+dwStartTime: 1218499200
+dwDuration: 16200
+EventName: HD-Olympics
+ShortDescr: 
+ExtendedDescr: Sports. Gymnastics (Men's Team Final); Swimming (Finals: Includes Men's 200m Freestyle) (CC)  (Stereo)
+
+wSat: 2780
+wNetId: 257
+wSId: 815
+wEventId: 22104
+dwStartTime: 1218515400
+dwDuration: 2100
+EventName: News
+ShortDescr: 
+ExtendedDescr: News. A look at the day's top news stories.
+
+wSat: 2780
+wNetId: 257
+wSId: 818
+wEventId: 28196
+dwStartTime: 1218510000
+dwDuration: 1800
+EventName: News
+ShortDescr: 
+ExtendedDescr: News. A look at the day's top news stories.
+
+wSat: 2780
+wNetId: 257
+wSId: 818
+wEventId: 28197
+dwStartTime: 1218511800
+dwDuration: 1800
+EventName: Seinfeld
+ShortDescr: 
+ExtendedDescr: The Betrayal
+ Series. Jerry Seinfeld, Michael Richards, Jason Alexander. Elaine coerces Jerry and George into accompanying her to India for the wedding of her rival
+
+wSat: 2780
+wNetId: 257
+wSId: 870
+wEventId: 126
+dwStartTime: 1218499200
+dwDuration: 16200
+EventName: HD-NBCHE Olympics
+ShortDescr: 
+ExtendedDescr: Sports. Gymnastics (Men's Team Final); Swimming (Finals: Includes Men's 200m Freestyle) (CC)  (Stereo)
+
+wSat: 2780
+wNetId: 257
+wSId: 870
+wEventId: 301
+dwStartTime: 1218515400
+dwDuration: 2100
+EventName: HD-NBC Beijing coverage @ 1:05amET
+ShortDescr: 
+ExtendedDescr: NBC-East Beijing coverage continues at 1:05amET with Volleyball (Women's Preliminaries: U.S.A. vs. Cuba); Swimming (Women's 100m Breaststroke Semifinals).
+
+wSat: 2780
+wNetId: 257
+wSId: 872
+wEventId: 18
+dwStartTime: 1218042000
+dwDuration: 14400
+EventName: HD NBC Beijing coverage Aug 8th!
+ShortDescr: 
+ExtendedDescr: Stay tuned for HD NBC Beijing coverage starting August 8th!
+
+wSat: 2780
+wNetId: 257
+wSId: 872
+wEventId: 33
+dwStartTime: 1218056400
+dwDuration: 14400
+EventName: HD NBC Beijing coverage Aug 8th!
+ShortDescr: 
+ExtendedDescr: Stay tuned for HD NBC Beijing coverage starting August 8th!
+
+wSat: 2780
+wNetId: 257
+wSId: 819
+wEventId: 32021
+dwStartTime: 1218510000
+dwDuration: 3600
+EventName: HD-Antiques Roadshow
+ShortDescr: 
+ExtendedDescr: Series. Experts give the history of people's hidden treasures and appraise their worth. (CC)  (Stereo)
+
+wSat: 2780
+wNetId: 257
+wSId: 819
+wEventId: 32022
+dwStartTime: 1218513600
+dwDuration: 3600
+EventName: HD-History Detectives
+ShortDescr: 
+ExtendedDescr: Series. Exploring the true stories behind historical sites.
+
+wSat: 2780
+wNetId: 257
+wSId: 825
+wEventId: 27701
+dwStartTime: 1218510000
+dwDuration: 1800
+EventName: Family Guy
+ShortDescr: 
+ExtendedDescr: The Tan Aquatic with Steve Zissou
+ Series. Seth MacFarlane, Alex Borstein, Seth MacFarlane. Peter tries to protect Chris from a bully, but soon learns that bullying is fun; Stewie drives Brian crazy with his demands for his final days.
+
+wSat: 2780
+wNetId: 257
+wSId: 825
+wEventId: 27702
+dwStartTime: 1218511800
+dwDuration: 1800
+EventName: HD-Two and a Half Men
+ShortDescr: 
+ExtendedDescr: An Old Flame with a New Wick
+ Series. Charlie Sheen, Jon Cryer, Angus T. Jones. Charlie's excitement about his old girlfriend's visit turns to shock when he learns that she had a sex change and is now a man (Chris O'Donnell).
+
+wSat: 2780
+wNetId: 257
+wSId: 838
+wEventId: 6639
+dwStartTime: 1218510300
+dwDuration: 3600
+EventName: House
+ShortDescr: 
+ExtendedDescr: Deception
+ Series. Hugh Laurie, Lisa Edelstein, Omar Epps. House tries to help an ill woman (Cynthia Nixon) whom everyone believes has Munchausen's syndrome while he's convinced she has something else. (CC)  (Stereo)
+
+wSat: 2780
+wNetId: 257
+wSId: 838
+wEventId: 6640
+dwStartTime: 1218513900
+dwDuration: 3600
+EventName: HD-Numb3rs
+ShortDescr: 
+ExtendedDescr: Vector
+ Series. Rob Morrow, David Krumholtz, Judd Hirsch. Don asks Charlie to help the FBI stop a virus that has been killing innocent people in Los Angeles. (CC)  (Stereo)
+
+wSat: 2780
+wNetId: 257
+wSId: 841
+wEventId: 13648
+dwStartTime: 1218510000
+dwDuration: 6300
+EventName: HD-The Italian
+ShortDescr: 
+ExtendedDescr: The Italian
+ Movie. Kolya Spiridonov, Denis Moiseenko, Sasha Sirotkin.  (2005) A six-year-old boy on the verge of adoption decides to search for his mother.
+
+wSat: 2780
+wNetId: 257
+wSId: 841
+wEventId: 13649
+dwStartTime: 1218516300
+dwDuration: 5400
+EventName: HD-Fire Serpent
+ShortDescr: 
+ExtendedDescr: Fire Serpent
+ Movie. Nicholas Brendon, Sandrine Holt, Randolph Mantooth.  (2007) Alien creatures emerge from the sun and attack Earth. (Stereo)
+
+wSat: 2780
+wNetId: 257
+wSId: 850
+wEventId: 18573
+dwStartTime: 1218510000
+dwDuration: 3600
+EventName: HD-SportsCentre
+ShortDescr: 
+ExtendedDescr: Series. All the news from the world of sports. (CC) 
+
+wSat: 2780
+wNetId: 257
+wSId: 850
+wEventId: 18574
+dwStartTime: 1218513600
+dwDuration: 3600
+EventName: HD-...Cagefighting
+ShortDescr: 
+ExtendedDescr: WEC WrekCage 12
+ Series. Highlights from WEC WrekCage 12. (CC) 
+
+wSat: 2780
+wNetId: 257
+wSId: 872
+wEventId: 263
+dwStartTime: 1218510000
+dwDuration: 3600
+EventName: HD-TSN Beijing coverage @3amET
+ShortDescr: 
+ExtendedDescr: Series. TSN Beijing coverage continueing at 3amET with Rowing (Various Repechage Events); Canoeing (Various Semis & Finals). (CC) 
+
+wSat: 2780
+wNetId: 257
+wSId: 872
+wEventId: 327
+dwStartTime: 1218513600
+dwDuration: 3600
+EventName: HD-TSN Beijing coverage @3amET
+ShortDescr: 
+ExtendedDescr: Series. TSN Beijing coverage continueing at 3amET with Rowing (Various Repechage Events); Canoeing (Various Semis & Finals). (CC) 
+
+wSat: 2780
+wNetId: 257
+wSId: 809
+wEventId: 31444
+dwStartTime: 1218510000
+dwDuration: 3600
+EventName: HD-On The Block
+ShortDescr: 
+ExtendedDescr: News. Looking at some of the pop-icon items at the Americana Auction.
+
+wSat: 2780
+wNetId: 257
+wSId: 809
+wEventId: 31445
+dwStartTime: 1218513600
+dwDuration: 3600
+EventName: HD-How the Best Is Done
+ShortDescr: 
+ExtendedDescr: Baseball Bats
+ Series. Looking at how baseball bats are made.
+
+wSat: 2780
+wNetId: 257
+wSId: 810
+wEventId: 26297
+dwStartTime: 1218510000
+dwDuration: 3600
+EventName: HD-Vampires From the Abyss
+ShortDescr: 
+ExtendedDescr: Vampires From the Abyss
+ Series. Exploring Monterey Bay to learn about vampire squids.
+
+wSat: 2780
+wNetId: 257
+wSId: 810
+wEventId: 26299
+dwStartTime: 1218513600
+dwDuration: 3600
+EventName: HD-Wild Asia
+ShortDescr: 
+ExtendedDescr: Island Magic
+ Series. A tour of three Asian islands: Java, Anak Krakatau and Sulawesi.
+
+wSat: 2780
+wNetId: 257
+wSId: 851
+wEventId: 20742
+dwStartTime: 1218510000
+dwDuration: 1800
+EventName: HD-Sportsnet Connected
+ShortDescr: 
+ExtendedDescr: News. Updates from the world of sports. (Stereo)
+
+wSat: 2780
+wNetId: 257
+wSId: 851
+wEventId: 20743
+dwStartTime: 1218511800
+dwDuration: 3600
+EventName: Prime Time Sports
+ShortDescr: 
+ExtendedDescr: Series. Host Bob McCown and a panel of guests discuss top sports stories.
+
+wSat: 2780
+wNetId: 257
+wSId: 797
+wEventId: 1847
+dwStartTime: 1218502800
+dwDuration: 14400
+EventName: TEST
+ShortDescr: 
+ExtendedDescr: -. TEST
+
+wSat: 2780
+wNetId: 257
+wSId: 797
+wEventId: 1848
+dwStartTime: 1218517200
+dwDuration: 14400
+EventName: TEST
+ShortDescr: 
+ExtendedDescr: -. TEST
+
+wSat: 2780
+wNetId: 257
+wSId: 807
+wEventId: 2502
+dwStartTime: 1218510000
+dwDuration: 3600
+EventName: HD-Prison Break
+ShortDescr: 
+ExtendedDescr: Dirt Nap
+ Series. Dominic Purcell, Wentworth Miller, Amaury Nolasco. Sammy causes the failure of Michael's escape plan; T-Bag pressures Bellick into one more fight. (CC)  (Stereo)
+
+wSat: 2780
+wNetId: 257
+wSId: 807
+wEventId: 2503
+dwStartTime: 1218513600
+dwDuration: 3600
+EventName: House
+ShortDescr: 
+ExtendedDescr: Fetal Position
+ Series. Hugh Laurie, Lisa Edelstein, Omar Epps. House and the team try to diagnose the mysterious illness of a pregnant photographer (Anne Ramsay) who suffered a stroke (CC)  (Stereo)
+
+wSat: 2780
+wNetId: 257
+wSId: 840
+wEventId: 12963
+dwStartTime: 1218506400
+dwDuration: 7200
+EventName: HD-The Devil Wears Prada
+ShortDescr: 
+ExtendedDescr: The Devil Wears Prada
+ Movie. Meryl Streep, Anne Hathaway, Emily Blunt.  (2006) A recent college graduate gets a job at America's top fashion magazine and struggles with pressures from her very demanding editor.
+
+wSat: 2780
+wNetId: 257
+wSId: 840
+wEventId: 12964
+dwStartTime: 1218513600
+dwDuration: 3600
+EventName: HD-Stargate: Atlantis
+ShortDescr: 
+ExtendedDescr: The Daedalus Variations
+ Series. Joe Flanigan, Rainbow Francks, David Hewlett. The team travels through alternate realities encountering alien life forms, a searing sun and a space battle over Atlantis. (CC)  (Stereo)
+
+wSat: 2780
+wNetId: 257
+wSId: 848
+wEventId: 3180
+dwStartTime: 1218502800
+dwDuration: 14400
+EventName: Leafs TV - Selected games in HD
+ShortDescr: 
+ExtendedDescr: -. Leafs games will be shown in HD during the 07/08 season, free with Leafs TV subscription! Tune to ch. 848 for upcoming games.
+
+wSat: 2780
+wNetId: 257
+wSId: 848
+wEventId: 3181
+dwStartTime: 1218517200
+dwDuration: 14400
+EventName: Leafs TV - Selected games in HD
+ShortDescr: 
+ExtendedDescr: -. Leafs games will be shown in HD during the 07/08 season, free with Leafs TV subscription! Tune to ch. 848 for upcoming games.
+
+wSat: 2780
+wNetId: 257
+wSId: 867
+wEventId: 18420
+dwStartTime: 1218045600
+dwDuration: 7200
+EventName: Off Air-NHL Centre Ice (INFO)
+ShortDescr: 
+ExtendedDescr: -. Stay tuned for details on the upcoming 2008-2009 season.
+
+wSat: 2780
+wNetId: 257
+wSId: 867
+wEventId: 18421
+dwStartTime: 1218052800
+dwDuration: 7200
+EventName: Off Air-NHL Centre Ice (INFO)
+ShortDescr: 
+ExtendedDescr: -. Stay tuned for details on the upcoming 2008-2009 season.
+
+wSat: 2780
+wNetId: 257
+wSId: 868
+wEventId: 10676
+dwStartTime: 1218045600
+dwDuration: 7200
+EventName: Off Air-NHL Centre Ice (INFO)
+ShortDescr: 
+ExtendedDescr: -. Stay tuned for details on the upcoming 2008-2009 season.
+
+wSat: 2780
+wNetId: 257
+wSId: 868
+wEventId: 10677
+dwStartTime: 1218052800
+dwDuration: 7200
+EventName: Off Air-NHL Centre Ice (INFO)
+ShortDescr: 
+ExtendedDescr: -. Stay tuned for details on the upcoming 2008-2009 season.
+
+wSat: 2780
+wNetId: 257
+wSId: 881
+wEventId: 13722
+dwStartTime: 1218506400
+dwDuration: 12600
+EventName: MLB HD: Philadelphia vs LA Dodgers
+ShortDescr: 
+ExtendedDescr: Sports. High Definition. Philadelphia Phillies vs Los Angeles Dodgers. (Stereo)
+
+wSat: 2780
+wNetId: 257
+wSId: 881
+wEventId: 13723
+dwStartTime: 1218519000
+dwDuration: 1800
+EventName: MLB Extra Innings
+ShortDescr: 
+ExtendedDescr: Sports.  (Stereo)
+
+wSat: 2780
+wNetId: 257
+wSId: 882
+wEventId: 13659
+dwStartTime: 1218510000
+dwDuration: 7200
+EventName: HD-TEX vs BOS Tues@7pmET(INFO)
+ShortDescr: 
+ExtendedDescr: -. Catch up to 500 HD games this season! Tune to channel 275 or call 1 888 SKY-DISH to order the package.
+
+wSat: 2780
+wNetId: 257
+wSId: 882
+wEventId: 13660
+dwStartTime: 1218517200
+dwDuration: 7200
+EventName: HD-TEX vs BOS Tues@7pmET(INFO)
+ShortDescr: 
+ExtendedDescr: -. Catch up to 500 HD games this season! Tune to channel 275 or call 1 888 SKY-DISH to order the package.
+
+wSat: 2780
+wNetId: 257
+wSId: 883
+wEventId: 13600
+dwStartTime: 1218499200
+dwDuration: 12600
+EventName: MLB HD: San Francisco vs Houston
+ShortDescr: 
+ExtendedDescr: Sports. High Definition. San Francisco Giants vs Houston Astros. (Stereo)
+
+wSat: 2780
+wNetId: 257
+wSId: 883
+wEventId: 13601
+dwStartTime: 1218511800
+dwDuration: 1800
+EventName: MLB Extra Innings
+ShortDescr: 
+ExtendedDescr: Sports.  (Stereo)
+
+wSat: 2780
+wNetId: 257
+wSId: 887
+wEventId: 2602
+dwStartTime: 1218502800
+dwDuration: 14400
+EventName: Test
+ShortDescr: 
+ExtendedDescr: -. Test
+
+wSat: 2780
+wNetId: 257
+wSId: 887
+wEventId: 2603
+dwStartTime: 1218517200
+dwDuration: 14400
+EventName: Test
+ShortDescr: 
+ExtendedDescr: -. Test
+
+wSat: 2780
+wNetId: 257
+wSId: 816
+wEventId: 23135
+dwStartTime: 1218510000
+dwDuration: 2100
+EventName: News
+ShortDescr: 
+ExtendedDescr: News. A look at the day's top news stories.
+
+wSat: 2780
+wNetId: 257
+wSId: 816
+wEventId: 23136
+dwStartTime: 1218512100
+dwDuration: 1860
+EventName: Nightline
+ShortDescr: 
+ExtendedDescr: News. In-depth reports featuring world events and top news stories. (CC)  (Stereo)
+
+wSat: 2780
+wNetId: 257
+wSId: 839
+wEventId: 11325
+dwStartTime: 1218505200
+dwDuration: 6600
+EventName: HD-Winter Stories
+ShortDescr: 
+ExtendedDescr: Winter Stories
+ Movie. Joël Dalpé-Drapeau, Denis Bouchard, Luc Guérin.  (1999) A boy comes of age in Montreal in 1966, sharing his love of the Montreal Canadiens with his uncle.
+
+wSat: 2780
+wNetId: 257
+wSId: 839
+wEventId: 11326
+dwStartTime: 1218511800
+dwDuration: 9600
+EventName: HD-Peyton Place
+ShortDescr: 
+ExtendedDescr: Peyton Place
+ Movie. Lana Turner, Hope Lange, Arthur Kennedy.  (1957) Sex, scandal and murder ferments under the peaceful surface of a small New England town.
+
+wSat: 2780
+wNetId: 257
+wSId: 842
+wEventId: 13460
+dwStartTime: 1218510000
+dwDuration: 1800
+EventName: HD-G-Spot
+ShortDescr: 
+ExtendedDescr: J Hook Up
+ Series. Gigi decides to only date Jewish men, and signs up with a Jewish Internet dating site. (Stereo)
+
+wSat: 2780
+wNetId: 257
+wSId: 842
+wEventId: 13461
+dwStartTime: 1218511800
+dwDuration: 1800
+EventName: HD-G-Spot
+ShortDescr: 
+ExtendedDescr: George
+ Series. Gigi has dinner with George Clooney. (Stereo)
+
+wSat: 2780
+wNetId: 257
+wSId: 854
+wEventId: 9374
+dwStartTime: 1218510000
+dwDuration: 3600
+EventName: HD-Monstres Mécaniques
+ShortDescr: 
+ExtendedDescr: Les coulisses de... Un porte-avions
+ Series. Visite d'un porte-avions gigantesque.
+
+wSat: 2780
+wNetId: 257
+wSId: 854
+wEventId: 9375
+dwStartTime: 1218513600
+dwDuration: 1800
+EventName: HD-Comment c'est fait
+ShortDescr: 
+ExtendedDescr: Équipement de sauvetage/ Machines à écrire
+ Series. Les secrets de fabrication des machines à écrire en Braille et des violoncelles.
+
+wSat: 2780
+wNetId: 257
+wSId: 859
+wEventId: 16111
+dwStartTime: 1218510000
+dwDuration: 3600
+EventName: HD-La leçon d'anatomie
+ShortDescr: 
+ExtendedDescr: Quatrième leçon: La reproduction
+ Series. Un anatomiste dissèque un homme et une femme pour présenter les systèmes reproductifs.
+
+wSat: 2780
+wNetId: 257
+wSId: 859
+wEventId: 16112
+dwStartTime: 1218513600
+dwDuration: 9000
+EventName: HD-Le monde selon Monsanto
+ShortDescr: 
+ExtendedDescr: Series. Malgré son image dorée, la compagnie Monsanto est une menace pour la santé.
+
+wSat: 2780
+wNetId: 257
+wSId: 865
+wEventId: 11135
+dwStartTime: 1218508500
+dwDuration: 5700
+EventName: HD-Resident Evil: L'extinction
+ShortDescr: 
+ExtendedDescr: Resident Evil: L'extinction Movie. Milla Jovovich, Mike Epps, Ali Larter.  (2007) Une femme doit détruire un virus qui a transformé les habitants du monde en zombies.
+
+wSat: 2780
+wNetId: 257
+wSId: 865
+wEventId: 11136
+dwStartTime: 1218514200
+dwDuration: 5400
+EventName: HD-Feu à volonté
+ShortDescr: 
+ExtendedDescr: Feu à volonté Movie. Clive Owen, Monica Bellucci, Paul Giamatti.  (2007) Un ancien tireur d'élite entreprend de protéger un nouveau-né.
+
+wSat: 2780
+wNetId: 257
+wSId: 861
+wEventId: 10750
+dwStartTime: 1218510000
+dwDuration: 1800
+EventName: Le coeur a ses raisons
+ShortDescr: 
+ExtendedDescr: À la recherche de Brett
+ Series. Atterrée par la disparition de Brett, Criquette remue mer et monde afin de le retrouver.
+
+wSat: 2780
+wNetId: 257
+wSId: 861
+wEventId: 10751
+dwStartTime: 1218511800
+dwDuration: 7200
+EventName: Amoureux fou
+ShortDescr: 
+ExtendedDescr: Amoureux fou
+ Movie. Remy Girard, Nathalie gascon, Jean Rochefort.  (1991) Un publicitaire marié s'engage dans une idylle avec une actrice en vue.
+
+wSat: 2780
+wNetId: 257
+wSId: 862
+wEventId: 9916
+dwStartTime: 1218510000
+dwDuration: 1800
+EventName: Le journal du soir
+ShortDescr: 
+ExtendedDescr: News. Bulletin d'information en direct; nouvelles, sports et météo. (CC) 
+
+wSat: 2780
+wNetId: 257
+wSId: 862
+wEventId: 9917
+dwStartTime: 1218511800
+dwDuration: 3600
+EventName: Vie de couple
+ShortDescr: 
+ExtendedDescr: Series. Une psychologue est à l'écoute des problèmes de couple dans une ligne ouverte quotidienne.
+
+wSat: 2780
+wNetId: 257
+wSId: 863
+wEventId: 8947
+dwStartTime: 1218510000
+dwDuration: 1800
+EventName: Sports 30
+ShortDescr: 
+ExtendedDescr: News. Une récapitulation des nouvelles sportives de la journée, avec reportages et entrevues. (CC) 
+
+wSat: 2780
+wNetId: 257
+wSId: 863
+wEventId: 8948
+dwStartTime: 1218511800
+dwDuration: 1800
+EventName: Sports 30
+ShortDescr: 
+ExtendedDescr: News. Une récapitulation des nouvelles sportives de la journée, avec reportages et entrevues. (CC) 
+
+wSat: 2780
+wNetId: 257
+wSId: 874
+wEventId: 316
+dwStartTime: 1218510000
+dwDuration: 1800
+EventName: HD-RDS Couverture Pékin à 1amET
+ShortDescr: 
+ExtendedDescr: RDSHD les jeux de Pékin continus à 1amET avec les Volleyball de plage, haltérophilie, plongeon et aviron. 
+
+wSat: 2780
+wNetId: 257
+wSId: 874
+wEventId: 338
+dwStartTime: 1218511800
+dwDuration: 1800
+EventName: HD-RDS Couverture Pékin à 1amET
+ShortDescr: 
+ExtendedDescr: RDSHD les jeux de Pékin continus à 1amET avec les Volleyball de plage, haltérophilie, plongeon et aviron. 
+
+wSat: 2780
+wNetId: 257
+wSId: 397
+wEventId: 17485
+dwStartTime: 1218506400
+dwDuration: 7200
+EventName: US College Sports Package(INFO)
+ShortDescr: 
+ExtendedDescr: -. Stay tuned for details on the upcoming 2008-2009 season.
+
+wSat: 2780
+wNetId: 257
+wSId: 397
+wEventId: 17486
+dwStartTime: 1218513600
+dwDuration: 7200
+EventName: US College Sports Package(INFO)
+ShortDescr: 
+ExtendedDescr: -. Stay tuned for details on the upcoming 2008-2009 season.
+
+wSat: 2780
+wNetId: 257
+wSId: 804
+wEventId: 3109
+dwStartTime: 1218492300
+dwDuration: 21300
+EventName: HD-Olympics
+ShortDescr: 
+ExtendedDescr: Sports. Gymnastics (Men's Team Final); Swimming (Various Semifinals and Finals); Volleyball (Men's Preliminaries). (CC) 
+
+wSat: 2780
+wNetId: 257
+wSId: 804
+wEventId: 3119
+dwStartTime: 1218513600
+dwDuration: 10800
+EventName: HD-Olympics
+ShortDescr: 
+ExtendedDescr: Sports. Beach Volleyball (Preliminaries); Diving (Women's Syncro 10m Platform). (CC) 
+
+wSat: 2780
+wNetId: 257
+wSId: 805
+wEventId: 1443
+dwStartTime: 1218146400
+dwDuration: 7200
+EventName: NHL Mandarin Commentary (INFO)
+ShortDescr: 
+ExtendedDescr: -. Stay tuned to this channel for details on upcoming NHL games available with Mandarin commentary.
+
+wSat: 2780
+wNetId: 257
+wSId: 805
+wEventId: 1438
+dwStartTime: 1218153600
+dwDuration: 7200
+EventName: NHL Mandarin Commentary (INFO)
+ShortDescr: 
+ExtendedDescr: -. Stay tuned to this channel for details on upcoming NHL games available with Mandarin commentary.
+
+wSat: 2780
+wNetId: 257
+wSId: 869
+wEventId: 136
+dwStartTime: 1218492300
+dwDuration: 21300
+EventName: HD-CBCHW Olympics
+ShortDescr: 
+ExtendedDescr: Sports. Gymnastics (Men's Team Final); Swimming (Various Semifinals and Finals); Volleyball (Men's Preliminaries). (CC) 
+
+wSat: 2780
+wNetId: 257
+wSId: 869
+wEventId: 137
+dwStartTime: 1218513600
+dwDuration: 10800
+EventName: HD-CBCHW Olympics
+ShortDescr: 
+ExtendedDescr: Sports. Beach Volleyball (Preliminaries); Diving (Women's Syncro 10m Platform). (CC) 
+
+wSat: 2780
+wNetId: 257
+wSId: 875
+wEventId: 1563
+dwStartTime: 1218506400
+dwDuration: 7200
+EventName: NASCAR HotPass in HD
+ShortDescr: 
+ExtendedDescr: -. Follow your favorite race car drivers with NASCAR HotPass. Tune to channel 275 or call 1 888 SKY DISH to order the package!
+
+wSat: 2780
+wNetId: 257
+wSId: 875
+wEventId: 1564
+dwStartTime: 1218513600
+dwDuration: 7200
+EventName: NASCAR HotPass in HD
+ShortDescr: 
+ExtendedDescr: -. Follow your favorite race car drivers with NASCAR HotPass. Tune to channel 275 or call 1 888 SKY DISH to order the package!
+
+wSat: 2780
+wNetId: 257
+wSId: 885
+wEventId: 2513
+dwStartTime: 1218499200
+dwDuration: 12600
+EventName: MLB HD: Boston vs White Sox
+ShortDescr: 
+ExtendedDescr: Sports. High Definition. Boston Red Sox vs. Chicago White Sox. (Stereo)
+
+wSat: 2780
+wNetId: 257
+wSId: 885
+wEventId: 2514
+dwStartTime: 1218511800
+dwDuration: 1800
+EventName: MLB Extra Innings
+ShortDescr: 
+ExtendedDescr: Sports.  (Stereo)
+
+wSat: 2780
+wNetId: 257
+wSId: 896
+wEventId: 1209
+dwStartTime: 1218502800
+dwDuration: 14400
+EventName: BTVHD
+ShortDescr: 
+ExtendedDescr: -. 
+
+wSat: 2780
+wNetId: 257
+wSId: 896
+wEventId: 1210
+dwStartTime: 1218517200
+dwDuration: 14400
+EventName: BTVHD
+ShortDescr: 
+ExtendedDescr: -. 
+
+wSat: 2780
+wNetId: 257
+wSId: 386
+wEventId: 7766
+dwStartTime: 1218510900
+dwDuration: 6300
+EventName: HD - National Lampoon's Bag Boy
+ShortDescr: 
+ExtendedDescr: Movie. Brooke Shields, Dennis Farina, Paul Campbell.  (2008) In Hi-Def! A 'bags to riches' comedy, as a lowly grocery clerk competes to win the bagging championships and the girl of his dreams.(42128) (Stereo)
+
+wSat: 2780
+wNetId: 257
+wSId: 386
+wEventId: 7767
+dwStartTime: 1218517200
+dwDuration: 5400
+EventName: HD - Superhero Movie - Extended
+ShortDescr: 
+ExtendedDescr: Movie. Leslie Nielsen, Pamela Anderson, Tracy Morgan.  (2008) In HD! Extended version not seen in theatres! From Spider-Man to the Fantastic 4, this hilarious spoof takes aim at hit superhero films! (5.1)(42129) (Stereo)
+
+wSat: 2780
+wNetId: 257
+wSId: 465
+wEventId: 18501
+dwStartTime: 1218506400
+dwDuration: 7200
+EventName: Off Air-NFL Sunday Ticket(INFO)
+ShortDescr: 
+ExtendedDescr: -. Stay tuned for details on the upcoming 2008-2009 season.
+
+wSat: 2780
+wNetId: 257
+wSId: 465
+wEventId: 18502
+dwStartTime: 1218513600
+dwDuration: 7200
+EventName: Off Air-NFL Sunday Ticket(INFO)
+ShortDescr: 
+ExtendedDescr: -. Stay tuned for details on the upcoming 2008-2009 season.
+
+wSat: 2780
+wNetId: 257
+wSId: 833
+wEventId: 19110
+dwStartTime: 1218510900
+dwDuration: 6300
+EventName: HD - National Lampoon's Bag Boy
+ShortDescr: 
+ExtendedDescr: Movie. Brooke Shields, Dennis Farina, Paul Campbell.  (2008) In Hi-Def! A 'bags to riches' comedy, as a lowly grocery clerk competes to win the bagging championships and the girl of his dreams.(42128) (Stereo)
+
+wSat: 2780
+wNetId: 257
+wSId: 833
+wEventId: 19111
+dwStartTime: 1218517200
+dwDuration: 5400
+EventName: HD - Superhero Movie - Extended
+ShortDescr: 
+ExtendedDescr: Movie. Leslie Nielsen, Pamela Anderson, Tracy Morgan.  (2008) In HD! Extended version not seen in theatres! From Spider-Man to the Fantastic 4, this hilarious spoof takes aim at hit superhero films! (5.1)(42129) (Stereo)
+
+wSat: 2780
+wNetId: 257
+wSId: 843
+wEventId: 4454
+dwStartTime: 1218506400
+dwDuration: 6300
+EventName: HD-King of Sorrow
+ShortDescr: 
+ExtendedDescr: King of Sorrow
+ Movie. Benz Antoine, Angela Asher, Joanne Boland.  (2006) A love story between a suicidal psychiatrist and a homicidal cop. (Stereo)
+
+wSat: 2780
+wNetId: 257
+wSId: 843
+wEventId: 4455
+dwStartTime: 1218512700
+dwDuration: 7200
+EventName: HD-Ira and Abby
+ShortDescr: 
+ExtendedDescr: Ira and Abby
+ Movie. Chris Messina, Jennifer Westfeldt, Jason Alexander.  (2006) A couple take a chance and marry soon after meeting.
+
+wSat: 2780
+wNetId: 257
+wSId: 853
+wEventId: 21517
+dwStartTime: 1218510000
+dwDuration: 3600
+EventName: HD-American Chopper
+ShortDescr: 
+ExtendedDescr: Rick's Bike, Part 1
+ Series. Paul Sr. gives Rick the chance to design and built a custom bike, but as things take shape, OCC's top dog wonders whether Rick knows where he's going
+
+wSat: 2780
+wNetId: 257
+wSId: 853
+wEventId: 21518
+dwStartTime: 1218513600
+dwDuration: 3600
+EventName: HD-Smash Lab
+ShortDescr: 
+ExtendedDescr: Crash Absorbing Concrete
+ Series. The team tests a product that might prevent highway accidents.
+
+wSat: 2780
+wNetId: 257
+wSId: 800
+wEventId: 25592
+dwStartTime: 1218510000
+dwDuration: 1800
+EventName: CTV News
+ShortDescr: 
+ExtendedDescr: News. A look at the day's top news stories. (CC)  (Stereo)
+
+wSat: 2780
+wNetId: 257
+wSId: 800
+wEventId: 25593
+dwStartTime: 1218511800
+dwDuration: 2100
+EventName: News
+ShortDescr: 
+ExtendedDescr: News. A look at the day's top news stories. (CC)  (Stereo)
+
+wSat: 2780
+wNetId: 257
+wSId: 821
+wEventId: 23217
+dwStartTime: 1218510000
+dwDuration: 3600
+EventName: High School/Picture
+ShortDescr: 
+ExtendedDescr: Connect
+ Series. The contestants learn to communicate without words and break off into couples to perform duets. (CC)  (Stereo)
+
+wSat: 2780
+wNetId: 257
+wSId: 821
+wEventId: 23218
+dwStartTime: 1218513600
+dwDuration: 1800
+EventName: HD-Samantha Who?
+ShortDescr: 
+ExtendedDescr: Pilot
+ Series. Christina Applegate, Jennifer Esposito, Kevin Dunn. A selfish woman gets a chance to redeem herself after an accident wipes out her memories. (CC)  (Stereo)
+
+wSat: 2780
+wNetId: 257
+wSId: 876
+wEventId: 1432
+dwStartTime: 1218506400
+dwDuration: 7200
+EventName: NASCAR HotPass in HD
+ShortDescr: 
+ExtendedDescr: -. Follow your favorite race car drivers with NASCAR HotPass. Tune to channel 275 or call 1 888 SKY DISH to order the package!
+
+wSat: 2780
+wNetId: 257
+wSId: 876
+wEventId: 1433
+dwStartTime: 1218513600
+dwDuration: 7200
+EventName: NASCAR HotPass in HD
+ShortDescr: 
+ExtendedDescr: -. Follow your favorite race car drivers with NASCAR HotPass. Tune to channel 275 or call 1 888 SKY DISH to order the package!
+
+wSat: 2780
+wNetId: 257
+wSId: 886
+wEventId: 2509
+dwStartTime: 1218506400
+dwDuration: 7200
+EventName: HD-NYY vs MIN Tues@8pmET(INFO)
+ShortDescr: 
+ExtendedDescr: -. Catch up to 500 HD games this season! Tune to channel 275 or call 1 888 SKY-DISH to order the package.
+
+wSat: 2780
+wNetId: 257
+wSId: 886
+wEventId: 2510
+dwStartTime: 1218513600
+dwDuration: 7200
+EventName: HD-NYY vs MIN Tues@8pmET(INFO)
+ShortDescr: 
+ExtendedDescr: -. Catch up to 500 HD games this season! Tune to channel 275 or call 1 888 SKY-DISH to order the package.
+
+wSat: 2780
+wNetId: 257
+wSId: 811
+wEventId: 26131
+dwStartTime: 1218510000
+dwDuration: 5400
+EventName: HD-North Face Expeditions
+ShortDescr: 
+ExtendedDescr: Legends of the Lost World
+ Series. 'Legends of the Lost World.'
+
+wSat: 2780
+wNetId: 257
+wSId: 811
+wEventId: 26489
+dwStartTime: 1218515400
+dwDuration: 3600
+EventName: HD-Motorsport Ranch
+ShortDescr: 
+ExtendedDescr: Rookie Mistake
+ Series. Rookie Jason Jones in his Noble M12 faces a 1974 Porsche and a 1983 Porsche 911 Carrera.
+
+wSat: 2780
+wNetId: 257
+wSId: 813
+wEventId: 20115
+dwStartTime: 1218510000
+dwDuration: 3600
+EventName: HD-The Cleaner
+ShortDescr: 
+ExtendedDescr: Chaos Theory
+ Series. Benjamin Bratt, Amy Price-Francis, Grace park. William tries to help a math professor before he loses everything.
+
+wSat: 2780
+wNetId: 257
+wSId: 813
+wEventId: 20116
+dwStartTime: 1218513600
+dwDuration: 3600
+EventName: HD-Intervention
+ShortDescr: 
+ExtendedDescr: Marie
+ Series. Friends and family intervene to help a woman with an alcohol problem. (CC) 
+
+wSat: 2780
+wNetId: 257
+wSId: 824
+wEventId: 27466
+dwStartTime: 1218510000
+dwDuration: 3600
+EventName: HD-Antiques Roadshow
+ShortDescr: 
+ExtendedDescr: Providence (Hour Two)
+ Series. A look at vintage kitchen collectibles; experts appraise 1920s dollhouse furniture (CC)  (Stereo)
+
+wSat: 2780
+wNetId: 257
+wSId: 824
+wEventId: 27467
+dwStartTime: 1218513600
+dwDuration: 3600
+EventName: HD-History Detectives
+ShortDescr: 
+ExtendedDescr: Episode #607
+ Series. Examining an intact First World War artillery shell that may have survived an explosion of munitions in New York harbor in July 1916. (CC)  (Stereo)
+
+wSat: 2780
+wNetId: 257
+wSId: 469
+wEventId: 12609
+dwStartTime: 1218506400
+dwDuration: 7200
+EventName: Off Air-NFL Sunday Ticket(INFO)
+ShortDescr: 
+ExtendedDescr: -. Stay tuned for details on the upcoming 2008-2009 season.
+
+wSat: 2780
+wNetId: 257
+wSId: 469
+wEventId: 12610
+dwStartTime: 1218513600
+dwDuration: 7200
+EventName: Off Air-NFL Sunday Ticket(INFO)
+ShortDescr: 
+ExtendedDescr: -. Stay tuned for details on the upcoming 2008-2009 season.
+
+wSat: 2780
+wNetId: 257
+wSId: 470
+wEventId: 12440
+dwStartTime: 1218506400
+dwDuration: 7200
+EventName: Off Air-NFL Sunday Ticket(INFO)
+ShortDescr: 
+ExtendedDescr: -. Stay tuned for details on the upcoming 2008-2009 season.
+
+wSat: 2780
+wNetId: 257
+wSId: 470
+wEventId: 12441
+dwStartTime: 1218513600
+dwDuration: 7200
+EventName: Off Air-NFL Sunday Ticket(INFO)
+ShortDescr: 
+ExtendedDescr: -. Stay tuned for details on the upcoming 2008-2009 season.
+
+wSat: 2780
+wNetId: 257
+wSId: 847
+wEventId: 10460
+dwStartTime: 1218506400
+dwDuration: 7200
+EventName: Off Air - Sens HD PPV (East only)
+ShortDescr: 
+ExtendedDescr: -. Stay tuned for details on the upcoming 2008-2009 season.
+
+wSat: 2780
+wNetId: 257
+wSId: 847
+wEventId: 10461
+dwStartTime: 1218513600
+dwDuration: 7200
+EventName: Off Air - Sens HD PPV (East only)
+ShortDescr: 
+ExtendedDescr: -. Stay tuned for details on the upcoming 2008-2009 season.
+
+wSat: 2780
+wNetId: 257
+wSId: 869
+wEventId: 10638
+dwStartTime: 1218045600
+dwDuration: 7200
+EventName: Off Air-NHL Centre Ice (INFO)
+ShortDescr: 
+ExtendedDescr: -. Stay tuned for details on the upcoming 2008-2009 season.
+
+wSat: 2780
+wNetId: 257
+wSId: 869
+wEventId: 10639
+dwStartTime: 1218052800
+dwDuration: 7200
+EventName: Off Air-NHL Centre Ice (INFO)
+ShortDescr: 
+ExtendedDescr: -. Stay tuned for details on the upcoming 2008-2009 season.
+
+wSat: 2780
+wNetId: 257
+wSId: 1419
+wEventId: 2685
+dwStartTime: 1218510000
+dwDuration: 1800
+EventName: Fishing Legends
+ShortDescr: 
+ExtendedDescr: Series. Featuring world-class sport fishing adventures that angles can experience in the Pacific Northwest.
+
+wSat: 2780
+wNetId: 257
+wSId: 1419
+wEventId: 2686
+dwStartTime: 1218511800
+dwDuration: 1800
+EventName: Hooked on Adventure
+ShortDescr: 
+ExtendedDescr: Series. Visiting Australian fishing spots with hosts Steve and Bushy.
+
+wSat: 2780
+wNetId: 257
+wSId: 814
+wEventId: 23510
+dwStartTime: 1218510000
+dwDuration: 3600
+EventName: HD-Torchwood
+ShortDescr: 
+ExtendedDescr: Small Worlds
+ Series. John Barrowman, Eve Myles, Burn Gorman. Supernatural forces attack suburban Cardiff, while Jack is haunted by his past.
+
+wSat: 2780
+wNetId: 257
+wSId: 814
+wEventId: 23612
+dwStartTime: 1218513600
+dwDuration: 7200
+EventName: Without Limits
+ShortDescr: 
+ExtendedDescr: Without Limits
+ Movie. Billy Crudup, Donald Sutherland, Monica Potter.  (1998) The true story of innovative Olympic runner Steve Prefontaine, who was killed in a car accident in 1976. (CC) 
+
+wSat: 2780
+wNetId: 257
+wSId: 826
+wEventId: 3226
+dwStartTime: 1218510000
+dwDuration: 3600
+EventName: HD-Take Home Nanny
+ShortDescr: 
+ExtendedDescr: The DiSomma-Faretras
+ Series. A family with three clingy daughters gets help.
+
+wSat: 2780
+wNetId: 257
+wSId: 826
+wEventId: 3227
+dwStartTime: 1218513600
+dwDuration: 1800
+EventName: HD-Jon & Kate Plus 8
+ShortDescr: 
+ExtendedDescr: Heading South
+ Series. The Gosselins head south for a trip to the beach.
+
+wSat: 2780
+wNetId: 257
+wSId: 828
+wEventId: 6457
+dwStartTime: 1218510000
+dwDuration: 3600
+EventName: HD-China's Great Wall
+ShortDescr: 
+ExtendedDescr: Mongol Invaders
+ Series. Part 1 of a two-part special examining the construction of the Great Wall of China. (CC)  (Stereo)
+
+wSat: 2780
+wNetId: 257
+wSId: 828
+wEventId: 6458
+dwStartTime: 1218513600
+dwDuration: 3600
+EventName: HD-Inside
+ShortDescr: 
+ExtendedDescr: Hong Kong's Big Bang
+ Series. Examining 2006 preparations in Hong Kong to celebrate the Year of the Dog, one of the 12-year cycle of animals that appear in the Chinese zodiac. (CC)  (Stereo)
+
+wSat: 2780
+wNetId: 257
+wSId: 856
+wEventId: 8149
+dwStartTime: 1218506400
+dwDuration: 7200
+EventName: HD-Docu-fiction
+ShortDescr: 
+ExtendedDescr: Nuremberg, le procès
+ Series. Albert Speer est un homme qui a contrôlé l'industrie de guerre nazie.
+
+wSat: 2780
+wNetId: 257
+wSId: 856
+wEventId: 8150
+dwStartTime: 1218513600
+dwDuration: 3600
+EventName: HD-Guerres et conflits
+ShortDescr: 
+ExtendedDescr: Les champs de bataille de la Normandie en
+ Series. Encadrement des soldats canadiens durant l'opération Overlord en Normandie.
+
+wSat: 2780
+wNetId: 257
+wSId: 857
+wEventId: 17407
+dwStartTime: 1218510000
+dwDuration: 3600
+EventName: Porté disparu
+ShortDescr: 
+ExtendedDescr: Fausse piste
+ Series. Les agents découvrent un lien entre la disparition d'une femme et une autre à Washington. (Stereo)
+
+wSat: 2780
+wNetId: 257
+wSId: 857
+wEventId: 17408
+dwStartTime: 1218513600
+dwDuration: 3600
+EventName: Le destin de Lisa
+ShortDescr: 
+ExtendedDescr: Series. Une jeune femme tente de se frayer un chemin parmi le milieu impitoyable de la mode.
+
+wSat: 2780
+wNetId: 257
+wSId: 858
+wEventId: 22470
+dwStartTime: 1218510000
+dwDuration: 1800
+EventName: HD-Quand passe la cigogne
+ShortDescr: 
+ExtendedDescr: Ainsi veut la vie
+ Series. Amélie et Philippe aimeraient que leur bébé naisse le plus naturellement possible. (CC) 
+
+wSat: 2780
+wNetId: 257
+wSId: 858
+wEventId: 22471
+dwStartTime: 1218511800
+dwDuration: 1800
+EventName: HD-Oui, je le veux!
+ShortDescr: 
+ExtendedDescr: Claudie et Danny
+ Series. Ce couple travaillait dans un centre de collecte de sang lorsqu'ils se sont rencontrés. (CC) 
+
+wSat: 2780
+wNetId: 257
+wSId: 472
+wEventId: 3777
+dwStartTime: 1218502800
+dwDuration: 14400
+EventName: CBS Programming
+ShortDescr: 
+ExtendedDescr: News. CBS Programming.
+
+wSat: 2780
+wNetId: 257
+wSId: 472
+wEventId: 3778
+dwStartTime: 1218517200
+dwDuration: 14400
+EventName: CBS Programming
+ShortDescr: 
+ExtendedDescr: News. CBS Programming.
+
+wSat: 2780
+wNetId: 257
+wSId: 801
+wEventId: 28106
+dwStartTime: 1218510000
+dwDuration: 1800
+EventName: News Final
+ShortDescr: 
+ExtendedDescr: News. Reviewing the top news stories of the day. (CC) 
+
+wSat: 2780
+wNetId: 257
+wSId: 801
+wEventId: 28107
+dwStartTime: 1218511800
+dwDuration: 1800
+EventName: Entertainment Tonight Canada
+ShortDescr: 
+ExtendedDescr: Series. An in-depth look at what's happening in the entertainment world, from a Canadian perspective.
+
+wSat: 2780
+wNetId: 257
+wSId: 822
+wEventId: 24855
+dwStartTime: 1218510000
+dwDuration: 1800
+EventName: HD-The Big Bang Theory
+ShortDescr: 
+ExtendedDescr: The Loobenfeld Decay
+ Series. Johnny Galecki, Jim Parsons, Kaley Cuoco. Leonard lies to avoid attending Penny's singing performance. (CC)  (Stereo)
+
+wSat: 2780
+wNetId: 257
+wSId: 822
+wEventId: 24856
+dwStartTime: 1218511800
+dwDuration: 1800
+EventName: HD-How I Met Your Mother
+ShortDescr: 
+ExtendedDescr: No Tomorrow
+ Series. Josh Radnor, Jason Segel, Alyson Hannigan. Ted decides to live like there's no tomorrow as the gang celebrates St. Patrick's Day. (CC)  (Stereo)
+
+wSat: 2780
+wNetId: 257
+wSId: 855
+wEventId: 11517
+dwStartTime: 1218510000
+dwDuration: 1800
+EventName: Degrassi, la nouvelle génération
+ShortDescr: 
+ExtendedDescr: Series. La nouvelle génération Degrassi présente les tribulations d'adolescents. (CC)  (Stereo)
+
+wSat: 2780
+wNetId: 257
+wSId: 855
+wEventId: 11518
+dwStartTime: 1218511800
+dwDuration: 1800
+EventName: HD-R-Force
+ShortDescr: 
+ExtendedDescr: K-Maro
+ Children. Une chanteuse aspirante a l'occasion de rencontrer la vedette dans son studio.
+
+wSat: 2780
+wNetId: 257
+wSId: 806
+wEventId: 26004
+dwStartTime: 1218510000
+dwDuration: 3600
+EventName: High School/Picture
+ShortDescr: 
+ExtendedDescr: Connect
+ Series. The contestants learn to communicate without words and break off into couples to perform duets. (CC)  (Stereo)
+
+wSat: 2780
+wNetId: 257
+wSId: 806
+wEventId: 26005
+dwStartTime: 1218513600
+dwDuration: 3600
+EventName: Canadian Idol
+ShortDescr: 
+ExtendedDescr: Top 6 Performance
+ Series. The top six finalists perform. (CC)  (Stereo)
+
+wSat: 2780
+wNetId: 257
+wSId: 829
+wEventId: 4941
+dwStartTime: 1218502800
+dwDuration: 14400
+EventName: HD Programming
+ShortDescr: 
+ExtendedDescr: News. Tune to this channel to see what's current and what's new in High Definition.
+
+wSat: 2780
+wNetId: 257
+wSId: 829
+wEventId: 4942
+dwStartTime: 1218517200
+dwDuration: 14400
+EventName: HD Programming
+ShortDescr: 
+ExtendedDescr: News. Tune to this channel to see what's current and what's new in High Definition.
+
+wSat: 2780
+wNetId: 257
+wSId: 849
+wEventId: 26767
+dwStartTime: 1218506400
+dwDuration: 7200
+EventName: NBA Hardwood Classics
+ShortDescr: 
+ExtendedDescr: Los Angeles Lakers at Philadelphia (Jan. 5,
+ Series. Los Angeles Lakers at Philadelphia 76ers, from Jan. 5, 1983.
+
+wSat: 2780
+wNetId: 257
+wSId: 849
+wEventId: 26768
+dwStartTime: 1218513600
+dwDuration: 9000
+EventName: NBA-Toronto at New Orleans
+ShortDescr: 
+ExtendedDescr: Sports. Toronto Raptors at New Orleans Hornets. Subject to programmer's schedule change.
+
+wSat: 2780
+wNetId: 257
+wSId: 157
+wEventId: 19811
+dwStartTime: 1218506400
+dwDuration: 7200
+EventName: HD - Drôle de jeux
+ShortDescr: 
+ExtendedDescr: Film. Naomi Watts, Tim Roth, Michael Pitt.  (2008) En haute définition! Durant leurs vacances, une famille est prise en otage par 2 psychopathes avec l'idée d'un jeu dangereux en tête...(42112) (Stereo)
+
+wSat: 2780
+wNetId: 257
+wSId: 157
+wEventId: 19812
+dwStartTime: 1218513600
+dwDuration: 6300
+EventName: HD - Bonneville, v.fr.
+ShortDescr: 
+ExtendedDescr: Film. Kathy Bates, Jessica Lange, Joan Allen.  (2008) 3 amies effectuent une randonnée qui changera leur vie, à bord d'une Bonneville sur la saisissante route 66!(42113) (Stereo)
+
+wSat: 2780
+wNetId: 257
+wSId: 385
+wEventId: 7888
+dwStartTime: 1218506400
+dwDuration: 7200
+EventName: HD - Funny Games
+ShortDescr: 
+ExtendedDescr: Movie. Naomi Watts, Tim Roth, Michael Pitt.  (2008) In Hi-Def! While on vacation, a family is taken hostage by two psychopaths with a deadly game in mind.(42112) (Stereo)
+
+wSat: 2780
+wNetId: 257
+wSId: 385
+wEventId: 7889
+dwStartTime: 1218513600
+dwDuration: 6300
+EventName: HD - Bonneville
+ShortDescr: 
+ExtendedDescr: Movie. Kathy Bates, Jessica Lange, Joan Allen.  (2008) In HD! Coming of age a 2nd time around, 3 friends embark on a journey across the American West with many unexpected surprises along the way!(42113) (Stereo)
+
+wSat: 2780
+wNetId: 257
+wSId: 466
+wEventId: 18613
+dwStartTime: 1218506400
+dwDuration: 7200
+EventName: Off Air-NFL Sunday Ticket(INFO)
+ShortDescr: 
+ExtendedDescr: -. Stay tuned for details on the upcoming 2008-2009 season.
+
+wSat: 2780
+wNetId: 257
+wSId: 466
+wEventId: 18614
+dwStartTime: 1218513600
+dwDuration: 7200
+EventName: Off Air-NFL Sunday Ticket(INFO)
+ShortDescr: 
+ExtendedDescr: -. Stay tuned for details on the upcoming 2008-2009 season.
+
+wSat: 2780
+wNetId: 257
+wSId: 471
+wEventId: 3835
+dwStartTime: 1218502800
+dwDuration: 14400
+EventName: CBS Programming
+ShortDescr: 
+ExtendedDescr: News. CBS Programming.
+
+wSat: 2780
+wNetId: 257
+wSId: 471
+wEventId: 3836
+dwStartTime: 1218517200
+dwDuration: 14400
+EventName: CBS Programming
+ShortDescr: 
+ExtendedDescr: News. CBS Programming.
+
+wSat: 2780
+wNetId: 257
+wSId: 812
+wEventId: 19567
+dwStartTime: 1218510000
+dwDuration: 3600
+EventName: HD-Inside Islam
+ShortDescr: 
+ExtendedDescr: Islam Propagation in Africa
+ Series. Looking at Islamic tradition during the Plastering Festival in Djenne, West Africa.
+
+wSat: 2780
+wNetId: 257
+wSId: 812
+wEventId: 19569
+dwStartTime: 1218513600
+dwDuration: 3600
+EventName: HD-Being Beautiful
+ShortDescr: 
+ExtendedDescr: Skin Deep
+ Series. Examining how women treat their skin
+
+wSat: 2780
+wNetId: 257
+wSId: 817
+wEventId: 22417
+dwStartTime: 1218510000
+dwDuration: 2100
+EventName: News
+ShortDescr: 
+ExtendedDescr: News. A look at the day's top news stories. (CC) 
+
+wSat: 2780
+wNetId: 257
+wSId: 817
+wEventId: 22418
+dwStartTime: 1218512100
+dwDuration: 3720
+EventName: HD-Late Show With David Letterman
+ShortDescr: 
+ExtendedDescr: Series. Actor Will Smith ('Hancock'); sportscaster Joe Buck. (CC)  (Stereo)
+
+wSat: 2780
+wNetId: 257
+wSId: 832
+wEventId: 19828
+dwStartTime: 1218506400
+dwDuration: 7200
+EventName: HD - Funny Games
+ShortDescr: 
+ExtendedDescr: Movie. Naomi Watts, Tim Roth, Michael Pitt.  (2008) In Hi-Def! While on vacation, a family is taken hostage by two psychopaths with a deadly game in mind.(42112) (Stereo)
+
+wSat: 2780
+wNetId: 257
+wSId: 832
+wEventId: 19829
+dwStartTime: 1218513600
+dwDuration: 6300
+EventName: HD - Bonneville
+ShortDescr: 
+ExtendedDescr: Movie. Kathy Bates, Jessica Lange, Joan Allen.  (2008) In HD! Coming of age a 2nd time around, 3 friends embark on a journey across the American West with many unexpected surprises along the way!(42113) (Stereo)
+
+wSat: 2780
+wNetId: 256
+wSId: 71
+wEventId: 4300
+dwStartTime: 1218510000
+dwDuration: 2100
+EventName: Described Video (Info)
+ShortDescr: 
+ExtendedDescr: -. DV assists those visually impaired by adding additional audio describing the program. Please scroll ahead for more listings with Described Video.
+
+wSat: 2780
+wNetId: 256
+wSId: 71
+wEventId: 4304
+dwStartTime: 1218512100
+dwDuration: 7200
+EventName: DV-Killer Bees
+ShortDescr: 
+ExtendedDescr: Killer Bees
+ Movie. C. Thomas Howell, Fiona Loewi, Emily Tennant.  (2002) A sheriff with a fear of bees tries to save his community from a swam of the insects that is killing people in the area. (CC) 
+
+wSat: 2780
+wNetId: 256
+wSId: 84
+wEventId: 6400
+dwStartTime: 1218502800
+dwDuration: 14400
+EventName: Described Video (Info)
+ShortDescr: 
+ExtendedDescr: -. DV assists those visually impaired by adding additional audio describing the program. Please scroll ahead for more listings with Described Video.
+
+wSat: 2780
+wNetId: 256
+wSId: 84
+wEventId: 6401
+dwStartTime: 1218517200
+dwDuration: 10800
+EventName: Described Video (Info)
+ShortDescr: 
+ExtendedDescr: -. DV assists those visually impaired by adding additional audio describing the program. Please scroll ahead for more listings with Described Video.
+
+wSat: 2780
+wNetId: 256
+wSId: 149
+wEventId: 12027
+dwStartTime: 1218510000
+dwDuration: 3600
+EventName: À la une
+ShortDescr: 
+ExtendedDescr: Nouvelles. Émission d'information axée sur l'actualité de la journée. (CC) 
+
+wSat: 2780
+wNetId: 256
+wSId: 149
+wEventId: 12028
+dwStartTime: 1218513600
+dwDuration: 1800
+EventName: Tête à tête
+ShortDescr: 
+ExtendedDescr: Tête à tête
+ Nouvelles. Permet d'aller en profondeur avec des invités qui marquent l'actualité.
+
+wSat: 2780
+wNetId: 256
+wSId: 220
+wEventId: 24537
+dwStartTime: 1218510000
+dwDuration: 2100
+EventName: News
+ShortDescr: 
+ExtendedDescr: News. A look at the day's top news stories. (CC) 
+
+wSat: 2780
+wNetId: 256
+wSId: 220
+wEventId: 24538
+dwStartTime: 1218512100
+dwDuration: 7200
+EventName: Killer Bees
+ShortDescr: 
+ExtendedDescr: Killer Bees
+ Movie. C. Thomas Howell, Fiona Loewi, Emily Tennant.  (2002) A sheriff with a fear of bees tries to save his community from a swam of the insects that is killing people in the area. (CC) 
+
+wSat: 2780
+wNetId: 256
+wSId: 237
+wEventId: 24905
+dwStartTime: 1218510000
+dwDuration: 3600
+EventName: High School/Picture
+ShortDescr: 
+ExtendedDescr: Connect
+ Series. The contestants learn to communicate without words and break off into couples to perform duets. (CC)  (Stereo)
+
+wSat: 2780
+wNetId: 256
+wSId: 237
+wEventId: 24906
+dwStartTime: 1218513600
+dwDuration: 3600
+EventName: CSI: Miami
+ShortDescr: 
+ExtendedDescr: You May Now Kill the Bride
+ Series. David Caruso, Emily Procter, Adam Rodriguez. A wedding murder sends the team to a strip club. (CC)  (Stereo)
+
+wSat: 2780
+wNetId: 256
+wSId: 238
+wEventId: 29966
+dwStartTime: 1218510000
+dwDuration: 14400
+EventName: Olympics
+ShortDescr: 
+ExtendedDescr: Sports. Beach Volleyball (Preliminaries); Diving (Women's Syncro 10m Platform). (CC) 
+
+wSat: 2780
+wNetId: 256
+wSId: 238
+wEventId: 29967
+dwStartTime: 1218524400
+dwDuration: 1800
+EventName: CBC News: Business
+ShortDescr: 
+ExtendedDescr: Series. A report on the day's business events and financial advice. (CC) 
+
+wSat: 2780
+wNetId: 256
+wSId: 276
+wEventId: 338
+dwStartTime: 1218502800
+dwDuration: 14400
+EventName: Shop online - learn how!
+ShortDescr: 
+ExtendedDescr: -. As a Bell TV subscriber, you can now shop online, anytime, for receivers and much more.
+
+wSat: 2780
+wNetId: 256
+wSId: 276
+wEventId: 339
+dwStartTime: 1218517200
+dwDuration: 14400
+EventName: Shop online - learn how!
+ShortDescr: 
+ExtendedDescr: -. As a Bell TV subscriber, you can now shop online, anytime, for receivers and much more.
+
+wSat: 2780
+wNetId: 256
+wSId: 308
+wEventId: 22262
+dwStartTime: 1218506400
+dwDuration: 7200
+EventName: definitely, maybe (RC)
+ShortDescr: 
+ExtendedDescr: Movie. Ryan Reynolds, Rachel Weisz, Abigail Breslin.  (2008) A curious young girl is kept guessing as her recently separated dad tells her the tale of how he met & fell in love with her mother.(42199) (CC)  (Stereo)
+
+wSat: 2780
+wNetId: 256
+wSId: 308
+wEventId: 22263
+dwStartTime: 1218513600
+dwDuration: 7200
+EventName: definitely, maybe (RC)
+ShortDescr: 
+ExtendedDescr: Movie. Ryan Reynolds, Rachel Weisz, Abigail Breslin.  (2008) A curious young girl is kept guessing as her recently separated dad tells her the tale of how he met & fell in love with her mother.(42200) (CC)  (Stereo)
+
+wSat: 2780
+wNetId: 256
+wSId: 338
+wEventId: 5862
+dwStartTime: 1218506400
+dwDuration: 7200
+EventName: definitely, maybe (RC)
+ShortDescr: 
+ExtendedDescr: Movie. Ryan Reynolds, Rachel Weisz, Abigail Breslin.  (2008) A curious young girl is kept guessing as her recently separated dad tells her the tale of how he met & fell in love with her mother.(42199) (CC)  (Stereo)
+
+wSat: 2780
+wNetId: 256
+wSId: 338
+wEventId: 5863
+dwStartTime: 1218513600
+dwDuration: 7200
+EventName: definitely, maybe (RC)
+ShortDescr: 
+ExtendedDescr: Movie. Ryan Reynolds, Rachel Weisz, Abigail Breslin.  (2008) A curious young girl is kept guessing as her recently separated dad tells her the tale of how he met & fell in love with her mother.(42200) (CC)  (Stereo)
+
+wSat: 2780
+wNetId: 256
+wSId: 372
+wEventId: 25256
+dwStartTime: 1218506400
+dwDuration: 7200
+EventName: The Other Boleyn Girl
+ShortDescr: 
+ExtendedDescr: Movie. Natalie Portman, Scarlett Johansson, Eric Bana.  (2008) In a sensual tale of intrigue and betrayal, two sisters driven by power and status vie for the affections of King Henry VIII.(41976) (CC)  (Stereo)
+
+wSat: 2780
+wNetId: 256
+wSId: 372
+wEventId: 25257
+dwStartTime: 1218513600
+dwDuration: 7200
+EventName: The Other Boleyn Girl
+ShortDescr: 
+ExtendedDescr: Movie. Natalie Portman, Scarlett Johansson, Eric Bana.  (2008) In a sensual tale of intrigue and betrayal, two sisters driven by power and status vie for the affections of King Henry VIII.(41977) (CC)  (Stereo)
+
+wSat: 2780
+wNetId: 256
+wSId: 442
+wEventId: 18775
+dwStartTime: 1218506400
+dwDuration: 7200
+EventName: 3M 400 - Aug 17@2:00pmET
+ShortDescr: 
+ExtendedDescr: -. Follow your favorite race car drivers with NASCAR HotPass. Tune to channel 275 or call 1 888 SKY DISH to order the package!
+
+wSat: 2780
+wNetId: 256
+wSId: 442
+wEventId: 18776
+dwStartTime: 1218513600
+dwDuration: 7200
+EventName: 3M 400 - Aug 17@2:00pmET
+ShortDescr: 
+ExtendedDescr: -. Follow your favorite race car drivers with NASCAR HotPass. Tune to channel 275 or call 1 888 SKY DISH to order the package!
+
+wSat: 2780
+wNetId: 256
+wSId: 512
+wEventId: 13225
+dwStartTime: 1218499200
+dwDuration: 14400
+EventName: Public Record
+ShortDescr: 
+ExtendedDescr: News. Coverage of conferences and meetings that deal with issues of national and public interest.
+
+wSat: 2780
+wNetId: 256
+wSId: 512
+wEventId: 13226
+dwStartTime: 1218513600
+dwDuration: 1800
+EventName: Tête à tête
+ShortDescr: 
+ExtendedDescr: Repeat
+ News. Pierre Donais has a chat with Guy St-Pierre, former Quebec Liberal minister. (CC) 
+
+wSat: 2780
+wNetId: 256
+wSId: 514
+wEventId: 27794
+dwStartTime: 1218510000
+dwDuration: 3600
+EventName: @ Issue
+ShortDescr: 
+ExtendedDescr: Series. Discussing different socially relevant issues.
+
+wSat: 2780
+wNetId: 256
+wSId: 514
+wEventId: 27795
+dwStartTime: 1218513600
+dwDuration: 3600
+EventName: URC Investigates
+ShortDescr: 
+ExtendedDescr: Series. Covering citizen concerns about Canadian governmental issues.
+
+wSat: 2780
+wNetId: 256
+wSId: 522
+wEventId: 20669
+dwStartTime: 1218502800
+dwDuration: 12600
+EventName: Gangs of New York
+ShortDescr: 
+ExtendedDescr: Gangs of New York
+ Movie. Leonardo DiCaprio, Daniel Day-Lewis, Cameron Diaz.  (2002) A young man in 1860s New York City seeks vengeance on the man who killed his father years earlier in a bloody street battle between rival gangs. (CC)  (Stereo)
+
+wSat: 2780
+wNetId: 256
+wSId: 522
+wEventId: 20670
+dwStartTime: 1218515400
+dwDuration: 9000
+EventName: Cape Fear
+ShortDescr: 
+ExtendedDescr: Cape Fear
+ Movie. Robert De Niro, Nick Nolte, Jessica Lange.  (1991) A revenge-seeking, self-educated ex-con stalks and terrorizes the family of his lawyer, who failed to keep him out of jail years earlier. (CC)  (Stereo)
+
+wSat: 2780
+wNetId: 256
+wSId: 581
+wEventId: 29566
+dwStartTime: 1218510000
+dwDuration: 1800
+EventName: MTV Live
+ShortDescr: 
+ExtendedDescr: Series. An interactive talk show discussing celebrities, relationships, news and social issues. (CC)  (Stereo)
+
+wSat: 2780
+wNetId: 256
+wSId: 581
+wEventId: 29567
+dwStartTime: 1218511800
+dwDuration: 1800
+EventName: The Second Half
+ShortDescr: 
+ExtendedDescr: Series. Featuring MTV hosts in various situations, as well as the newest videos and live performances. (CC)  (Stereo)
+
+wSat: 2780
+wNetId: 256
+wSId: 637
+wEventId: 30640
+dwStartTime: 1218510000
+dwDuration: 3600
+EventName: Adderly
+ShortDescr: 
+ExtendedDescr: Series. Winston Rekert, Jonathan Welsh, Dixie Seatle. A top agent stuggles to return to the world of foreign espionage. (CC) 
+
+wSat: 2780
+wNetId: 256
+wSId: 637
+wEventId: 30641
+dwStartTime: 1218513600
+dwDuration: 1800
+EventName: Love, American Style
+ShortDescr: 
+ExtendedDescr: Series. Celebrity guest stars appear in short comedy playlets about love and romance.
+
+wSat: 2780
+wNetId: 256
+wSId: 660
+wEventId: 22919
+dwStartTime: 1218510000
+dwDuration: 3600
+EventName: Golden Splendours
+ShortDescr: 
+ExtendedDescr: Series. High-quality white, yellow and rose gold jewelry set in 14K gold.
+
+wSat: 2780
+wNetId: 256
+wSId: 660
+wEventId: 22920
+dwStartTime: 1218513600
+dwDuration: 3600
+EventName: Home Living
+ShortDescr: 
+ExtendedDescr: Series. Products to help transform your home into a sweet retreat.
+
+wSat: 2780
+wNetId: 256
+wSId: 971
+wEventId: 4916
+dwStartTime: 1218502800
+dwDuration: 14400
+EventName: Radio France
+ShortDescr: 
+ExtendedDescr: Music. Radio RFI
+
+wSat: 2780
+wNetId: 256
+wSId: 971
+wEventId: 4917
+dwStartTime: 1218517200
+dwDuration: 14400
+EventName: Radio France
+ShortDescr: 
+ExtendedDescr: Music. Radio RFI
+
+wSat: 2780
+wNetId: 256
+wSId: 67
+wEventId: 3629
+dwStartTime: 1218508200
+dwDuration: 9000
+EventName: Described Video (Info)
+ShortDescr: 
+ExtendedDescr: -. DV assists those visually impaired by adding additional audio describing the program. Please scroll ahead for more listings with Described Video.
+
+wSat: 2780
+wNetId: 256
+wSId: 67
+wEventId: 3690
+dwStartTime: 1218517200
+dwDuration: 3600
+EventName: DV-Comedy Now!
+ShortDescr: 
+ExtendedDescr: Series. Stand-up performances by comedians. (CC) 
+
+wSat: 2780
+wNetId: 256
+wSId: 161
+wEventId: 22291
+dwStartTime: 1218510000
+dwDuration: 3600
+EventName: Strip Club: Rome et Marrakech
+ShortDescr: 
+ExtendedDescr: Séries. Un véritable traitement VIP! (nudité, érotisme).  (2008) Strip Club vous fait visiter Rome et Marrakesh à travers 2 des clubs de strip-teaseurs les plus chauds au monde!(42340) (Stereo)
+
+wSat: 2780
+wNetId: 256
+wSId: 161
+wEventId: 22292
+dwStartTime: 1218513600
+dwDuration: 3600
+EventName: Strip Club: Rome et Marrakech
+ShortDescr: 
+ExtendedDescr: Séries. Un véritable traitement VIP! (nudité, érotisme).  (2008) Strip Club vous fait visiter Rome et Marrakesh à travers 2 des clubs de strip-teaseurs les plus chauds au monde!(42341) (Stereo)
+
+wSat: 2780
+wNetId: 256
+wSId: 256
+wEventId: 24134
+dwStartTime: 1218510000
+dwDuration: 3600
+EventName: Gossip Girl
+ShortDescr: 
+ExtendedDescr: All About My Brother
+ Series. Blake Lively, Leighton Meester, Chance Crawford. Georgina (Michelle Trachtenberg) threatens to reveal information from Serena's past (CC)  (Stereo)
+
+OnClose()
