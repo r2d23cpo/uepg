@@ -1,0 +1,9 @@
+LIBRARY	"uEPG"
+EXPORTS
+OnGetModuleInfo
+OnInit
+OnClose
+OnShow
+AfterChannelChange
+BeforeChannelChange
+OnDDEvent
